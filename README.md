@@ -23,6 +23,10 @@ Bleiben Sie konform und sparen Sie Zeit mit unserer benutzerfreundlichen und eff
 
 Die E-Rechnung-Erweiterung wird in `2 Installationen` unterteilt. Die Netzwerk-Installation und die Client-Installation. Die Netzwerkinstallation stellt sicher, dass alle Clients dieselbe Version verwenden.
 
+> [!NOTE]
+> Nach dem Download muss die Datei ggf. als sicher eingestuft werden. <img src="docs/Zulassen.png" alt="Zulassen"/> 
+
+ 
 1. Installieren Sie die E-Rechnung-Erweiterung `E-Rechnung.Installer.msi` in Ihr cobra Systemverzeichnis.
    <img src="docs/System_Installation.png" alt="Installation"/>
 2. Installieren Sie danach das ClientSetup `E-Rechnung.ClientSetup.64.msi` auf dem gewünschten Client.
