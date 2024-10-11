@@ -2,11 +2,8 @@ Erste Schritte
 
 # cobra E-Rechnung 
 
-Das cobra CRM AddOn zur Generierung von E-Rechnung (ZUGFeRD) bietet eine nahtlose Integration des E-Rechnungsmoduls. 
-
-Zum Jahresende profitieren cobra Vertragskunden vom brandneuen und vollständig integrierten E-Rechnungsmodul. User von cobra ADRESS PLUS können den E-Rechnungs-Viewer nutzen, um E-Rechnungen komfortabel zu lesen und digital abzulegen. Mit cobra CRM erstellen und versenden cobra Kunden ihre E-Rechnungen – blitzschnell und einfach, sowohl einzeln als auch im Serienversand.
-
-Bleiben Sie konform und sparen Sie Zeit mit unserer benutzerfreundlichen und effizienten Lösung!
+Ab dem 1. Januar 2025 sind Unternehmen im B2B-Bereich verpflichtet, elektronische Rechnungen (E-Rechnungen) auszustellen. Mit der E-Rechnung-Erweiterung für cobra CRM können Sie schnell und einfach gesetzeskonforme E-Rechnungen erstellen. Individuell gestaltete Rechnungsdokumente lassen sich aus eigenen Microsoft Word-Vorlagen im ZUGFeRD-Format an Kunden versenden, um den gesetzlichen Anforderungen gerecht zu werden.
+ 
  
 * ### [Allgemein](./Allgemeines.md)
 
