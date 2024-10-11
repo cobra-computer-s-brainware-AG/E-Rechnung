@@ -41,3 +41,15 @@ beteiligt. Daraus leitet sich auch der Name ab .
 Die Abkürzung ZUGFeRD bedeutet: „Zentraler
 User Guide des Forums elektronische Rechnung.
 </details>
+
+<details>
+<summary>Ihre Vorteile</summary>
+ 
+* Einfachere Rechnungsstellung dank klarer und eindeutiger Standards
+ 
+* Weniger Fehler dank automatischer Validierung der Rechnung
+  
+* Mehr Transparenz durch Einsehen des Bearbeitungssta
+  
+* Ortsunabhängige, schnelle und zuverlässige Übermittlung der Rechnung
+</details>
