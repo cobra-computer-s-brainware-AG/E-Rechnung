@@ -1,7 +1,7 @@
 # cobra E-Rechnung 
  
-* ### [Kurzanleitung](./Kurzanleitung/Readme.md)
+* ### [Kurzanleitung](./Kurzanleitung/README.md)
 
-* ### [Erste Schritte](./Erste-Schritte/Readme.md)
+* ### [Erste Schritte](./Erste-Schritte/README.md)
  
  
