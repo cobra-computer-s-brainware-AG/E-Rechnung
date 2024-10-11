@@ -1,4 +1,4 @@
-# cobra E-Rechnung (ZUGFeRD)
+# cobra E-Rechnung 
  
 * ### [Allgemein](./Allgemeines.md)
 
