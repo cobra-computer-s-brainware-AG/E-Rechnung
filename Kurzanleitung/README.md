@@ -29,17 +29,17 @@ Die E-Rechnung-Erweiterung wird in `2 Installationen` unterteilt. Die Netzwerk-I
 > [!NOTE]
 > Nach dem Download muss die Datei ggf. als sicher eingestuft werden.
 > 
-> <img src="docs/Zulassen.png" alt="Zulassen" Height="400"/> 
+> <img src="/docs/Zulassen.png" alt="Zulassen" Height="400"/> 
 
  
 1. Installieren Sie die E-Rechnung-Erweiterung `E-Rechnung.Installer.msi` in Ihr cobra Systemverzeichnis.
-   <img src="docs/System_Installation.png" alt="Installation"/>
+   <img src="/docs/System_Installation.png" alt="Installation"/>
 2. Installieren Sie danach das ClientSetup `E-Rechnung.ClientSetup.64.msi` auf dem gewünschten Client.
-   <img src="docs/Installation.png" alt="Installation"/> 
+   <img src="/docs/Installation.png" alt="Installation"/> 
 4. Nach erfolgreicher Installation erscheint in Ihrem cobra CRM der Reiter `E-Rechnung`.
-   <img src="docs/Ribbon.png" alt="Ribbon"/> 
+   <img src="/docs/Ribbon.png" alt="Ribbon"/> 
 5. Für Testzwecke empfehlen wir, die automatische Generierung der Datenbankstruktur zu nutzen, bevor Sie mit der individuellen Konfiguration starten. Dies wird beim ersten Klick auf `Einstellungen` angeboten.
-   <img src="docs/Datenbankstruktur.png" alt="Datenbankstruktur" /> 
+   <img src="/docs/Datenbankstruktur.png" alt="Datenbankstruktur" /> 
    - Zusätzlich zur Datenbankstruktur werden Demodaten, Demo-Format, Demoansicht und ein Demo-Serien-E-Mail-Format angelegt. So können Sie direkt mit dem Testen beginnen. 
 6. Nach der Generierung müssen Sie cobra neu starten.
 7. Abschließend konfigurieren Sie das Dokumentenfeld in der Rechnungstabelle gemäß Ihren Schlagwörtern.
@@ -73,8 +73,8 @@ Die Elterntabelle besteht aus einem einzelnen Datensatz, der die Rechnungsadress
 Die Kindtabelle hingegen kann mehrere Datensätze enthalten, die jeweils einzelnen Positionen der zugehörigen Rechnungstabelle darstellen, die in der Rechnung aufgeführt sind. 
 
 <p align="center">
-<img src="docs/ERD-light.svg#gh-light-mode-only" alt="ERD" Height="300" />
-<img src="docs/ERD-dark.svg#gh-dark-mode-only" alt="ERD" Height="300" />
+<img src="/docs/ERD-light.svg#gh-light-mode-only" alt="ERD" Height="300" />
+<img src="/docs/ERD-dark.svg#gh-dark-mode-only" alt="ERD" Height="300" />
 </p>
 
 Zur Erstellung einer E-Rechnung werden zwei Word-Vorlagen benötigt: Eine Hauptvorlage, die die Adress- und Rechnungstabellen enthält, sowie eine Untervorlage, die für die Positionstabelle verwendet wird.  
@@ -82,8 +82,8 @@ Für jeden Kind-Datensatz wird automatisch eine Tabelle basierend auf der Unterv
 Die `Umsatzsteuer` wird in der Hauptvorlage automatisch für jeden Steuerschlüssel erweitert.  
 
 <p align="center">
-<img src="docs/Template-ligh.svgt#gh-light-mode-only" alt="Template" Height="400" />
-<img src="docs/Template-dark.svg#gh-dark-mode-only" alt="Template" Height="400" />
+<img src="/docs/Template-ligh.svgt#gh-light-mode-only" alt="Template" Height="400" />
+<img src="/docs/Template-dark.svg#gh-dark-mode-only" alt="Template" Height="400" />
 </p>
 
 ## Platzhalter
