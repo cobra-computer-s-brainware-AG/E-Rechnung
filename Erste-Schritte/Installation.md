@@ -12,7 +12,7 @@ Die Installation des E-Rechnung-Moduls gliedert sich in zwei Schritte:
 
 Durch die Netzwerk-Installation wird garantiert, dass jeder Benutzer dieselbe Version verwendet.
 
-> [!NOTE]
+> [!IMPORTANT]
 > Nach dem Download muss die Datei ggf. als sicher eingestuft werden.
 > 
 > <img src="/docs/Zulassen.png" alt="Zulassen" Height="400"/> 
