@@ -25,4 +25,4 @@ Nach erfolgreicher Erstellung können Sie die E-Rechnungen als [Serien-E-Mail](h
 
 ##
 
-[Nächste](./Allgemeines.md) 
+[Nächste](./README.md) 
