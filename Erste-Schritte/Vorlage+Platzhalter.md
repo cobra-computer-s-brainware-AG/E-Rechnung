@@ -10,8 +10,8 @@ Die Elterntabelle besteht aus einem einzelnen Datensatz, der die Rechnungsadress
 Die Kindtabelle hingegen kann mehrere Datensätze enthalten, die jeweils einzelnen Positionen der zugehörigen Rechnungstabelle darstellen, die in der Rechnung aufgeführt sind. 
 
 <p align="center">
-<img src="docs/ERD-light.svg#gh-light-mode-only" alt="ERD" Height="300" />
-<img src="docs/ERD-dark.svg#gh-dark-mode-only" alt="ERD" Height="300" />
+<img src="/docs/ERD-light.svg#gh-light-mode-only" alt="ERD" Height="300" />
+<img src="/docs/ERD-dark.svg#gh-dark-mode-only" alt="ERD" Height="300" />
 </p>
 
 ## Vorlage
@@ -21,8 +21,8 @@ Für jeden Kind-Datensatz wird automatisch eine Tabelle basierend auf der Unterv
 Die `Umsatzsteuer` wird in der Hauptvorlage automatisch für jeden Steuerschlüssel erweitert.  
 
 <p align="center">
-<img src="docs/Template-ligh.svgt#gh-light-mode-only" alt="Template" Height="400" />
-<img src="docs/Template-dark.svg#gh-dark-mode-only" alt="Template" Height="400" />
+<img src="/docs/Template-ligh.svgt#gh-light-mode-only" alt="Template" Height="400" />
+<img src="/docs/Template-dark.svg#gh-dark-mode-only" alt="Template" Height="400" />
 </p>
 
 ## Platzhalter
