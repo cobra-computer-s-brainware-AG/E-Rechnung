@@ -5,7 +5,7 @@ Erste Schritte
 > [!TIP]
 > Für Testzwecke empfehlen wir, zunächst die automatische Generierung der Datenbankstruktur zu nutzen, bevor Sie mit der individuellen Konfiguration beginnen. Diese Option wird Ihnen beim ersten Klick auf `Einstellungen` angeboten.
 >  
-> <img src="docs/Datenbankstruktur.png" alt="Datenbankstruktur" height="150"/> 
+> <img src="/docs/Datenbankstruktur.png" alt="Datenbankstruktur" height="150"/> 
 > 
 > - Zusätzlich zur Datenbankstruktur werden Demodaten, ein Demo-Format, eine Demoansicht und ein Demo-Serien-E-Mail-Format angelegt. So können Sie direkt mit dem Testen beginnen.
 > 
@@ -22,7 +22,7 @@ In diesem Kapitel wird beschrieben, wie Sie eine individuelle Konfiguration vorn
 
 Um ein neues Format zu erstellen, klicken Sie bei `Format` auf das Pluszeichen (+).
 
-<img src="docs/Neu.png" alt="Neu"/> 
+<img src="/docs/Neu.png" alt="Neu"/> 
 
 - Geben Sie dem Format einen Namen. 
 - Wenn Sie die Einstellungen des aktuellen Formats übernehmen möchten, können Sie es duplizieren.
@@ -32,13 +32,13 @@ Um ein neues Format zu erstellen, klicken Sie bei `Format` auf das Pluszeichen (
 
 Um ein Format zu löschen, klicken Sie bei `Format` auf das X-Symbol (X).
 
-<img src="docs/Löschen.png" alt="Löschen"/> 
+<img src="/docs/Löschen.png" alt="Löschen"/> 
 
 - Bestätigen Sie Ihre Eingabe mit `Ja`.
 
 ## Allgemein
 
-<img src="docs/Allgemein.png" alt="Allgemein"/> 
+<img src="/docs/Allgemein.png" alt="Allgemein"/> 
 
 Feld | Beschreibung |
 :-- | :--
@@ -54,7 +54,7 @@ Bemerkung | Hier können Sie rechnungserklärende Bemerkungen einfügen.
 
 ## Dokument
 
-<img src="docs/Dokument.png" alt="Dokument"/> 
+<img src="/docs/Dokument.png" alt="Dokument"/> 
 
 Feld | Beschreibung |
 :-- | :--
@@ -65,7 +65,7 @@ Positionsvorlage* | Wählen Sie hier eine Positionsvorlage.
 
 ## Verkäufer
 
-<img src="docs/Verkäufer.png" alt="Verkäufer"/> 
+<img src="/docs/Verkäufer.png" alt="Verkäufer"/> 
 
 Feld | Beschreibung 
 :-- | :-- |  
@@ -82,7 +82,7 @@ Ansprechpartner | Geben Sie hier den Namen der Ansprechperson bei Rückfragen an
 
 ## Käufer
 
-<img src="docs/Käufer.png" alt="Käufer"/> 
+<img src="/docs/Käufer.png" alt="Käufer"/> 
 
 Feld | Beschreibung 
 :-- | :-- | 
@@ -100,7 +100,7 @@ XRechnung | Reines XML-Format, das den Anforderungen der europäischen Norm EN 1
 
 ## Position
 
-<img src="docs/Position.png" alt="Position"/> 
+<img src="/docs/Position.png" alt="Position"/> 
 
 Feld | Beschreibung 
 :-- | :-- | 
@@ -118,7 +118,7 @@ Nachlassgrund | Geben Sie hier den Grund für den Nachlass ein.
 
 ## Zahlungsdaten
 
-<img src="docs/Zahlungsdaten.png" alt="Zahlungsdaten"/> 
+<img src="/docs/Zahlungsdaten.png" alt="Zahlungsdaten"/> 
 
 Feld | Beschreibung 
 :-- | :-- | 
@@ -133,13 +133,13 @@ Vorauszahlung | Geben Sie hier die Summe der bereits gezahlten Beträge ein.
 
 ## Filter
 
-<img src="docs/Filter.png" alt="Filter"/> 
+<img src="/docs/Filter.png" alt="Filter"/> 
 
 Hier können Sie einen frei wählbaren Filter konfigurieren.
 
 ## Kontakteintrag
 
-<img src="docs/Kontakteintrag.png" alt="Kontakteintrag"/> 
+<img src="/docs/Kontakteintrag.png" alt="Kontakteintrag"/> 
 
 Feld | Beschreibung 
 :-- | :-- | 
@@ -152,9 +152,9 @@ Bemerkung | Hier können Sie eine Bemerkung zum Kontakteintrag hinzufügen. Sie 
 > [!NOTE]
 > Der Menüpunkt `Datenschutz` wird nur angezeigt, wenn die Abfrage der Personenbezogenen Daten aktiviert ist. Hier können Sie einen festen Wert hinterlegen. Wenn kein Wert hinterlegt wird, erfolgt vor jeder Generierung eine Abfrage zur Datenweitergabe.
 > 
-> Weitere Information zu Datenschutz und [Personenbezogenen Daten](https://systemverwalter.cobra-hilfe.de/docs/datenschutz) finden Sie hier.
+> Weitere Information zu Datenschutz und [Personenbezogenen Daten](https://systemverwalter.cobra-hilfe.de//docs/datenschutz) finden Sie hier.
 
-<img src="docs/Datenschutz.png" alt="Datenschutz"/> 
+<img src="/docs/Datenschutz.png" alt="Datenschutz"/> 
 
 Feld | Beschreibung 
 :-- | :-- | 
