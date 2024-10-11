@@ -7,7 +7,7 @@ Nach erfolgreicher Installation, erscheint in Ihrem cobra CRM das E-Rechnung-Men
 - Starten Sie cobra CRM
 - Klicken Sie auf den Reiter `E-Rechnung`.
 
-<img src="docs/Ribbon.png" alt="Menüband"/> 
+<img src="/docs/Ribbon.png" alt="Menüband"/> 
 
 Funktion | Beschreibung |
 :-- | :-- |
