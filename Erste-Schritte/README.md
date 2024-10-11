@@ -23,4 +23,24 @@ Bleiben Sie konform und sparen Sie Zeit mit unserer benutzerfreundlichen und eff
 * ### [Einzelrechnung](./Einzelrechnung.md)
 
 * ### [Serienrechnung](./Serienrechnung.md)
+
+### Mehr
  
+<details>
+<summary>Was ist ZUGFeRD und was bedeutet die Abkürzung?</summary>
+Das ZUGFeRD-Format ist ein hybrides Rechnungsformat
+aus einem menschenlesbaren PDF und einem
+maschinenlesbaren Anhang mit strukturierten
+Daten im XML-Format. In beiden Datei-Elementen
+sind die Rechnungsdaten vorhanden.
+
+Bei ZUGFeRD handelt es sich um ein gesetz eskonformes,
+übergreifendes E-Rechnungsformat,
+das als Standard erstmalig 2014 veröffentlicht
+wurde. An seiner Entwicklung waren unterschiedliche
+Verbände, Unternehmen, Ministerien
+und das „Forum elektronische Rechnung“ (FeRD)
+beteiligt. Daraus leitet sich auch der Name ab .
+Die Abkürzung ZUGFeRD bedeutet: „Zentraler
+User Guide des Forums elektronische Rechnung.
+</details>
