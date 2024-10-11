@@ -1,6 +1,8 @@
 Erste Schritte
 
 # Allgemeines
+
+Ihre E-Rechnung in korrekter Form erstellt – ganz einfach mit cobra.
  
 ## Kompatibel
 
