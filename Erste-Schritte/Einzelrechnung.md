@@ -16,7 +16,7 @@ Klicken Sie im Menüband auf `Einzelrechnung`, um eine Einzelrechnung zu generie
 
 <img src="/docs/Erstellt.png" alt="Erstellt"/>
 
-Nach erfolgreicher Erstellung können Sie die E-Rechnung per E-Mail mit Vorlage oder als [Serien-E-Mail](https://systemverwalter.cobra-hilfe.de//docs/kurzanleitung#serienmail-assistent) an den Rechnungsempfänger versenden.
+Nach erfolgreicher Erstellung können Sie die E-Rechnung per E-Mail mit Vorlage oder als [Serien-E-Mail](https://systemverwalter.cobra-hilfe.de/docs/kurzanleitung#serienmail-assistent) an den Rechnungsempfänger versenden.
 
 ##
 
