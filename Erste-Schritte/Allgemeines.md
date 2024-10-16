@@ -11,6 +11,8 @@ Ihre E-Rechnung in korrekter Form erstellt – ganz einfach mit cobra.
 | Viewer | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | E-Rechnung | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:* | :x: |
 
+> [!NOTE]
+> CRM PLUS unterstützt keine freien Tabellen, keine Beziehungsfelder, keine Kopierregel ect. die vorteilhaft sein könnten, zb. für Artikelstamm.
 
 ## Datenbankstruktur
 
