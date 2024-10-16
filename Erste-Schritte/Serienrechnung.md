@@ -16,7 +16,7 @@ Klicken Sie im Menüband auf `Serienrechnung`, um mehrere Einzelrechnungen zu ge
 
 <img src="/docs/Erstellt4.png" alt="Erstellt"/>
 
-Nach erfolgreicher Erstellung können Sie die E-Rechnungen als [Serien-E-Mail](https://systemverwalter.cobra-hilfe.de//docs/kurzanleitung#serienmail-assistent) an die Rechnungsempfänger versenden.
+Nach erfolgreicher Erstellung können Sie die E-Rechnungen als [Serien-E-Mail](https://systemverwalter.cobra-hilfe.de/docs/kurzanleitung#serienmail-assistent) an die Rechnungsempfänger versenden.
 
 > [!TIP]
 > Verwenden Sie dazu den Filter `Letzte Serienrechnung` aus der Filterliste, der die letzte Serienrechnung enthält. Alternativ können Sie auch einen Freien Filter nach Ihren Kriterien erstellen.
