@@ -9,7 +9,7 @@ Erste Schritte
 > 
 > - Zusätzlich zur Datenbankstruktur werden Demodaten, ein Demo-Format, eine Demoansicht und ein Demo-Serien-E-Mail-Format angelegt. So können Sie direkt mit dem Testen beginnen.
 > 
-> - Ab CRM PRO kann die automatisch generierte Positionstabelle über ein Beziehungsfeld mit einer Artikeltabelle (Freientabelle) verknüpft werden. Optional lässt sich eine einfache Kopierregel erstellen.
+> - Ab CRM PRO kann die automatisch generierte Positionstabelle über ein Beziehungsfeld mit einer Artikeltabelle (Freientabelle) verknüpft werden.
 > 
 >   <img src="/docs/Artikeltabelle.png" alt="Artikeltabelle.png" height="150"/> 
 > 
@@ -19,6 +19,7 @@ Erste Schritte
 > 
 >   - Wählen Sie die gewünschte Artikeltabelle aus.
 >   - Ordnen Sie die gewünschten Felder der Artikeltabelle der Positionstabelle zu.
+>   - Bestätigen Sie Ihre Eingabe mit `OK`.
 > 
 > - Nach der automatischen Generierung müssen Sie cobra neu starten.
 > 
