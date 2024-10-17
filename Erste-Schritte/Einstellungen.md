@@ -86,7 +86,7 @@ Ansprechpartner | Geben Sie hier den Namen der Ansprechperson bei Rückfragen an
 
 Feld | Beschreibung 
 :-- | :-- | 
-Verknüpfung* | Wählen Sie hier die Beziehung zur Adresse. 
+Käufer* | Wählen Sie hier die Beziehung zur Adresse. 
 Unternehmen* | Geben Sie hier den Namen des Käufers ein, mit dem er im Handelsregister eingetragen oder als steuerpflichtige Person registriert ist.
 Adresse* | Geben Sie hier Straße und Hausnummer der Postanschrift des Käufers ein.
 PLZ* | Geben Sie hier die Postleitzahl der Postanschrift des Käufers ein.
