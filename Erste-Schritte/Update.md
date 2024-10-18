@@ -2,7 +2,7 @@ Erste Schritte
 
 # Update
  
-Bei einem Update muss nur die Netzwerk-Installation aktualisert werden. Die Client müssen nicht aktualisiert werden. 
+Bei einem Update muss nur die Netzwerk-Installation aktualisert werden. Die Client-Installation müssen nicht aktualisiert werden. 
  
 > [!IMPORTANT]
 > Nach dem Download muss die Datei ggf. als sicher eingestuft werden.
