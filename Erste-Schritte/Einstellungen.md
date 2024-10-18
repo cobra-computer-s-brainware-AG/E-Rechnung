@@ -2,6 +2,8 @@ Erste Schritte
 
 # Einstellungen 
 
+## automatische Konfiguration
+
 > [!TIP]
 > Für Testzwecke empfehlen wir, zunächst die automatische Generierung der Datenbankstruktur zu nutzen, bevor Sie mit der individuellen Konfiguration beginnen. Diese Option wird Ihnen beim ersten Klick auf `Einstellungen` angeboten.
 >  
