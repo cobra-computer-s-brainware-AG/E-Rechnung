@@ -11,7 +11,7 @@
 
 * ### NEU: Artikelstamm und Kopierregel
   Ab CRM PRO kann bei der automatischen Datenbankgenerierung die Positionstabelle über ein Beziehungsfeld mit einer Artikeltabelle (Freientabelle) verknüpft werden.  
-  Optional kann eine einfache Kopierregel definiert werden.  
+  Optional kann eine einfache Kopierregel erstellt werden.  
   [automatische Generierung](/Erste-Schritte/Einstellungen.md#automatische-generierung)
 
 * ### Kontakteintrag
