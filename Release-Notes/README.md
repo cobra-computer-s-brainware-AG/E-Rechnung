@@ -2,8 +2,6 @@
  
 ## Beta 7 
 
-* ### Diverse Bugfixes
-
 * ### NEU: Rechnungsempfänger (abweichender Käufer)
   In den Einstellungen unter `Käufer` kann jetzt ein abweichender Rechnungsempfänger konfiguriert werden.
 
@@ -17,4 +15,6 @@
   [automatische Generierung](/Erste-Schritte/Einstellungen.md#automatische-generierung)
 
 * ### Rechnungsnummer
-  In den Einstellungen unter `Allgemein` kann nun auch ein virtuelles Feld für die Rechnungsnummer ausgewählt werden. 
+  In den Einstellungen unter `Allgemein` kann nun auch ein virtuelles Feld für die Rechnungsnummer ausgewählt werden.
+
+* ### Diverse Bugfixes
