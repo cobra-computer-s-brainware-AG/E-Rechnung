@@ -1,4 +1,7 @@
 # Release Notes | E-Rechnung
+
+> [!NOTE]
+> Die Anleitung für das Update finden Sie [hier](/Erste-Schritte/Update.md)
  
 ## Beta 7 
 
