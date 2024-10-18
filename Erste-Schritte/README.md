@@ -21,6 +21,8 @@ Ab dem 1. Januar 2025 sind Unternehmen im B2B-Bereich verpflichtet, elektronisch
 
 * ### [Serienrechnung](./Serienrechnung.md)
 
+* ### [Update](./Update.md)
+
 ### Mehr
 
 
