@@ -25,7 +25,7 @@ Erste Schritte
 > 
 > - Nach der automatischen Generierung müssen Sie cobra neu starten.
 > 
-> - Abschließend konfigurieren Sie das Dokumentenfeld in der Rechnungstabelle gemäß Ihren Schlagwörtern.
+> - Zum Schluss konfigurieren Sie die Verkäuferdaten, Zahlungsdetails und das Dokumentenfeld in der Rechnungstabelle gemäß Ihren Schlagwörtern.
 >   - Optional können Sie [Eingabemasken](https://eingabemasken.cobra-hilfe.de/), Ansichten, Kopierregeln und Anzeigeformat an Ihre Ansprüche anpassen.
  
 ## individuelle Konfiguration
