@@ -6,7 +6,7 @@
 ## Beta 7 
 
 * ### NEU: Rechnungsempfänger (abweichender Käufer)
-  In den Einstellungen unter `Käufer` kann jetzt ein abweichender Rechnungsempfänger konfiguriert werden.  
+  In den Einstellungen unter `Käufer` kann jetzt ein Rechnungsempfänger (abweichender Käufer) konfiguriert werden.  
   [Käufer](/Erste-Schritte/Einstellungen.md#käufer)
 
 * ### NEU: Artikelstamm und Kopierregel
@@ -15,7 +15,7 @@
   [automatische Generierung](/Erste-Schritte/Einstellungen.md#automatische-generierung)
 
 * ### Kontakteintrag
-  Der Kontakteintrag wird sowohl beim Käufer als auch bei der Rechnungsadresse hinterlegt.
+  Der Kontakteintrag wird sowohl beim Käufer als auch bei der Rechnungsempfänger hinterlegt.
  
 * ### Rechnungsnummer
   In den Einstellungen unter `Allgemein` kann nun auch ein virtuelles Feld für die Rechnungsnummer ausgewählt werden.
