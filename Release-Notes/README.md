@@ -6,7 +6,8 @@
 ## Beta 8
 
 * ### NEU: Variable für Verkäufer-Ansprechperson
-  In den Einstellungen unter `Verkäufer` kann nun auch die Variable `{CurUserName}` als cobra-Benutzername verwendet werden. 
+  In den Einstellungen unter `Verkäufer` kann nun auch die Variable `{CurUserName}` als cobra-Benutzername verwendet werden.  
+  [Verkäufer](/Erste-Schritte/Einstellungen.md#verkäufer)
  
 * ### Diverse Bugfixes
   Beim Erstellen der Kopierregel für die Artikeltabelle kann jetzt auch ein leeres Feld zugewiesen werden.
