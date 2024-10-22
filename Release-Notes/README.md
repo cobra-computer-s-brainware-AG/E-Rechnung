@@ -2,6 +2,15 @@
 
 > [!NOTE]
 > Die Anleitung für das Update finden Sie [hier](/Erste-Schritte/Update.md)
+
+## Beta 8
+
+* ### NEU: Variable für Verkäufer-Ansprechperson
+  In den Einstellungen unter `Verkäufer` kann nun auch die Variable `{CurUserName}` als cobra-Benutzername verwendet werden. 
+ 
+* ### Diverse Bugfixes
+  Beim Erstellen der Kopierregel für die Artikeltabelle kann jetzt auch ein leeres Feld zugewiesen werden.
+
  
 ## Beta 7 
 
