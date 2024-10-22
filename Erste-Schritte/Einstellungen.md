@@ -94,6 +94,9 @@ USt-IdNr* | Geben Sie hier die Umsatzsteuer-Identifikationsnummer (ID) des Verk�
 Steuernummer* | Geben Sie hier die Steuernummer oder den eingetragenen Steuerstatus des Verkäufers ein, z. B. die Umsatzsteuerbefreiung.
 Ansprechpartner | Geben Sie hier den Namen der Ansprechperson bei Rückfragen an den Verkäufer ein.
 
+> [!NOTE]
+> Für Verkäufer-Ansprechpartner können Sie auch den cobra-Benutzernamen verwenden. Stellen Sie sicher, dass die Benutzerverwaltung in cobra entsprechend gepflegt ist. Verwenden Sie diesen Benutzernamen hier für den entsprechenden Knopf im Feld.
+
 ## Käufer
 
 <img src="/docs/Käufer.png" alt="Käufer"/> 
