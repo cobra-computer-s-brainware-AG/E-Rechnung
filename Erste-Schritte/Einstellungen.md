@@ -2,6 +2,8 @@ Erste Schritte
 
 # Einstellungen 
 
+## automatische Generierung
+
 > [!TIP]
 > Für Testzwecke empfehlen wir, zunächst die automatische Generierung der Datenbankstruktur zu nutzen, bevor Sie mit der individuellen Konfiguration beginnen. Diese Option wird Ihnen beim ersten Klick auf `Einstellungen` angeboten.
 >  
@@ -9,10 +11,22 @@ Erste Schritte
 > 
 > - Zusätzlich zur Datenbankstruktur werden Demodaten, ein Demo-Format, eine Demoansicht und ein Demo-Serien-E-Mail-Format angelegt. So können Sie direkt mit dem Testen beginnen.
 > 
+> - Ab CRM PRO kann die automatisch generierte Positionstabelle über ein Beziehungsfeld mit einer Artikeltabelle (Freientabelle) verknüpft werden.
+> 
+>   <img src="/docs/Artikeltabelle.png" alt="Artikeltabelle.png" height="150"/> 
+> 
+> - Optional lässt sich eine einfache Kopierregel zusammenstellen.
+>
+>   <img src="/docs/Kopierregel.png" alt="Kopierregel" /> 
+> 
+>   - Wählen Sie die gewünschte Artikeltabelle aus.
+>   - Ordnen Sie die gewünschten Felder der Artikeltabelle der Positionstabelle zu.
+>   - Bestätigen Sie Ihre Eingabe mit `OK`.
+> 
 > - Nach der automatischen Generierung müssen Sie cobra neu starten.
 > 
-> - Abschließend konfigurieren Sie das Dokumentenfeld in der Rechnungstabelle gemäß Ihren Schlagwörtern.
->   - Optional können Sie [Eingabemasken](https://eingabemasken.cobra-hilfe.de/), Ansichten und Anzeigeformat an Ihre Ansprüche anpassen.
+> - Zum Schluss konfigurieren Sie die Verkäuferdaten, Zahlungsdetails und das Dokumentenfeld in der Rechnungstabelle gemäß Ihren Schlagwörtern.
+>   - Optional können Sie [Eingabemasken](https://eingabemasken.cobra-hilfe.de/), Ansichten, Kopierregeln und Anzeigeformat an Ihre Ansprüche anpassen.
  
 ## individuelle Konfiguration
 
@@ -86,7 +100,7 @@ Ansprechpartner | Geben Sie hier den Namen der Ansprechperson bei Rückfragen an
 
 Feld | Beschreibung 
 :-- | :-- | 
-Verknüpfung* | Wählen Sie hier die Beziehung zur Adresse. 
+Käufer* | Wählen Sie hier die Beziehung zum Käufer. 
 Unternehmen* | Geben Sie hier den Namen des Käufers ein, mit dem er im Handelsregister eingetragen oder als steuerpflichtige Person registriert ist.
 Adresse* | Geben Sie hier Straße und Hausnummer der Postanschrift des Käufers ein.
 PLZ* | Geben Sie hier die Postleitzahl der Postanschrift des Käufers ein.
@@ -97,6 +111,7 @@ Ansprechpartner | Geben Sie hier den Namen der Ansprechperson bei Rückfragen an
 Telefonnummer | Geben Sie hier die Telefonnummer der Ansprechperson ein.
 Leitweg-ID | Geben Sie hier die Leitweg-ID des Käufers ein. Pflicht für behördliche Rechnungen, bei B2B Rechnungen optional.
 XRechnung | Reines XML-Format, das den Anforderungen der europäischen Norm EN 16931 entspricht.
+Rechnungsempfänger | Wählen Sie hier die Beziehung zum Rechnungsempfänger.
 
 ## Position
 
