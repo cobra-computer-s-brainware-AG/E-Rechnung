@@ -10,6 +10,8 @@
  
 * ### Diverse Bugfixes
   Beim Erstellen der Kopierregel für die Artikeltabelle kann jetzt auch ein leeres Feld zugewiesen werden.
+  
+  Verbesserte Fehlermeldung, wenn Platzhalter in der Word-Vorlage nicht gefunden werden.
 
  
 ## Beta 7 
