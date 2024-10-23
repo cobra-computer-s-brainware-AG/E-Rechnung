@@ -12,7 +12,7 @@
 * ### Diverse Bugfixes
   Beim Erstellen der Kopierregel für die Artikeltabelle kann jetzt auch ein leeres Feld zugewiesen werden.
 
-  Membership wurde korrigiert, und der Filter auf den aktuellen Datensatz wurde entfernt. 
+  FK1 Membership wurde korrigiert, und der Filter auf den aktuellen Datensatz wurde entfernt. 
   
   Verbesserte Fehlermeldung, wenn Platzhalter in der Word-Vorlage nicht gefunden werden.
 
