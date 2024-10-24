@@ -5,6 +5,16 @@
 
 ## Beta 8
 
+* ### NEU: Kontakt anlegen 
+  In den Einstellungen unter `Kontakteintrag` kann nun festgelegt werden, ob ein Kontakteintrag erstellt werden soll.   
+  [Kontakteintrag](/Erste-Schritte/Einstellungen.md#kontakteintrag)
+
+* ### NEU: Erweiterte Feldauswahl für Position
+  Für `Menge` steht neu der Typ `Rechenfeld` und für `Detailbeschreibung` der Typ `Bemerkung` zur Auswahl.
+
+* ### NEU: Lieferdatum Pflichtfeld
+  Das Feld Lieferdatum wird zum Pflichtfeld.
+
 * ### NEU: Variable für Verkäufer-Ansprechperson
   In den Einstellungen unter `Verkäufer` kann nun auch die Variable `{CurUserName}` als cobra-Benutzername verwendet werden.  
   [Verkäufer](/Erste-Schritte/Einstellungen.md#verkäufer)
@@ -16,6 +26,9 @@
   
   Verbesserte Fehlermeldung, wenn Platzhalter in der Word-Vorlage nicht gefunden werden.
 
+  Das Fälligkeitsdatum ist jetzt kein Pflichtfeld mehr.
+
+  Das Rechnungsdatum wird vor der Generierung validiert.
  
 ## Beta 7 
 
