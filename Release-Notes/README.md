@@ -29,6 +29,8 @@
   Das Fälligkeitsdatum ist jetzt kein Pflichtfeld mehr.
 
   Das Rechnungsdatum wird vor der Generierung validiert.
+
+  UI-Anpassungen in den Einstellungen beim Speichern.
  
 ## Beta 7 
 
