@@ -161,6 +161,7 @@ Hier können Sie einen frei wählbaren Filter konfigurieren.
 
 Feld | Beschreibung 
 :-- | :-- | 
+Kontakt anlegen | Soll automatisch ein Kontakt angelegt werden, klicken Sie die Option `Kontakt anlegen` an.
 Art* | Wählen Sie hier die Art des Kontakteintrags
 Gruppe* | Wählen Sie hier die Gruppe des Kontakteintrags
 Bemerkung | Hier können Sie eine Bemerkung zum Kontakteintrag hinzufügen. Sie können dafür alle Platzhalter für Rechnung, Adresse und System verwenden. Wenn das Feld leer bleibt, wird automatisch der Name des Formats sowie die Rechnungsnummer eingetragen. 
