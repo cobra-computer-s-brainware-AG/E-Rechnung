@@ -99,6 +99,7 @@ Platzhalter | Wert
 {CurUserName} | cobra Benutzername
 {CurUserShortName} | cobra Kürzel
 {Unternehmen} | Unternehmen
+{Ansprechpartner} | Ansprechpartner
 {Adresse} | Adresse
 {PLZ} | PLZ
 {Ort} | Ort
