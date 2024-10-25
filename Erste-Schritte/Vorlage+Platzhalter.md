@@ -47,6 +47,7 @@ Platzhalter | Wert
 {IBAN} | IBAN
 {BIC} | BIC
 {Ust-IdNr} | Ust-IdNr
+{Steuernummer} | Steuernummer
 {Währung} | Währung
 {Warenwert} | Positionssumme
 {Netto} | Rechnungssumme ohne USt.
