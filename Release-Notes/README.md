@@ -19,7 +19,7 @@
   In den Einstellungen unter `Verkäufer` kann nun auch die Variable `{CurUserName}` als cobra-Benutzername verwendet werden.   
   [Verkäufer](/Erste-Schritte/Einstellungen.md#verkäufer)
 
-* ### NEU: SystemPlatzhalter
+* ### NEU: Weitere Systemplatzhalter
   Neu können die Systemplatzhalter `{Steuernummer}` und `{Ansprechpartner}` in der Word-Vorlage verwendet werden. Somit sind alle Verkäufer Felder als Platzhalter verfügbar.   
   [Platzhalter](/Erste-Schritte/Vorlage+Platzhalter.md#platzhalter)
  
