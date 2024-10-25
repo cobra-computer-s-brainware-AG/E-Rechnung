@@ -16,7 +16,7 @@
   Das Feld Lieferdatum wird zum Pflichtfeld.
 
 * ### NEU: Variable für Verkäufer-Ansprechperson
-  In den Einstellungen unter `Verkäufer` kann nun auch die Variable `{CurUserName}` als cobra-Benutzername verwendet werden. 
+  In den Einstellungen unter `Verkäufer` kann nun auch die Variable `{CurUserName}` als cobra-Benutzername verwendet werden.   
   [Verkäufer](/Erste-Schritte/Einstellungen.md#verkäufer)
 
 * ### NEU: SystemPlatzhalter
