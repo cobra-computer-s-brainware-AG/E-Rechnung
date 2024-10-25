@@ -16,8 +16,12 @@
   Das Feld Lieferdatum wird zum Pflichtfeld.
 
 * ### NEU: Variable für Verkäufer-Ansprechperson
-  In den Einstellungen unter `Verkäufer` kann nun auch die Variable `{CurUserName}` als cobra-Benutzername verwendet werden. Zusätzlich kann der Platzhalter `{Ansprechpartner}` in der Word-Vorlage verwendet werden.   
+  In den Einstellungen unter `Verkäufer` kann nun auch die Variable `{CurUserName}` als cobra-Benutzername verwendet werden. 
   [Verkäufer](/Erste-Schritte/Einstellungen.md#verkäufer)
+
+* ### NEU: SystemPlatzhalter
+  Neu können die Systemplatzhalter `{Steuernummer}` und `{Ansprechpartner}` in der Word-Vorlage verwendet werden. Somit sind alle Verkäufer Felder als Platzhalter verfügbar.   
+  [Platzhalter](/Erste-Schritte/Vorlage+Platzhalter.md#platzhalter)
  
 * ### Diverse Bugfixes
   Beim Erstellen der Kopierregel für die Artikeltabelle kann jetzt auch ein leeres Feld zugewiesen werden.
