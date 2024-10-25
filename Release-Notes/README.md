@@ -35,6 +35,8 @@
   Das Rechnungsdatum wird vor der Generierung validiert.
 
   UI-Anpassungen in den Einstellungen beim Speichern.
+
+  Einstellungen werden in Adress Plus ausgeblendet.
  
 ## Beta 7 
 
