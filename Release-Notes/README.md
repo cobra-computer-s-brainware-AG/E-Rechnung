@@ -37,6 +37,10 @@
   UI-Anpassungen in den Einstellungen beim Speichern.
 
   Einstellungen werden in Adress Plus ausgeblendet.
+
+  QR-Platzhalter aus Kontakteintrag entfernt.
+
+  Im Kontakteintrag lassen sich nun auch Zeilenumbrüche hinzufügen. 
  
 ## Beta 7 
 
