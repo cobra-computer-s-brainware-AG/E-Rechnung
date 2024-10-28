@@ -40,7 +40,9 @@
 
   QR-Platzhalter aus Kontakteintrag entfernt.
 
-  Im Kontakteintrag lassen sich nun auch Zeilenumbrüche hinzufügen. 
+  Im Kontakteintrag lassen sich nun auch Zeilenumbrüche hinzufügen.
+
+  Die Systemmaske wird als Eingabemaske gespeichert, wenn die Datenbankstruktur automatisch generiert wird.
  
 ## Beta 7 
 
