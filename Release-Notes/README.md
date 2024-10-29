@@ -3,6 +3,13 @@
 > [!NOTE]
 > Die Anleitung für das Update finden Sie [hier](/Erste-Schritte/Update.md)
 
+## Beta 9
+
+* ### Diverse Bugfixes
+  Der fehlerhafte Platzhalter wurde in der Techlify-Positionsvorlage korrigiert.
+
+  Der Ansprechpartner Button wurde optimiert.
+
 ## Beta 8
 
 * ### NEU: Kontakt anlegen 
