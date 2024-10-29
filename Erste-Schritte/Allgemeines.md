@@ -44,10 +44,10 @@ Pflicht  | Feldname | Feldtyp |
 | :heavy_exclamation_mark: | Käufer (Adresse) | SuperId, FK
 | :heavy_exclamation_mark: | Rechnungsnummer | Zahl, Zähler, ID, Text, Virtuell
 | :heavy_exclamation_mark: | Rechnungsdatum | Datum 
-| :heavy_exclamation_mark: | Fälligkeitsdatum | Datum 
 | :heavy_exclamation_mark: | Lieferdatum | Datum 
 | :heavy_exclamation_mark: | Dokument | Dokument 
 | :heavy_exclamation_mark: | Dokumentdatum | Datum 
+| | Fälligkeitsdatum | Datum 
 | | Verwendungszweck | Text
 | | Zahlungsbedingungen | Text
 | | Vorauszahlung | Zahl, Währung
@@ -64,11 +64,11 @@ Die Positionstabelle wird für die in Rechnung gestellten Leistungen benötigt.
 Pflicht  | Feldname | Feldtyp |
 :--: | :-- | :-- |
 | :heavy_exclamation_mark: | Verknüpfung zur Rechnung | SuperId, FK
-| :heavy_exclamation_mark: | Menge | Zahl 
+| :heavy_exclamation_mark: | Menge | Zahl, Rechenfeld
 | :heavy_exclamation_mark: | Bezeichnung | Text 
 | :heavy_exclamation_mark: | Einzelpreis | Zahl, Währung 
 | | Artikel-Nr | Text 
-| | Detailbeschreibung | Text 
+| | Detailbeschreibung | Text, Bemerkung
 | | USt | Zahl 
 | | Nachlassprozent | Zahl 
 | | Nachlassbetrag | Zahl, Währung  

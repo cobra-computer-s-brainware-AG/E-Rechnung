@@ -2,6 +2,47 @@
 
 > [!NOTE]
 > Die Anleitung für das Update finden Sie [hier](/Erste-Schritte/Update.md)
+
+## Beta 8
+
+* ### NEU: Kontakt anlegen 
+  In den Einstellungen unter `Kontakteintrag` kann nun festgelegt werden, ob ein Kontakteintrag erstellt werden soll.   
+  [Kontakteintrag](/Erste-Schritte/Einstellungen.md#kontakteintrag)
+
+* ### NEU: Erweiterte Feldauswahl für Position
+  Für `Menge` steht neu der Typ `Rechenfeld` und für `Detailbeschreibung` der Typ `Bemerkung` zur Auswahl.
+
+* ### NEU: Lieferdatum Pflichtfeld
+  Das Feld Lieferdatum wird zum Pflichtfeld.
+
+* ### NEU: Variable für Verkäufer-Ansprechperson
+  In den Einstellungen unter `Verkäufer` kann nun auch die Variable `{CurUserName}` als cobra-Benutzername verwendet werden.   
+  [Verkäufer](/Erste-Schritte/Einstellungen.md#verkäufer)
+
+* ### NEU: Weitere Systemplatzhalter
+  Neu können die Systemplatzhalter `{Steuernummer}` und `{Ansprechpartner}` in der Word-Vorlage verwendet werden. Somit sind alle Verkäufer Felder als Platzhalter verfügbar.   
+  [Platzhalter](/Erste-Schritte/Vorlage+Platzhalter.md#platzhalter)
+ 
+* ### Diverse Bugfixes
+  Beim Erstellen der Kopierregel für die Artikeltabelle kann jetzt auch ein leeres Feld zugewiesen werden.
+
+  FK1 Membership wurde korrigiert, und der Filter auf den aktuellen Datensatz wurde entfernt. 
+  
+  Verbesserte Fehlermeldung, wenn Platzhalter in der Word-Vorlage nicht gefunden werden.
+
+  Das Fälligkeitsdatum ist jetzt kein Pflichtfeld mehr.
+
+  Das Rechnungsdatum wird vor der Generierung validiert.
+
+  UI-Anpassungen in den Einstellungen beim Speichern.
+
+  Einstellungen werden in Adress Plus ausgeblendet.
+
+  QR-Platzhalter aus Kontakteintrag entfernt.
+
+  Im Kontakteintrag lassen sich nun auch Zeilenumbrüche hinzufügen.
+
+  Die Systemmaske wird als Eingabemaske gespeichert, wenn die Datenbankstruktur automatisch generiert wird.
  
 ## Beta 7 
 

@@ -94,6 +94,9 @@ USt-IdNr* | Geben Sie hier die Umsatzsteuer-Identifikationsnummer (ID) des Verk�
 Steuernummer* | Geben Sie hier die Steuernummer oder den eingetragenen Steuerstatus des Verkäufers ein, z. B. die Umsatzsteuerbefreiung.
 Ansprechpartner | Geben Sie hier den Namen der Ansprechperson bei Rückfragen an den Verkäufer ein.
 
+> [!NOTE]
+> Für Verkäufer-Ansprechpartner können Sie auch den cobra-Benutzernamen verwenden. Stellen Sie sicher, dass die Benutzerverwaltung in cobra entsprechend gepflegt ist. Verwenden Sie hier für den entsprechenden Knopf im Feld.
+
 ## Käufer
 
 <img src="/docs/Käufer.png" alt="Käufer"/> 
@@ -158,6 +161,7 @@ Hier können Sie einen frei wählbaren Filter konfigurieren.
 
 Feld | Beschreibung 
 :-- | :-- | 
+Kontakt anlegen | Soll automatisch ein Kontakt angelegt werden, klicken Sie die Option `Kontakt anlegen` an.
 Art* | Wählen Sie hier die Art des Kontakteintrags
 Gruppe* | Wählen Sie hier die Gruppe des Kontakteintrags
 Bemerkung | Hier können Sie eine Bemerkung zum Kontakteintrag hinzufügen. Sie können dafür alle Platzhalter für Rechnung, Adresse und System verwenden. Wenn das Feld leer bleibt, wird automatisch der Name des Formats sowie die Rechnungsnummer eingetragen. 

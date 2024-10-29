@@ -99,6 +99,7 @@ Platzhalter | Wert
 {CurUserName} | cobra Benutzername
 {CurUserShortName} | cobra Kürzel
 {Unternehmen} | Unternehmen
+{Ansprechpartner} | Ansprechpartner
 {Adresse} | Adresse
 {PLZ} | PLZ
 {Ort} | Ort
@@ -107,6 +108,7 @@ Platzhalter | Wert
 {IBAN} | IBAN
 {BIC} | BIC
 {Ust-IdNr} | Ust-IdNr
+{Steuernummer} | Steuernummer
 {Währung} | Währung
 {Warenwert} | Positionssumme
 {Netto} | Rechnungssumme ohne USt.
