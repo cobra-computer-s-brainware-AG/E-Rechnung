@@ -8,7 +8,7 @@
 * ### Diverse Bugfixes
   Der fehlerhafte Platzhalter wurde in der Techlify-Positionsvorlage korrigiert.
 
-  Der Ansprechpartner Button wurde optimiert.
+  Der Ansprechpartner Button wurde in den Einstellungen optimiert.
 
 ## Beta 8
 
