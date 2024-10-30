@@ -398,3 +398,4 @@ FodyWeavers.xsd
 *.sln.iml
 /src/CobraCH/InstallerClientSetup64/Installer.ClientSetup.64.wax
 /src/CobraCH/InstallerClientSetup64/Installer.ClientSetup.64.wixproj
+/.vs/slnx.sqlite
