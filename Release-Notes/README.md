@@ -5,6 +5,9 @@
 
 ## Beta 9
 
+* ### NEU: Abrechnungszeitraum
+  In den Einstellungen unter `Allgemein` kann nun ein fixes Datum oder ein Zeitraum konfiguriert werden. `#23`
+ 
 * ### Diverse Bugfixes
   Der fehlerhafte Platzhalter wurde in der Techlify-Positionsvorlage korrigiert.
 
