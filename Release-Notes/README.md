@@ -13,6 +13,8 @@
 
   Der Ansprechpartner Button wurde in den Einstellungen optimiert. `#42`
 
+  Datensatz wird vor der Generierung aktualisiert. `#43`
+
 ## Beta 8
 
 * ### NEU: Kontakt anlegen 
