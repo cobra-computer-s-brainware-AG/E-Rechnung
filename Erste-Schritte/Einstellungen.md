@@ -149,6 +149,11 @@ Währung* | Wählen Sie die Währung aus, in der alle Rechnungsbeträge angegebe
 Kontoinhaber* | Geben Sie hier den Namen des bei einem Zahlungsdienstleister geführten Zahlungskontos an, auf das die Zahlung erfolgen sollte.
 IBAN* | Geben Sie hier die IBAN des Zahlungsempfängers ein.
 BIC* | Geben Sie hier die BIC des Geldinstituts ein.
+
+BIC* | Geben Sie hier die BIC des Geldinstituts ein.
+BIC* | Geben Sie hier die BIC des Geldinstituts ein.
+BIC* | Geben Sie hier die BIC des Geldinstituts ein.
+
 Verwendungszweck | Geben Sie hier den Verwendungszweck ein, der vom Käufer bei der Zahlung angegeben werden soll.
 Zahlungsbedingungen | Geben Sie hier die Zahlungskonditionen ein.
 Vorauszahlung | Geben Sie hier die Summe der bereits gezahlten Beträge ein.
