@@ -7,6 +7,9 @@
 
 * ### NEU: Abrechnungszeitraum
   In den Einstellungen unter `Allgemein` kann nun ein fixes Datum oder ein Zeitraum konfiguriert werden. `#23`
+
+* ### NEU: Sortierung der Positionstabelle
+  In den Einstellungen unter "Position" kann die Sortierung der Positionstabelle konfiguriert werden. `#40`
  
 * ### Diverse Bugfixes
   Der fehlerhafte Platzhalter wurde in der Techlify-Positionsvorlage korrigiert.
