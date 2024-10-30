@@ -59,8 +59,11 @@ Feld | Beschreibung |
 Rechnung* | Wählen Sie hier Ihre Rechnungstabelle.
 Rechnungsnummer* | Geben Sie hier die eindeutige Nummer der Rechnung ein.
 Rechnungsdatum* | Wählen Sie hier das Datum aus, an dem die Rechnung ausgestellt wurde.
-Fälligkeitsdatum* | Wählen Sie hier das Datum aus, an dem die Rechnung fällig wird. Das Datum darf nicht in der Vergangenheit liegen.
-Lieferdatum | Wählen Sie hier das Datum aus, an dem die Ware geliefert oder die Dienstleistung erbracht wird.
+Abrechnungszeitrum | Wählen Sie `Abrechnungszeitraum`, wenn es sich um einen Zeitraum handelt. 
+Von* | Wählen Sie hier das Startdatum des Abrechnungszeitraums aus.
+Bis* | Wählen Sie hier das Enddatum des Abrechnungszeitraums aus.
+Liefer-/Leistungsdatum* | Wählen Sie hier das Datum aus, an dem die Ware geliefert oder die Dienstleistung erbracht wird.
+Fälligkeitsdatum | Wählen Sie hier das Datum aus, an dem die Rechnung fällig wird. Das Datum darf nicht in der Vergangenheit liegen.
 Projektkennung | Geben Sie hier die Nummer des Projekts ein, in dessen Rahmen die Rechnung gestellt wird.
 Vertragsnummer | Geben Sie hier die Nummer des Vertrages ein, in dessen Rahmen die Rechnung gestellt wird.
 Bestellnummer | Geben Sie hier die Nummer der Bestellung des Käufers ein, in deren Rahmen die Rechnung gestellt wird.
