@@ -16,6 +16,9 @@
 
 * ### NEU: Sortierung der Positionstabelle
   In den Einstellungen unter `Position` kann die Sortierung der Positionstabelle konfiguriert werden. `#40`
+
+* ### NEU: Hinweis zur Rückdatierung von Rechnungen
+  Liegt das Rechnungsdatum nicht in der Zukunft, wird ein entsprechender Hinweis ausgegeben. `#44`
  
 * ### Diverse Bugfixes
   Der fehlerhafte Platzhalter wurde in der Techlify-Positionsvorlage korrigiert.
