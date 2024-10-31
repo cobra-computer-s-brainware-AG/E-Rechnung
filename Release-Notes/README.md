@@ -23,6 +23,8 @@
 * ### Diverse Bugfixes
   Der fehlerhafte Platzhalter wurde in der Techlify-Positionsvorlage korrigiert.
 
+  Bessere Validierung der Platzhalter. `#41`
+
   Der Ansprechpartner Button wurde in den Einstellungen optimiert. `#42`
 
   Datensatz wird vor der Generierung aktualisiert. `#43`
