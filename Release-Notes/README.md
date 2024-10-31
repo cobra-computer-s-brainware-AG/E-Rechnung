@@ -24,6 +24,8 @@
 
   Datensatz wird vor der Generierung aktualisiert. `#43`
 
+  Der Viewer schließt sich, wenn keine XRechnung ausgewählt wurde. `#47`
+  
 ## Beta 8
 
 * ### NEU: Kontakt anlegen 
