@@ -34,6 +34,8 @@
   Datensatz wird vor der Generierung aktualisiert. `#43`
 
   Der Viewer schließt sich, wenn keine XRechnung ausgewählt wurde. `#47`
+
+  Die Fenstergrösse bei Serienrechnung wird sich nicht mehr automatisch dem Inahlt anpassen. `#50`
   
 ## Beta 8
 
