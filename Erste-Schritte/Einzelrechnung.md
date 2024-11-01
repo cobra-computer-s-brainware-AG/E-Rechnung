@@ -4,7 +4,7 @@ Erste Schritte
  
 Klicken Sie im Menüband auf `Einzelrechnung`, um eine Einzelrechnung zu generieren.
  
-<img src="/docs/Einzelrechnung.png" alt="Einzelrechnung"/>
+<img src="/docs/Einzelrechnung.webp" alt="Einzelrechnung"/>
 
 - Wählen Sie das gewünschte Format aus. 
 - Bestätigen Sie Ihre Eingabe mit `OK`.
