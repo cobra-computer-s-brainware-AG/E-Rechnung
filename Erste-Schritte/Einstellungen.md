@@ -152,6 +152,7 @@ BIC* | Geben Sie hier die BIC des Geldinstituts ein.
 Mandatsreferenz* | Geben Sie hier die Mandatsreferenznummer ein, die dem Käufer vom Verkäufer zugeteilt wird.
 Gläubiger-ID* | Geben Sie hier die Gläubiger-Identifikationsnummer ein, die dem Verkäufer von der Deutschen Bundesbank zugeteilt wird. 
 Gläubiger-IBAN* | Geben Sie die IBAN des Gläubigers ein.
+Gläubiger-BIC* | Geben Sie die BIC des Gläubigers ein.
 Verwendungszweck | Geben Sie hier den Verwendungszweck ein, der vom Käufer bei der Zahlung angegeben werden soll.
 Zahlungsbedingungen | Geben Sie hier die Zahlungskonditionen ein.
 Vorauszahlung | Geben Sie hier die Summe der bereits gezahlten Beträge ein.
