@@ -2,7 +2,7 @@ Erste Schritte
 
 # Einzelrechnung
  
-Klicken Sie im Menüband auf `Einzelrechnung`, um eine Einzelrechnung zu generieren.
+Klicken Sie im Menüband auf `Einzelrechnung`, um eine Einzelrechnung für den `aktuellen Datensatz` zu erstellen.
  
 <img src="/docs/Einzelrechnung.webp" alt="Einzelrechnung"/>
 
