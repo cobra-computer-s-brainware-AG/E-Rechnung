@@ -13,7 +13,7 @@ Funktion | Beschreibung |
 :-- | :-- |
 Einstellungen | Öffnet die Konfiguration der E-Rechnung-Formate.
 Viewer  | Konvertiert eine XRechnung in ein für Menschen lesbares PDF Format.
-Einzelrechnung | Erstellt eine Einzelrechnung.
+Einzelrechnung | Erstellt eine E-Rechnung für den aktuellen Datensatz.
 Serienrechnung | Erstellt eine Sammelrechnung aus mehreren Datensätzen.
 Info | Produkt-Info.
 
