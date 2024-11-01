@@ -37,6 +37,7 @@ Pflicht  | Feldname | Feldtyp |
 |  | Mandatsreferenz | Text 
 |  | Gläubiger-ID | Text 
 |  | Gläubiger-IBAN | IBAN 
+|  | Gläubiger-BIC | BIC 
 
 ### Rechnung
 
