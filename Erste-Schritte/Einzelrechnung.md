@@ -6,8 +6,7 @@ Klicken Sie im Menüband auf `Einzelrechnung`, um eine Einzelrechnung zu generie
  
 <img src="/docs/Einzelrechnung.png" alt="Einzelrechnung"/>
 
-- Wählen Sie das gewünschte Format aus.
-- Wählen Sie den gewünschten Datensatz.
+- Wählen Sie das gewünschte Format aus. 
 - Bestätigen Sie Ihre Eingabe mit `OK`.
 
 <img src="/docs/Warten.png" alt="Warten"/>
