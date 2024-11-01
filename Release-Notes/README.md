@@ -5,7 +5,11 @@
 
 ## Beta 9 
 
-* ###  NEU: Rechnungsstellung SEPA Lastschrift 
+* ### NEU: Einzelrechnung Aktueller Datensatz
+  Eine Einzelrechnung kann nur noch für den aktuellen Datensatz erstellt werden.    
+  [Einzelrechnung](/Erste-Schritte/Einzelrechnung.md)
+
+* ### NEU: Rechnungsstellung SEPA Lastschrift 
   In den Einstellungen unter `Zahlungsdaten` kann nun die SEPA-Lastschrift konfiguriert werden.
   Bitte beachten Sie, dass die cobra E-Rechnung Erweiterung keine SEPA-Lastschriftmandate ausführt.
   Die Erweiterung dient ausschließlich der elektronischen Rechnungsstellung und beinhaltet keine Funktionalität für das Einziehen von Zahlungen.`#38`       
