@@ -13,9 +13,13 @@ Funktion | Beschreibung |
 :-- | :-- |
 Einstellungen | Öffnet die Konfiguration der E-Rechnung-Formate.
 Viewer  | Konvertiert eine XRechnung in ein für Menschen lesbares PDF Format.
-Einzelrechnung | Erstellt eine E-Rechnung für den aktuellen Datensatz.
+Einzelrechnung | Erstellt eine Einzelrechnung.
 Serienrechnung | Erstellt eine Sammelrechnung aus mehreren Datensätzen.
 Info | Produkt-Info.
+
+
+> [!TIP]
+> Das AddOn kann über die Cobra [Systemsicherheit](https://systemverwalter.cobra-hilfe.de/docs/sicherheitssystem/zugriffsrechte) für Benutzer und Gruppen berechtigt werden.
 
 ##
 
