@@ -5,6 +5,9 @@
 
 ## Beta 9 
 
+* ### NEU: Hinweistext Einstellungen
+  Beim Speichern wird ein entsprechender Hinweistext in den Einstellungen angezeigt. 
+
 * ### NEU: USt-ID oder Steuernummer
   In den Einstellungen unter `Verkäufer` darf nur noch einer der beiden Werte vorhanden sein. `52`      
    [Verkäufer](/Erste-Schritte/Einstellungen.md#verkäufer) 
@@ -45,7 +48,7 @@
  
   Validierung wird beim Speichern Optimiert. `#53`
 
-  
+
   
 ## Beta 8
 
