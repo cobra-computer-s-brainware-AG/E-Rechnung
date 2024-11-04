@@ -5,6 +5,10 @@
 
 ## Beta 9 
 
+* ### NEU: USt-ID oder Steuernummer
+  In den Einstellungen unter `Verkäufer` darf nur noch einer der beiden Werte vorhanden sein.      
+   [Einzelrechnung](/Erste-Schritte/Einstellungen.md#verkäufer) 
+
 * ### NEU: Einzelrechnung Aktueller Datensatz
   Eine Einzelrechnung kann nur noch für den aktuellen Datensatz erstellt werden.    
   [Einzelrechnung](/Erste-Schritte/Einzelrechnung.md)
@@ -36,7 +40,9 @@
   Der Viewer schließt sich, wenn keine XRechnung ausgewählt wurde. `#47`
 
   Die Fenstergrösse bei Serienrechnung wird sich nicht mehr automatisch dem Inahlt anpassen. `#50`
-  
+
+  Filter Letzte Serienrechnung anpassung `#51`
+ 
 ## Beta 8
 
 * ### NEU: Kontakt anlegen 
