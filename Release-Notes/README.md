@@ -6,7 +6,7 @@
 ## Beta 9 
 
 * ### NEU: USt-ID oder Steuernummer
-  In den Einstellungen unter `Verkäufer` darf nur noch einer der beiden Werte vorhanden sein.      
+  In den Einstellungen unter `Verkäufer` darf nur noch einer der beiden Werte vorhanden sein. `52`      
    [Verkäufer](/Erste-Schritte/Einstellungen.md#verkäufer) 
 
 * ### NEU: Einzelrechnung Aktueller Datensatz
@@ -43,6 +43,10 @@
 
   Filter Letzte Serienrechnung anpassung `#51`
  
+  Validierung wird beim Speichern Optimiert. `#53`
+
+  
+  
 ## Beta 8
 
 * ### NEU: Kontakt anlegen 
