@@ -7,7 +7,7 @@
 
 * ### NEU: USt-ID oder Steuernummer
   In den Einstellungen unter `Verkäufer` darf nur noch einer der beiden Werte vorhanden sein.      
-   [Einzelrechnung](/Erste-Schritte/Einstellungen.md#verkäufer) 
+   [Verkäufer](/Erste-Schritte/Einstellungen.md#verkäufer) 
 
 * ### NEU: Einzelrechnung Aktueller Datensatz
   Eine Einzelrechnung kann nur noch für den aktuellen Datensatz erstellt werden.    
