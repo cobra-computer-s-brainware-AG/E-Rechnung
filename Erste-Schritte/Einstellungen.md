@@ -50,9 +50,9 @@ Um ein Format zu löschen, klicken Sie bei `Format` auf das X-Symbol (X).
 
 - Bestätigen Sie Ihre Eingabe mit `Ja`.
 
-## Allgemein
+## Rechnung
 
-<img src="/docs/Allgemein.webp" alt="Allgemein"/> 
+<img src="/docs/Allgemein.webp" alt="Rechnung"/> 
 
 Feld | Beschreibung |
 :-- | :--
