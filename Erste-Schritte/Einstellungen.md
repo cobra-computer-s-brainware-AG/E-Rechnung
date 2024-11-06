@@ -52,7 +52,7 @@ Um ein Format zu löschen, klicken Sie bei `Format` auf das X-Symbol (X).
 
 ## Allgemein
 
-<img src="/docs/Allgemein.png" alt="Allgemein"/> 
+<img src="/docs/Allgemein.webp" alt="Allgemein"/> 
 
 Feld | Beschreibung |
 :-- | :--
