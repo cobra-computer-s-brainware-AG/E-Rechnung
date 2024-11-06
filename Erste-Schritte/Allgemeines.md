@@ -51,6 +51,7 @@ Pflicht  | Feldname | Feldtyp |
 | :heavy_exclamation_mark: | Lieferdatum | Datum 
 | :heavy_exclamation_mark: | Dokument | Dokument 
 | :heavy_exclamation_mark: | Dokumentdatum | Datum 
+| :heavy_exclamation_mark: | E-Mail für Versand | E-Mail 
 | | Abrechnungszeitraum Von | Datum 
 | | Abrechnungszeitraum Bis | Datum 
 | | Fälligkeitsdatum | Datum 
