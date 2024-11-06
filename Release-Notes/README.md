@@ -3,6 +3,53 @@
 > [!NOTE]
 > Die Anleitung für das Update finden Sie [hier](/Erste-Schritte/Update.md)
 
+## Beta 9 
+
+* ### NEU: Hinweistext Einstellungen
+  Beim Speichern wird ein entsprechender Hinweistext in den Einstellungen angezeigt. 
+
+* ### NEU: USt-ID oder Steuernummer
+  In den Einstellungen unter `Verkäufer` darf nur noch einer der beiden Werte vorhanden sein. `52`      
+   [Verkäufer](/Erste-Schritte/Einstellungen.md#verkäufer) 
+
+* ### NEU: Einzelrechnung Aktueller Datensatz
+  Eine Einzelrechnung kann nur noch für den aktuellen Datensatz erstellt werden.    
+  [Einzelrechnung](/Erste-Schritte/Einzelrechnung.md)
+
+* ### NEU: Rechnungsstellung SEPA Lastschrift 
+  In den Einstellungen unter `Zahlungsdaten` kann nun die SEPA-Lastschrift konfiguriert werden.
+  Bitte beachten Sie, dass die cobra E-Rechnung Erweiterung keine SEPA-Lastschriftmandate ausführt.
+  Die Erweiterung dient ausschließlich der elektronischen Rechnungsstellung und beinhaltet keine Funktionalität für das Einziehen von Zahlungen.`#38`       
+  [Zahlungsdaten](/Erste-Schritte/Einstellungen.md#Zahlungsdaten)
+
+* ### NEU: Abrechnungszeitraum
+  In den Einstellungen unter `Allgemein` kann nun ein fixes Datum oder ein Zeitraum konfiguriert werden. `#23`
+
+* ### NEU: Sortierung der Positionstabelle
+  In den Einstellungen unter `Position` kann die Sortierung der Positionstabelle konfiguriert werden. `#40`
+
+* ### NEU: Hinweis zur Rückdatierung von Rechnungen
+  Liegt das Rechnungsdatum nicht in der Zukunft, wird ein entsprechender Hinweis ausgegeben. `#44`
+ 
+* ### Diverse Bugfixes
+  Der fehlerhafte Platzhalter wurde in der Techlify-Positionsvorlage korrigiert.
+
+  Bessere Validierung der Platzhalter. `#41`
+
+  Der Ansprechpartner Button wurde in den Einstellungen optimiert. `#42`
+
+  Datensatz wird vor der Generierung aktualisiert. `#43`
+
+  Der Viewer schließt sich, wenn keine XRechnung ausgewählt wurde. `#47`
+
+  Die Fenstergrösse bei Serienrechnung wird sich nicht mehr automatisch dem Inahlt anpassen. `#50`
+
+  Filter Letzte Serienrechnung anpassung `#51`
+ 
+  Validierung wird beim Speichern Optimiert. `#53`
+
+
+  
 ## Beta 8
 
 * ### NEU: Kontakt anlegen 

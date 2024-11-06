@@ -34,6 +34,10 @@ Pflicht  | Feldname | Feldtyp |
 |  | Telefonnummer  | Telefon
 |  | Leitweg-ID | Text 
 |  | XRechnung | Ja/Nein
+|  | Mandatsreferenz | Text 
+|  | Gläubiger-ID | Text 
+|  | Gläubiger-IBAN | IBAN 
+|  | Gläubiger-BIC | BIC 
 
 ### Rechnung
 
@@ -47,6 +51,8 @@ Pflicht  | Feldname | Feldtyp |
 | :heavy_exclamation_mark: | Lieferdatum | Datum 
 | :heavy_exclamation_mark: | Dokument | Dokument 
 | :heavy_exclamation_mark: | Dokumentdatum | Datum 
+| | Abrechnungszeitraum Von | Datum 
+| | Abrechnungszeitraum Bis | Datum 
 | | Fälligkeitsdatum | Datum 
 | | Verwendungszweck | Text
 | | Zahlungsbedingungen | Text

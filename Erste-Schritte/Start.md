@@ -17,6 +17,10 @@ Einzelrechnung | Erstellt eine Einzelrechnung.
 Serienrechnung | Erstellt eine Sammelrechnung aus mehreren Datensätzen.
 Info | Produkt-Info.
 
+
+> [!TIP]
+> Das AddOn kann über die Cobra [Systemsicherheit](https://systemverwalter.cobra-hilfe.de/docs/sicherheitssystem/zugriffsrechte) für Benutzer und Gruppen berechtigt werden.
+
 ##
 
 [Nächste](./Einstellungen.md) 

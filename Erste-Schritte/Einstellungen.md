@@ -59,8 +59,11 @@ Feld | Beschreibung |
 Rechnung* | Wählen Sie hier Ihre Rechnungstabelle.
 Rechnungsnummer* | Geben Sie hier die eindeutige Nummer der Rechnung ein.
 Rechnungsdatum* | Wählen Sie hier das Datum aus, an dem die Rechnung ausgestellt wurde.
-Fälligkeitsdatum* | Wählen Sie hier das Datum aus, an dem die Rechnung fällig wird. Das Datum darf nicht in der Vergangenheit liegen.
-Lieferdatum | Wählen Sie hier das Datum aus, an dem die Ware geliefert oder die Dienstleistung erbracht wird.
+Abrechnungszeitrum | Wählen Sie `Abrechnungszeitraum`, wenn es sich um einen Zeitraum handelt. 
+Von* | Wählen Sie hier das Startdatum des Abrechnungszeitraums aus.
+Bis* | Wählen Sie hier das Enddatum des Abrechnungszeitraums aus.
+Liefer-/Leistungsdatum* | Wählen Sie hier das Datum aus, an dem die Ware geliefert oder die Dienstleistung erbracht wird.
+Fälligkeitsdatum | Wählen Sie hier das Datum aus, an dem die Rechnung fällig wird. Das Datum darf nicht in der Vergangenheit liegen.
 Projektkennung | Geben Sie hier die Nummer des Projekts ein, in dessen Rahmen die Rechnung gestellt wird.
 Vertragsnummer | Geben Sie hier die Nummer des Vertrages ein, in dessen Rahmen die Rechnung gestellt wird.
 Bestellnummer | Geben Sie hier die Nummer der Bestellung des Käufers ein, in deren Rahmen die Rechnung gestellt wird.
@@ -79,7 +82,7 @@ Positionsvorlage* | Wählen Sie hier eine Positionsvorlage.
 
 ## Verkäufer
 
-<img src="/docs/Verkäufer.png" alt="Verkäufer"/> 
+<img src="/docs/Verkäufer.wepb" alt="Verkäufer"/> 
 
 Feld | Beschreibung 
 :-- | :-- |  
@@ -123,6 +126,7 @@ Rechnungsempfänger | Wählen Sie hier die Beziehung zum Rechnungsempfänger.
 Feld | Beschreibung 
 :-- | :-- | 
 Position* | Wählen Sie hier Ihre Positionstabelle.
+Sortierung* | Wähle Sie hier ein Feld zur die Sortierung aus.
 Verknüpfung* | Wählen Sie hier die Beziehung zur Position. 
 Menge* | Geben Sie hier die Menge des in Rechnung gestellten Artikels ein.
 Bezeichnung* | Geben Sie hier die Bezeichnung des in Rechnung gestellten Artikels ein.
@@ -145,6 +149,10 @@ Währung* | Wählen Sie die Währung aus, in der alle Rechnungsbeträge angegebe
 Kontoinhaber* | Geben Sie hier den Namen des bei einem Zahlungsdienstleister geführten Zahlungskontos an, auf das die Zahlung erfolgen sollte.
 IBAN* | Geben Sie hier die IBAN des Zahlungsempfängers ein.
 BIC* | Geben Sie hier die BIC des Geldinstituts ein.
+Mandatsreferenz* | Geben Sie hier die Mandatsreferenznummer ein, die dem Käufer vom Verkäufer zugeteilt wird.
+Gläubiger-ID* | Geben Sie hier die Gläubiger-Identifikationsnummer ein, die dem Verkäufer von der Deutschen Bundesbank zugeteilt wird. 
+Gläubiger-IBAN* | Geben Sie die IBAN des Gläubigers ein.
+Gläubiger-BIC* | Geben Sie die BIC des Gläubigers ein.
 Verwendungszweck | Geben Sie hier den Verwendungszweck ein, der vom Käufer bei der Zahlung angegeben werden soll.
 Zahlungsbedingungen | Geben Sie hier die Zahlungskonditionen ein.
 Vorauszahlung | Geben Sie hier die Summe der bereits gezahlten Beträge ein.
