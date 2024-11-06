@@ -12,6 +12,7 @@
   Um die Rechnung einfacher an die E-Mail-Adresse des Käufers versenden zu können, wird ein neues E-Mail-Feld in der Rechnungstabelle benötigt.
   Beim Erstellen der Rechnung wird die E-Mail-Adresse des Käufers in dieses Feld kopiert.
   Dadurch wird die Konfiguration im Serien-E-Mailer für die Ziel-E-Mail-Adresse vereinfacht, und der Serien-E-Mail-Versand wird auch mit CRM PLUS kompatibel. `#58`
+  [Rechnung](/Erste-Schritte/Einstellungen.md#Rechnung) 
 
 * ### Bugfixes und Diverse
 
@@ -24,7 +25,7 @@
 
 * ### NEU: USt-ID oder Steuernummer
   In den Einstellungen unter `Verkäufer` darf nur noch einer der beiden Werte vorhanden sein. `52`      
-   [Verkäufer](/Erste-Schritte/Einstellungen.md#verkäufer) 
+  [Verkäufer](/Erste-Schritte/Einstellungen.md#verkäufer) 
 
 * ### NEU: Einzelrechnung Aktueller Datensatz
   Eine Einzelrechnung kann nur noch für den aktuellen Datensatz erstellt werden.    
