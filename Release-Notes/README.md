@@ -3,6 +3,20 @@
 > [!NOTE]
 > Die Anleitung für das Update finden Sie [hier](/Erste-Schritte/Update.md)
 
+## Beta 10
+
+* ### NEU: Allgemein heisst jetzt Rechnung
+  In den Einstellungen wurde `Allgemein` in `Rechnung` umbenannt. 
+
+* ### NEU: E-Mail Feld auf Rechnung
+  Um die Rechnung einfacher an die E-Mail-Adresse des Käufers versenden zu können, wird ein neues E-Mail-Feld in der Rechnungstabelle benötigt.
+  Beim Erstellen der Rechnung wird die E-Mail-Adresse des Käufers in dieses Feld kopiert.
+  Dadurch wird die Konfiguration im Serien-E-Mailer für die Ziel-E-Mail-Adresse vereinfacht, und der Serien-E-Mail-Versand wird auch mit CRM PLUS kompatibel. `#58`
+
+* ### Bugfixes und Diverse
+
+
+
 ## Beta 9 
 
 * ### NEU: Hinweistext Einstellungen
@@ -31,7 +45,7 @@
 * ### NEU: Hinweis zur Rückdatierung von Rechnungen
   Liegt das Rechnungsdatum nicht in der Zukunft, wird ein entsprechender Hinweis ausgegeben. `#44`
  
-* ### Diverse Bugfixes
+* ### Bugfixes und Diverse
   Der fehlerhafte Platzhalter wurde in der Techlify-Positionsvorlage korrigiert.
 
   Bessere Validierung der Platzhalter. `#41`
@@ -70,7 +84,7 @@
   Neu können die Systemplatzhalter `{Steuernummer}` und `{Ansprechpartner}` in der Word-Vorlage verwendet werden. Somit sind alle Verkäufer Felder als Platzhalter verfügbar.   
   [Platzhalter](/Erste-Schritte/Vorlage+Platzhalter.md#platzhalter)
  
-* ### Diverse Bugfixes
+* ### Bugfixes und Diverse
   Beim Erstellen der Kopierregel für die Artikeltabelle kann jetzt auch ein leeres Feld zugewiesen werden.
 
   FK1 Membership wurde korrigiert, und der Filter auf den aktuellen Datensatz wurde entfernt. 
