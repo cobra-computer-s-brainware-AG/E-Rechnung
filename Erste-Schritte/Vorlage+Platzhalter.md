@@ -50,6 +50,9 @@ Platzhalter | Wert
 {Steuernummer} | Steuernummer
 {Währung} | Währung
 {Warenwert} | Positionssumme
+{Zuschlag} | :new: Zuschlag
+{Abschlag} | :new: Abschlag
+{Zu- und Abschlag} | :new: Zu- und Abschlag
 {Netto} | Rechnungssumme ohne USt.
 {USt} | Steuerbetrag
 {Brutto} | Bruttosumme
@@ -83,7 +86,7 @@ Platzhalter  | Wert
 {Rabatt} | Rabattbetrag 
 
 
- ### Zu- und Abschlagtabelle
+ ### :new: Zu- und Abschlagtabelle
 
  Platzhalter  | Wert
 :-- | :--
