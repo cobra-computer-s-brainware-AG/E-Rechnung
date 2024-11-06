@@ -10,7 +10,7 @@ Eine kurze Übersicht relevanter Themen für Problemlösungen und Supportfälle.
 
 Treten bei Ihnen Probleme mit der Auflösung von cobra bzw. des Moduls auf, kann die Systemskalierung - falls die Skalierung mehr als 100% beträgt - der Auflösung Ihres Computers eine Ursache sein.
 
-[Bild]
+<img src="https://faktura-modul-ch.cobra-hilfe.de/images/faktura/loesung.webp" alt="System Bildschirm"/> 
 
 - Rufen Sie die Eigenschaften der Datei `cobra.exe` auf.
 - Wechseln Sie in den Reiter `Kompatibilität`.
@@ -19,7 +19,7 @@ Treten bei Ihnen Probleme mit der Auflösung von cobra bzw. des Moduls auf, kann
 - Wählen Sie unter `Skalierung durgeführt von` die Möglichkeit `System` aus.
 - Übernehmen Sie Ihre Änderungen und schließen Sie die Dialoge.
 
-[Bild]
+<img src="https://faktura-modul-ch.cobra-hilfe.de/images/faktura/loesung1.webp" alt="Hohe DPI-Einstellungen"/> 
  
 
 ## 
