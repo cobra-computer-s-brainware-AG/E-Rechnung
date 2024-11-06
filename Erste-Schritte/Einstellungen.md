@@ -63,6 +63,7 @@ Abrechnungszeitrum | Wählen Sie `Abrechnungszeitraum`, wenn es sich um einen Ze
 Von* | Wählen Sie hier das Startdatum des Abrechnungszeitraums aus.
 Bis* | Wählen Sie hier das Enddatum des Abrechnungszeitraums aus.
 Liefer-/Leistungsdatum* | Wählen Sie hier das Datum aus, an dem die Ware geliefert oder die Dienstleistung erbracht wird.
+E-Mail für Versand | Die E-Mail des Käufers wird in dieses Feld kopiert, um es für den E-Mail-Versand zu verwenden.
 Fälligkeitsdatum | Wählen Sie hier das Datum aus, an dem die Rechnung fällig wird. Das Datum darf nicht in der Vergangenheit liegen.
 Projektkennung | Geben Sie hier die Nummer des Projekts ein, in dessen Rahmen die Rechnung gestellt wird.
 Vertragsnummer | Geben Sie hier die Nummer des Vertrages ein, in dessen Rahmen die Rechnung gestellt wird.
