@@ -5,6 +5,9 @@
 
 ## Beta 10
 
+* ### NEU: Zugriffsbeschränkung für Einstellungen
+  Die Einstellungen sind nur zugänglich, wenn der Benutzer über die Berechtigung für die Datenbankstruktur verfügt. `#60`
+ 
 * ### NEU: Allgemein heisst jetzt Rechnung
   In den Einstellungen wurde `Allgemein` in `Rechnung` umbenannt.     
   [Rechnung](/Erste-Schritte/Einstellungen.md#Rechnung) 
