@@ -20,6 +20,8 @@
 
 * ### Bugfixes und Diverse
 
+  Die Positionen wurden im PDF nicht korrekt sortiert. `#61` 
+
 
 
 ## Beta 9 
