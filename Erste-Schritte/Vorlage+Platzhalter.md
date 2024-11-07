@@ -85,6 +85,15 @@ Platzhalter  | Wert
 {Rabatt%} | Rabatt in Prozent
 {Rabatt} | Rabattbetrag 
  
+### Zu- und Abschlagtabelle
+
+Platzhalter  | Wert
+:-- | :--
+{Grund} | Grund für den Zu- oder Abschlag
+{Prozentsatz} | Prozentsatz für den Zu- oder Abschlag, wird auf den Basisbetrag angewendet
+{Basisbetrag} | Basisbetrag zur Berechnung des Prozentsatzes 
+{Betrag} | Endbetrag des Zu- oder Abschlags (z.B. berechnet aus Basisbetrag und Prozentsatz)
+{USt%} | Steuersatz in Prozent
 
 ##
 
