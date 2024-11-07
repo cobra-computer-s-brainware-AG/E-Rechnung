@@ -80,7 +80,24 @@ Pflicht  | Feldname | Feldtyp |
 | | Nachlassprozent | Zahl 
 | | Nachlassbetrag | Zahl, Währung  
 | | Nachlassgrund | Text 
-  
+
+### Zu- und Abschlag
+
+Die Zu- und Abschlagtabelle wird zur Verwaltung von Zu- und Abschlägen auf Rechnungsebene verwendet, zb. für Lieferpauschalen oder Kopfrabatt. 
+
+> [!NOTE]
+> Diese Tabelle ist optional und für dieses Modul nicht zwingend erforderlich.
+
+Pflicht  | Feldname | Feldtyp |
+:--: | :-- | :-- |
+| :heavy_exclamation_mark: | Verknüpfung zur Rechnung | SuperId, FK
+| :heavy_exclamation_mark: | Grund | Text 
+| :heavy_exclamation_mark: | Betrag | Zahl, Währung, Rechenfeld
+| | USt | Zahl 
+| | Prozentsaatz | Zahl
+| | Grundbetrag | Zahl, Währung, Rechenfeld
+| | Ist Abschlag | Ja/Nein
+
 ##
 
 [Nächste](./Vorlage+Platzhalter.md) 
