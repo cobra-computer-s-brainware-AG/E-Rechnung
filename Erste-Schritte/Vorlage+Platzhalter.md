@@ -52,6 +52,7 @@ Platzhalter | Wert
 {Warenwert} | Positionssumme
 {Zuschlag} | :new: Zuschlag
 {Abschlag} | :new: Abschlag
+{Zu- und Abschlag} | :new: Summe der Zu- und Abschläge
 {Netto} | Rechnungssumme ohne USt.
 {USt} | Steuerbetrag
 {Brutto} | Bruttosumme
