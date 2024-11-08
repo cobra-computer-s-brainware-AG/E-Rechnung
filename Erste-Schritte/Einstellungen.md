@@ -127,7 +127,7 @@ Rechnungsempfänger | Wählen Sie hier die Beziehung zum Rechnungsempfänger.
 Feld | Beschreibung 
 :-- | :-- | 
 Position* | Wählen Sie hier Ihre Positionstabelle.
-Sortierung* | Wähle Sie hier ein Feld zur die Sortierung aus.
+Sortierung* | Wählen Sie hier ein Feld für die Sortierung aus.
 Verknüpfung* | Wählen Sie hier die Beziehung zur Position. 
 Menge* | Geben Sie hier die Menge des in Rechnung gestellten Artikels ein.
 Bezeichnung* | Geben Sie hier die Bezeichnung des in Rechnung gestellten Artikels ein.
