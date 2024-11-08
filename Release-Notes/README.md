@@ -2,28 +2,7 @@
 
 > [!NOTE]
 > Die Anleitung für das Update finden Sie [hier](/Erste-Schritte/Update.md)
-
-## Beta 10
-
-* ### NEU: Zugriffsbeschränkung für Einstellungen
-  Die Einstellungen sind nur zugänglich, wenn der Benutzer über die Berechtigung für die Datenbankstruktur verfügt. `#60`
  
-* ### NEU: Allgemein heisst jetzt Rechnung
-  In den Einstellungen wurde `Allgemein` in `Rechnung` umbenannt.     
-  [Rechnung](/Erste-Schritte/Einstellungen.md#Rechnung) 
-
-* ### NEU: E-Mail Feld auf Rechnung
-  Um die Rechnung einfacher an die E-Mail-Adresse des Käufers versenden zu können, wird ein neues E-Mail-Feld in der Rechnungstabelle benötigt.
-  Beim Erstellen der Rechnung wird die E-Mail-Adresse des Käufers in dieses Feld kopiert.
-  Dadurch wird die Konfiguration im Serien-E-Mailer für die Ziel-E-Mail-Adresse vereinfacht, und der Serien-E-Mail-Versand wird auch mit CRM PLUS kompatibel. `#58`      
-  [Rechnung](/Erste-Schritte/Einstellungen.md#Rechnung) 
-
-* ### Bugfixes und Diverse
-
-  Die Positionen wurden im PDF nicht korrekt sortiert. `#61` 
-
-
-
 ## Beta 9 
 
 * ### NEU: Hinweistext Einstellungen
