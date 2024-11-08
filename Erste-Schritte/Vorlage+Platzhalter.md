@@ -84,7 +84,7 @@ Platzhalter  | Wert
 {USt%} | Steuersatz in Prozent
 {Rabatt%} | Rabatt in Prozent
 {Rabatt} | Rabattbetrag 
- 
+
 ### Zu- und Abschlagtabelle
 
 Platzhalter  | Wert

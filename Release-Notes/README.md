@@ -30,7 +30,7 @@
   Beim Speichern wird ein entsprechender Hinweistext in den Einstellungen angezeigt. 
 
 * ### NEU: USt-ID oder Steuernummer
-  In den Einstellungen unter `Verkäufer` darf nur noch einer der beiden Werte vorhanden sein. `52`      
+  In den Einstellungen unter `Verkäufer` ist es nicht mehr erforderlich, dass beide Werte vorhanden sind. `52`      
   [Verkäufer](/Erste-Schritte/Einstellungen.md#verkäufer) 
 
 * ### NEU: Einzelrechnung Aktueller Datensatz
