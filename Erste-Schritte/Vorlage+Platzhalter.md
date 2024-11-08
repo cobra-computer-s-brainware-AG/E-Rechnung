@@ -50,9 +50,9 @@ Platzhalter | Wert
 {Steuernummer} | Steuernummer
 {Währung} | Währung
 {Warenwert} | Positionssumme
-{Zuschlag} | :new: Zuschlag
-{Abschlag} | :new: Abschlag
-{Zu- und Abschlag} | :new: Zu- und Abschlag
+{Zuschlagwert} | :new: Zuschlagsumme
+{Abschlagwert} | :new: Abschlagsumme
+{Zu- und Abschlagwert} | :new: Zu- und Abschlägesumme
 {Netto} | Rechnungssumme ohne USt.
 {USt} | Steuerbetrag
 {Brutto} | Bruttosumme
@@ -85,16 +85,15 @@ Platzhalter  | Wert
 {Rabatt%} | Rabatt in Prozent
 {Rabatt} | Rabattbetrag 
 
+### Zu- und Abschlagtabelle
 
- ### :new: Zu- und Abschlagtabelle
-
- Platzhalter  | Wert
+Platzhalter  | Wert
 :-- | :--
-{Grund} | ..
-{Prozentsatz} | ..
-{Basisbetrag} | ..
-{USt%} | ..
-{Betrag} | ..
+{Grund} | Grund für den Zu- oder Abschlag
+{Prozentsatz} | Prozentsatz für den Zu- oder Abschlag, wird auf den Basisbetrag angewendet
+{Basisbetrag} | Basisbetrag zur Berechnung des Prozentsatzes 
+{Betrag} | Endbetrag des Zu- oder Abschlags (z.B. berechnet aus Basisbetrag und Prozentsatz)
+{USt%} | Steuersatz in Prozent
 
 ##
 
