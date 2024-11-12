@@ -139,6 +139,28 @@ Nachlassprozent | Geben Sie hier den prozentualen Nachlass ein.
 Nachlassbetrag | Geben Sie hier den Grundbetrag ein, der unter Anwendung des Prozentsatzes des Nachlasses den Nachlassbetrag ergibt.
 Nachlassgrund | Geben Sie hier den Grund für den Nachlass ein.
 
+
+
+
+
+## Zu- und Abschlag
+
+<img src="/docs/Abschlag.webp" alt="Zu- und Abschlag"/> 
+
+Feld | Beschreibung 
+:-- | :-- | 
+Tabelle* | Wählen Sie hier Ihre Zu- und Abschlagstabelle.
+Sortierung* | Wählen Sie hier ein Feld für die Sortierung aus.
+Verknüpfung* | Wählen Sie hier die Beziehung zur Tabelle. 
+Grund | Geben Sie hier den Grund für den Zu-/Abschlag ein.
+Betrag | Geben Sie hier den Zu-/Abschlagbetrag (ohne Umsatzsteuer) ein, der vom Gesamtrechnungsbetrag abgezogen wird.
+USt | Geben Sie hier den Umsatzsteuersatz in Prozent ein, der für den Zu-/Abschlag gilt.
+Prozentsatz | Geben Sie hier den prozentualen Zu-/Abschlag ein.
+Basisbetrag | Geben Sie hier den Basisbetrag ein, der unter Anwendung des Prozentsatzes des Zu-/Abschlagbetrag den Zuschlagbetrag/Nachlassbetrag ergibt.
+Ist Abschlag | Geben Sie an, ob es sich um einen Abschlag handelt, andernfalls ist es ein Zuschlag.
+Ist Reverse Charge | Geben Sie an, ob es sich um eine Reverse-Charge handelt.
+
+
 ## Zahlungsdaten
 
 <img src="/docs/Zahlungsdaten.png" alt="Zahlungsdaten"/> 
