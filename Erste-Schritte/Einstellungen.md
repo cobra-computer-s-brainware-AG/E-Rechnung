@@ -138,7 +138,7 @@ USt | Wählen Sie hier die für den in Rechnung gestellten Artikel geltende Umsa
 Nachlassprozent | Geben Sie hier den prozentualen Nachlass ein.
 Nachlassbetrag | Geben Sie hier den Grundbetrag ein, der unter Anwendung des Prozentsatzes des Nachlasses den Nachlassbetrag ergibt.
 Nachlassgrund | Geben Sie hier den Grund für den Nachlass ein.
-
+Ist Reverse Charge | Geben Sie an, ob es sich um eine Reverse-Charge handelt.
 
 
 
