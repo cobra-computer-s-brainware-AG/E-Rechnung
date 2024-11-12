@@ -122,7 +122,7 @@ Rechnungsempfänger | Wählen Sie hier die Beziehung zum Rechnungsempfänger.
 
 ## Position
 
-<img src="/docs/Position.png" alt="Position"/> 
+<img src="/docs/Position.webp" alt="Position"/> 
 
 Feld | Beschreibung 
 :-- | :-- | 
