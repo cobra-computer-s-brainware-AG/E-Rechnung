@@ -83,7 +83,7 @@ Positionsvorlage* | Wählen Sie hier eine Positionsvorlage.
 
 ## Verkäufer
 
-<img src="/docs/Seller.webp" alt="Verkäufer"/> 
+<img src="/docs/Verkäufer.webp" alt="Verkäufer"/> 
 
 Feld | Beschreibung 
 :-- | :-- |  
