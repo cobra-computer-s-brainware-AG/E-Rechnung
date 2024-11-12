@@ -10,7 +10,7 @@ Eine kurze Übersicht relevanter Themen für Problemlösungen und Supportfälle.
 - Klicken Sie auf das :paperclip: (Büroklammer-Symbol), um die Anhänge im PDF anzuzeigen.
 - Speichern Sie die Anlage `ZUGFeRD-invoice.xml` lokal auf Ihrem Rechner ab. 
 
--  <img src="/docs/Extrahieren.webp" alt="XRechnung extrahieren"/> 
+<img src="/docs/Extrahieren.webp" alt="XRechnung extrahieren"/> 
 
 ## Problemlösungen
 
