@@ -9,11 +9,11 @@
   Die Einstellungen sind nur zugänglich, wenn der Benutzer über die Berechtigung für die Datenbankstruktur verfügt. `#60`
 
 * ### NEU: Zu- und Abschläg
-  Neu können Zu- und Abschläge auf Rechnungsebene hinzugefügt werden, wofür eine untergeordnete Tabelle zur Rechnung ergänzt wird. Für die Zu- und Abschläge stehen zudem neue Platzhalter in der Wordvorlage zur Verfügung. `#46`
+  Neu können Zu- und Abschläge auf Rechnungsebene hinzugefügt werden, wofür eine untergeordnete Tabelle zur Rechnung ergänzt wird. Für die Zu- und Abschläge stehen zudem neue Platzhalter in der Wordvorlage zur Verfügung. `#46`     
   [Zu- und Abschläg](/Erste-Schritte/Allgemeines.md#zu--und-abschlag)
 
 * ### NEU: Reverse-Charge
-  Neu kann das Reverse-Charge-Verfahren sowohl in den `Positionen` als auch bei `Zu- und Abschlägen` angewendet werden. `#45`
+  Neu kann das Reverse-Charge-Verfahren sowohl in den `Positionen` als auch bei `Zu- und Abschlägen` angewendet werden. `#45`       
   [Position](/Erste-Schritte/Einstellungen.md#position)
  
 * ### NEU: Allgemein heisst jetzt Rechnung
