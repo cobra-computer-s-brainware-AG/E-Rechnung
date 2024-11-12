@@ -80,6 +80,7 @@ Pflicht  | Feldname | Feldtyp |
 | | Nachlassprozent | Zahl 
 | | Nachlassbetrag | Zahl, Währung  
 | | Nachlassgrund | Text 
+| | Ist Reverse Charge | Ja/Nein
 
 ### Zu- und Abschlag
 
@@ -97,6 +98,7 @@ Pflicht  | Feldname | Feldtyp |
 | | Prozentsaatz | Zahl
 | | Grundbetrag | Zahl, Währung, Rechenfeld
 | | Ist Abschlag | Ja/Nein
+| | Ist Reverse Charge | Ja/Nein
 
 ##
 
