@@ -28,8 +28,9 @@
 
 * ### Bugfixes und Diverse
 
-  Die Positionen wurden im PDF nicht korrekt sortiert. `#61` 
+  Die Positionen wurden im PDF nicht korrekt sortiert. `#61`
 
+  Das Laden des Datensatzes wurde Optimiert. `#63`
 
 
 ## Beta 9 
