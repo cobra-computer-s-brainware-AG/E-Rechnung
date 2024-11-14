@@ -27,8 +27,8 @@
   [Rechnung](/Erste-Schritte/Einstellungen.md#Rechnung)
 
 * ### NEU: Käufer/Rechnungsempfänger
-  Wenn in den Einstellungen ein Rechnungsempfänger konfiguriert ist, wird der Käufer bei der Generierung automatisch in das Feld Rechnungsempfänger kopiert, sofern dieses leer ist.
-  Im Serien-E-Mailer kann dann stets der Router zum Rechnungsempfänger gewählt werden, sodass der Kontakteintrag bei der richtigen Adresse abgelegt wird. `#66`
+  Wenn in den Einstellungen unter `Käufer` ein Rechnungsempfänger konfiguriert ist, wird der Käufer bei der Generierung automatisch in das Feld Rechnungsempfänger kopiert, sofern dieses leer ist.
+  Im Serien-E-Mailer kann dann die Route zum Rechnungsempfänger gewählt werden, sodass der Kontakteintrag bei der richtigen Adresse abgelegt wird. `#66`
 
 * ### Bugfixes und Diverse
 
