@@ -137,9 +137,9 @@ Artikel-Nr | Geben Sie hier die Kennung des in Rechnung gestellten Artikels ein,
 Detailbeschreibung | Geben Sie hier eine detaillierte Beschreibung des in Rechnung gestellten Artikels ein.
 USt | Wählen Sie hier die für den in Rechnung gestellten Artikel geltende Umsatzsteuerkategorie aus.
 Reverse-Charge | Geben Sie an, ob es sich um eine Reverse-Charge handelt.
-Nachlassprozent | Geben Sie hier den prozentualen Nachlass ein.
-Nachlassbetrag | Geben Sie hier den Nachlassbetrag (ohne Umsatzsteuer) ein, der u. a. des Prozentsatzes vom Positionsbetrag abgezogen wird.
-Nachlassgrund | Geben Sie hier den Grund für den Nachlass ein. 
+Prozent | Geben Sie hier den prozentualen Nachlass ein.
+Betrag | Geben Sie hier den Nachlassbetrag (ohne Umsatzsteuer) ein, der u. a. des Prozentsatzes vom Positionsbetrag abgezogen wird.
+Grund | Geben Sie hier den Grund für den Nachlass ein. 
  
 ## Zu- und Abschlag
 
