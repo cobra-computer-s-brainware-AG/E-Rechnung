@@ -13,7 +13,7 @@
   [Zu- und Abschläg](/Erste-Schritte/Allgemeines.md#zu--und-abschlag)
 
 * ### NEU: Reverse-Charge
-  Neu kann das Reverse-Charge-Verfahren sowohl in den `Positionen` als auch bei `Zu- und Abschlägen` angewendet werden. `#45`       
+  Neu kann das Reverse-Charge-Verfahren (Umkehr der Steuerschuldnerschaft) sowohl in den `Positionen` als auch bei `Zu- und Abschlägen` angewendet werden. `#45`       
   [Position](/Erste-Schritte/Einstellungen.md#position)
  
 * ### NEU: Allgemein heisst jetzt Rechnung
@@ -31,6 +31,8 @@
   Im Serien-E-Mailer kann dann die Route zum Rechnungsempfänger gewählt werden, sodass der Kontakteintrag bei der richtigen Adresse abgelegt wird. `#66`
 
 * ### Bugfixes und Diverse
+  
+  Die Texte für Nachlässe wurden Angepasst. `#59`
 
   Die Positionen wurden im PDF nicht korrekt sortiert. `#61`
 
