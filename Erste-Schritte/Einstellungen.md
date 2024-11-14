@@ -116,6 +116,7 @@ Land* | Wählen Sie hier das Land der Postanschrift des Käufers aus. `ISO 3166-
 E-Mail* | Geben Sie hier die E-Mail-Adresse des Käufers ein.
 Ansprechpartner | Geben Sie hier den Namen der Ansprechperson bei Rückfragen an den Käufer ein.
 Telefonnummer | Geben Sie hier die Telefonnummer der Ansprechperson ein.
+USt-IdNr | Geben Sie hier die Umsatzsteuer-Identifikationsnummer des Käufers ein.
 Leitweg-ID | Geben Sie hier die Leitweg-ID des Käufers ein. Pflicht für behördliche Rechnungen, bei B2B Rechnungen optional.
 XRechnung | Wählen Sie hier, wenn anstelle eines PDFs nur ein reines XML-Format generiert werden soll, das den Anforderungen der europäischen Norm EN 16931 entspricht.
 Rechnungsempfänger | Wählen Sie hier die Beziehung zum Rechnungsempfänger. Die Felder für den Rechnungsempfänger werden anhand der gleichen Konfiguration wie für den Käufer festgelegt. Ist kein Rechnungsempfänger angegeben, wird der Käufer automatisch als Rechnungsempfänger festgelegt.
