@@ -5,6 +5,9 @@
 
 ## Beta 10
 
+* ### NEU: cobra 2025
+  Die E-Rechnung-Erweiterung ist auch mit cobra 2025 kompatibel.
+
 * ### NEU: Zugriffsbeschränkung für Einstellungen
   Die Einstellungen sind nur zugänglich, wenn der Benutzer über die Berechtigung für die Datenbankstruktur verfügt. `#60`
 
