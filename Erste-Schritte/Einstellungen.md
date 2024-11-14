@@ -78,15 +78,15 @@ Feld | Beschreibung |
 :-- | :--
 Dokument* | Wählen Sie hier ein cobra-Dokumentenfeld, in dem die E-Rechnung angefügt wird.
 Dokumentdatum* | Wählen Sie hier ein cobra-Datumsfeld, in dem das Datum der Generierung der E-Rechnung hinterlegt wird.
-Rechnungsvorlage* | Wählen Sie hier eine Rechnungsvorlage.
-Positionsvorlage* | Wählen Sie hier eine Positionsvorlage.
+Hauptvorlage* | Wählen Sie hier die gewünschte Rechnungsvorlage aus.
+Untervorlage* | Wählen Sie hier die Vorlage für Positionen sowie für Zu- und Abschläge aus.
 
 ## Verkäufer
 
 <img src="/docs/Verkäufer.webp" alt="Verkäufer"/> 
 
 Feld | Beschreibung 
-:-- | :-- |  
+:-- | :-- |   
 Unternehmen* | Geben Sie hier den Namen des Verkäufers ein, mit dem er im Handelsregister eingetragen oder als steuerpflichtige Person registriert ist. 
 Adresse* | Geben Sie hier Straße und Hausnummer der Postanschrift des Verkäufers ein.
 PLZ* | Geben Sie hier die Postleitzahl der Postanschrift des Verkäufers ein.
@@ -107,7 +107,7 @@ Ansprechpartner | Geben Sie hier den Namen der Ansprechperson bei Rückfragen an
 
 Feld | Beschreibung 
 :-- | :-- | 
-Käufer* | Wählen Sie hier die Beziehung zum Käufer. 
+Käufer* | Wählen Sie hier die Beziehung zum Käufer aus. 
 Unternehmen* | Geben Sie hier den Namen des Käufers ein, mit dem er im Handelsregister eingetragen oder als steuerpflichtige Person registriert ist.
 Adresse* | Geben Sie hier Straße und Hausnummer der Postanschrift des Käufers ein.
 PLZ* | Geben Sie hier die Postleitzahl der Postanschrift des Käufers ein.
