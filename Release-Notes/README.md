@@ -24,7 +24,11 @@
   Um die Rechnung einfacher an die E-Mail-Adresse des Käufers versenden zu können, wird ein neues E-Mail-Feld in der Rechnungstabelle benötigt.
   Beim Erstellen der Rechnung wird die E-Mail-Adresse des Käufers in dieses Feld kopiert.
   Dadurch wird die Konfiguration im Serien-E-Mailer für die Ziel-E-Mail-Adresse vereinfacht, und der Serien-E-Mail-Versand wird auch mit CRM PLUS kompatibel. `#58`      
-  [Rechnung](/Erste-Schritte/Einstellungen.md#Rechnung) 
+  [Rechnung](/Erste-Schritte/Einstellungen.md#Rechnung)
+
+* ### NEU: Käufer/Rechnungsempfänger
+  Wenn in den Einstellungen ein Rechnungsempfänger konfiguriert ist, wird der Käufer bei der Generierung automatisch in das Feld Rechnungsempfänger kopiert, sofern dieses leer ist.
+  Im Serien-E-Mailer kann dann stets der Router zum Rechnungsempfänger gewählt werden, sodass der Kontakteintrag bei der richtigen Adresse abgelegt wird. `#66`
 
 * ### Bugfixes und Diverse
 
@@ -34,6 +38,8 @@
 
   Leistungsdatum und Abrechnungszeitraum werden bei der Eingabe bereinigt, um unnötige Fehlermeldungen beim Speichern zu vermeiden. `#64`
 
+  Leerer Abrechnungszeitraum wird bei der Generierung besser validiert. `#65`
+  
 ## Beta 9 
 
 * ### NEU: Hinweistext Einstellungen
