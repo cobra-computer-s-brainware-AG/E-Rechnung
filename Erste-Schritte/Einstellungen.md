@@ -154,7 +154,7 @@ Betrag | Geben Sie hier den Betrag (ohne Umsatzsteuer) ein, der u. a. des Prozen
 USt | Geben Sie hier den Umsatzsteuersatz in Prozent ein, der für den Zu- oder Abschlag gilt.
 Prozentsatz | Geben Sie hier den prozentualen Zu- oder Abschlag ein.
 Grundbetrag | Geben Sie hier den Grundbetrag ein, der unter Anwendung des Prozentsatzes des Zu- oder Abschlag den Betrag ergibt. 
-Abschlag | Geben Sie an, ob es sich um einen Abschlag handelt, andernfalls ist es ein Zuschlag.
+Abschlag | Wählen Sie hier, ob es sich um einen Abschlag handelt, andernfalls ist es ein Zuschlag.
 Reverse-Charge | Geben Sie an, ob es sich um eine Reverse-Charge handelt.
 
 
