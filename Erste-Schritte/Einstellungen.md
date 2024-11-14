@@ -72,7 +72,7 @@ Bemerkung | Hier können Sie rechnungserklärende Bemerkungen einfügen.
 
 ## Dokument
 
-<img src="/docs/Dokument.png" alt="Dokument"/> 
+<img src="/docs/Dokument.webp" alt="Dokument"/> 
 
 Feld | Beschreibung |
 :-- | :--
@@ -103,7 +103,7 @@ Ansprechpartner | Geben Sie hier den Namen der Ansprechperson bei Rückfragen an
 
 ## Käufer
 
-<img src="/docs/Käufer.png" alt="Käufer"/> 
+<img src="/docs/Käufer.webp" alt="Käufer"/> 
 
 Feld | Beschreibung 
 :-- | :-- | 
@@ -161,7 +161,7 @@ Reverse-Charge | Geben Sie an, ob es sich um eine Reverse-Charge handelt.
 
 ## Zahlungsdaten
 
-<img src="/docs/Zahlungsdaten.png" alt="Zahlungsdaten"/> 
+<img src="/docs/Zahlungsdaten.webp" alt="Zahlungsdaten"/> 
 
 Feld | Beschreibung 
 :-- | :-- | 
