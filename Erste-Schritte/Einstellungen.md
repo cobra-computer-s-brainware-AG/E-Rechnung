@@ -117,8 +117,8 @@ E-Mail* | Geben Sie hier die E-Mail-Adresse des Käufers ein.
 Ansprechpartner | Geben Sie hier den Namen der Ansprechperson bei Rückfragen an den Käufer ein.
 Telefonnummer | Geben Sie hier die Telefonnummer der Ansprechperson ein.
 Leitweg-ID | Geben Sie hier die Leitweg-ID des Käufers ein. Pflicht für behördliche Rechnungen, bei B2B Rechnungen optional.
-XRechnung | Reines XML-Format, das den Anforderungen der europäischen Norm EN 16931 entspricht.
-Rechnungsempfänger | Wählen Sie hier die Beziehung zum Rechnungsempfänger.
+XRechnung | Wählen Sie hier, wenn anstelle eines PDFs nur ein reines XML-Format generiert werden soll, das den Anforderungen der europäischen Norm EN 16931 entspricht.
+Rechnungsempfänger | Wählen Sie hier die Beziehung zum Rechnungsempfänger. Die Felder für den Rechnungsempfänger werden anhand der gleichen Konfiguration wie für den Käufer festgelegt. Ist kein Rechnungsempfänger angegeben, wird der Käufer automatisch als Rechnungsempfänger festgelegt.
 
 ## Position
 
@@ -128,7 +128,7 @@ Feld | Beschreibung
 :-- | :-- | 
 Position* | Wählen Sie hier Ihre Positionstabelle.
 Sortierung* | Wählen Sie hier ein Feld für die Sortierung aus.
-Verknüpfung* | Wählen Sie hier die Beziehung zur Position. 
+Verknüpfung* | Wählen Sie hier die Beziehung zur Positionstabelle. 
 Menge* | Geben Sie hier die Menge des in Rechnung gestellten Artikels ein.
 Bezeichnung* | Geben Sie hier die Bezeichnung des in Rechnung gestellten Artikels ein.
 Einzelpreis* | Geben Sie hier den Einzelpreis für den Artikel ohne Umsatzsteuer ein.
@@ -136,29 +136,26 @@ Artikel-Nr | Geben Sie hier die Kennung des in Rechnung gestellten Artikels ein,
 Detailbeschreibung | Geben Sie hier eine detaillierte Beschreibung des in Rechnung gestellten Artikels ein.
 USt | Wählen Sie hier die für den in Rechnung gestellten Artikel geltende Umsatzsteuerkategorie aus.
 Nachlassprozent | Geben Sie hier den prozentualen Nachlass ein.
-Nachlassbetrag | Geben Sie hier den Grundbetrag ein, der unter Anwendung des Prozentsatzes des Nachlasses den Nachlassbetrag ergibt.
+Nachlassbetrag | Geben Sie hier den Nachlassbetrag (ohne Umsatzsteuer) ein, der u. a. des Prozentsatzes vom Positionsbetrag abgezogen wird.
 Nachlassgrund | Geben Sie hier den Grund für den Nachlass ein.
-Ist Reverse Charge | Geben Sie an, ob es sich um eine Reverse-Charge handelt.
-
-
-
-
+Reverse-Charge | Geben Sie an, ob es sich um eine Reverse-Charge handelt.
+ 
 ## Zu- und Abschlag
 
 <img src="/docs/Abschlag.webp" alt="Zu- und Abschlag"/> 
 
 Feld | Beschreibung 
 :-- | :-- | 
-Tabelle* | Wählen Sie hier Ihre Zu- und Abschlagstabelle.
-Sortierung* | Wählen Sie hier ein Feld für die Sortierung aus.
-Verknüpfung* | Wählen Sie hier die Beziehung zur Tabelle. 
-Grund | Geben Sie hier den Grund für den Zu-/Abschlag ein.
-Betrag | Geben Sie hier den Zu-/Abschlagbetrag (ohne Umsatzsteuer) ein, der vom Gesamtrechnungsbetrag abgezogen wird.
-USt | Geben Sie hier den Umsatzsteuersatz in Prozent ein, der für den Zu-/Abschlag gilt.
-Prozentsatz | Geben Sie hier den prozentualen Zu-/Abschlag ein.
-Basisbetrag | Geben Sie hier den Basisbetrag ein, der unter Anwendung des Prozentsatzes des Zu-/Abschlagbetrag den Zuschlagbetrag/Nachlassbetrag ergibt.
-Ist Abschlag | Geben Sie an, ob es sich um einen Abschlag handelt, andernfalls ist es ein Zuschlag.
-Ist Reverse Charge | Geben Sie an, ob es sich um eine Reverse-Charge handelt.
+Tabelle | Wählen Sie hier Ihre Tabelle für Zu- und Abschläge auf Rechnungsebene.
+Sortierung | Wählen Sie hier ein Feld für die Sortierung aus.
+Verknüpfung | Wählen Sie hier die Beziehung zur Tabelle für Zu- und Abschläge. 
+Grund | Geben Sie hier den Grund für den Zu- oder Abschlag ein.
+Betrag | Geben Sie hier den Betrag (ohne Umsatzsteuer) ein, der u. a. des Prozentsatzes dem Gesamtrechnungsbetrag als Zu- oder Abschlag hinzugefügt wird. 
+USt | Geben Sie hier den Umsatzsteuersatz in Prozent ein, der für den Zu- oder Abschlag gilt.
+Prozentsatz | Geben Sie hier den prozentualen Zu- oder Abschlag ein.
+Grundbetrag | Geben Sie hier den Grundbetrag ein, der unter Anwendung des Prozentsatzes des Zu- oder Abschlag den Betrag ergibt. 
+Abschlag | Geben Sie an, ob es sich um einen Abschlag handelt, andernfalls ist es ein Zuschlag.
+Reverse-Charge | Geben Sie an, ob es sich um eine Reverse-Charge handelt.
 
 
 ## Zahlungsdaten
