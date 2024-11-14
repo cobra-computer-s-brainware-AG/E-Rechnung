@@ -41,6 +41,8 @@
   Leistungsdatum und Abrechnungszeitraum werden bei der Eingabe bereinigt, um unnötige Fehlermeldungen beim Speichern zu vermeiden. `#64`
 
   Leerer Abrechnungszeitraum wird bei der Generierung besser validiert. `#65`
+
+  Allen Konfigurationsfeldern wurde ein Info-Button hinzugefügt.
   
 ## Beta 9 
 
