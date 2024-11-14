@@ -32,6 +32,7 @@
 
   Das Laden des Datensatzes wurde Optimiert. `#63`
 
+  Leistungsdatum und Abrechnungszeitraum werden bei der Eingabe bereinigt, um unnötige Fehlermeldungen beim Speichern zu vermeiden. `#64`
 
 ## Beta 9 
 
