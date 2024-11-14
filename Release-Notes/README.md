@@ -43,6 +43,8 @@
   Leerer Abrechnungszeitraum wird bei der Generierung besser validiert. `#65`
 
   Allen Konfigurationsfeldern wurde ein Info-Button hinzugefügt.
+
+  Die Tabelle für Zu- und Abschläge wird bei der automatischen Generierung mit erstellt.  
   
 ## Beta 9 
 
