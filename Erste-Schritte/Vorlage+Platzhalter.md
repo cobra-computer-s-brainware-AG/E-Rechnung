@@ -16,9 +16,9 @@ Die Kindtabelle hingegen kann mehrere Datensätze enthalten, die jeweils einzeln
 
 ## Vorlage
 
-Zur Erstellung einer E-Rechnung werden zwei Word-Vorlagen benötigt: eine `Hauptvorlage`, die die Tabellen Adressen und Rechnung enthält, sowie eine `Untervorlage`, die für die Tabelle Positionen verwendet wird.
-Für jeden Datensatz der Kind-Tabelle wird automatisch eine Tabelle basierend auf der Untervorlage generiert und mit dem Präfix `Tabellenname` in die Hauptvorlage eingefügt.
-Die `Zu- und Abschläge` werden ebenfalls in der Untervorlage als separate Tabelle definiert und mit dem Präfix Tabellenname in die Hauptvorlage eingebunden.
+Zur Erstellung einer E-Rechnung werden zwei Word-Vorlagen benötigt: eine `Hauptvorlage`, die die Tabellen Adressen und Rechnung enthält, sowie eine `Untervorlage`, die für die Tabelle Positionen verwendet wird.   
+Für jeden Datensatz der Kind-Tabelle wird automatisch eine Tabelle basierend auf der Untervorlage generiert und mit dem Präfix `Tabellenname` in die Hauptvorlage eingefügt.   
+Die `Zu- und Abschläge` werden ebenfalls in der Untervorlage als separate Tabelle definiert und mit dem Präfix Tabellenname in die Hauptvorlage eingebunden.   
 Die `Umsatzsteuer` wird in der Hauptvorlage automatisch für jeden Steuerschlüssel ergänzt. 
 
 <p align="center">
