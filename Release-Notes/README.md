@@ -47,7 +47,9 @@
 
   Allen Konfigurationsfeldern wurde ein Info-Button hinzugefügt.
 
-  Die Tabelle für Zu- und Abschläge wird bei der automatischen Generierung mit erstellt.  
+  Die Tabelle für Zu- und Abschläge wird bei der automatischen Generierung mit erstellt.
+
+  In den Einstellungen wurde der Filter angepasst, sodass das Beziehungsfeld nicht mehr angezeigt wird.  
   
 ## Beta 9 
 
