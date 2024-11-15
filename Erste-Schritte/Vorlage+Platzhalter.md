@@ -51,9 +51,9 @@ Platzhalter | Wert
 {Steuernummer} | Steuernummer
 {Währung} | Währung
 {Warenwert} | Positionssumme
-{Zuschlagwert} | :new: Zuschlagsumme
-{Abschlagwert} | :new: Abschlagsumme
-{Zu- und Abschlagwert} | :new: Zu- und Abschlägesumme
+{Zuschlagwert} | Zuschlagsumme
+{Abschlagwert} | Abschlagsumme
+{Zu- und Abschlagwert} | Zu- und Abschlägesumme
 {Netto} | Rechnungssumme ohne USt.
 {USt} | Steuerbetrag
 {Brutto} | Bruttosumme
