@@ -23,7 +23,7 @@ Erste Schritte
 >   - Ordnen Sie die gewünschten Felder der Artikeltabelle der Positionstabelle zu.
 >   - Bestätigen Sie Ihre Eingabe mit `OK`.
 > 
-> - Nach der automatischen Generierung müssen Sie cobra neu starten.
+> - Nach der automatischen Generierung wird cobra neu geladen.
 > 
 > - Zum Schluss konfigurieren Sie die Verkäuferdaten, Zahlungsdetails und das Dokumentenfeld in der Rechnungstabelle gemäß Ihren Schlagwörtern.
 >   - Optional können Sie [Eingabemasken](https://eingabemasken.cobra-hilfe.de/), Ansichten, Kopierregeln und Anzeigeformat an Ihre Ansprüche anpassen.
