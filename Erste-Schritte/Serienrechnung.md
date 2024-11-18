@@ -21,7 +21,12 @@ Nach erfolgreicher Erstellung können Sie die E-Rechnungen als [Serien-E-Mail](h
 > [!TIP]
 > Verwenden Sie dazu den Filter `Letzte Serienrechnung` aus der Filterliste, der die letzte Serienrechnung enthält. Alternativ können Sie auch einen Freien Filter nach Ihren Kriterien erstellen.
 >
-> <img src="/docs/Serienemail.png" alt="Serienemail"/>
+> <img src="/docs/Serienemail.webp" alt="Serienemail"/>
+
+> [!IMPORTANT]
+> Wenn Sie in `CRM PRO` einen `Rechnungsempfänger` konfiguriert haben, wählen Sie in den `Optionen` die `Route` zum Rechnungsempfänger. Dadurch wird sichergestellt, dass der Kontakteintrag bei der richtigen Adresse abgelegt wird.
+>
+> <img src="/docs/Optionen.webp" alt="Optionen"/>
 
 ##
 

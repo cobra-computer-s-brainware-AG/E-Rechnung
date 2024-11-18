@@ -1,8 +1,6 @@
 Beta 9
 
-# cobra E-Rechnung  
- 
-* ### [Kurzanleitung](./Kurzanleitung/README.md)
+# cobra E-Rechnung   
 
 * ### [Erste Schritte](./Erste-Schritte/README.md)
 

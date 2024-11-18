@@ -23,7 +23,7 @@ Erste Schritte
 >   - Ordnen Sie die gewünschten Felder der Artikeltabelle der Positionstabelle zu.
 >   - Bestätigen Sie Ihre Eingabe mit `OK`.
 > 
-> - Nach der automatischen Generierung müssen Sie cobra neu starten.
+> - Nach der automatischen Generierung wird cobra neu geladen.
 > 
 > - Zum Schluss konfigurieren Sie die Verkäuferdaten, Zahlungsdetails und das Dokumentenfeld in der Rechnungstabelle gemäß Ihren Schlagwörtern.
 >   - Optional können Sie [Eingabemasken](https://eingabemasken.cobra-hilfe.de/), Ansichten, Kopierregeln und Anzeigeformat an Ihre Ansprüche anpassen.
@@ -72,21 +72,21 @@ Bemerkung | Hier können Sie rechnungserklärende Bemerkungen einfügen.
 
 ## Dokument
 
-<img src="/docs/Dokument.png" alt="Dokument"/> 
+<img src="/docs/Dokument.webp" alt="Dokument"/> 
 
 Feld | Beschreibung |
 :-- | :--
 Dokument* | Wählen Sie hier ein cobra-Dokumentenfeld, in dem die E-Rechnung angefügt wird.
 Dokumentdatum* | Wählen Sie hier ein cobra-Datumsfeld, in dem das Datum der Generierung der E-Rechnung hinterlegt wird.
-Rechnungsvorlage* | Wählen Sie hier eine Rechnungsvorlage.
-Positionsvorlage* | Wählen Sie hier eine Positionsvorlage.
+Hauptvorlage* | Wählen Sie hier die gewünschte Rechnungsvorlage aus.
+Untervorlage* | Wählen Sie hier die Vorlage für Positionen sowie für Zu- und Abschläge aus.
 
 ## Verkäufer
 
-<img src="/docs/Seller.webp" alt="Verkäufer"/> 
+<img src="/docs/Verkäufer.webp" alt="Verkäufer"/> 
 
 Feld | Beschreibung 
-:-- | :-- |  
+:-- | :-- |   
 Unternehmen* | Geben Sie hier den Namen des Verkäufers ein, mit dem er im Handelsregister eingetragen oder als steuerpflichtige Person registriert ist. 
 Adresse* | Geben Sie hier Straße und Hausnummer der Postanschrift des Verkäufers ein.
 PLZ* | Geben Sie hier die Postleitzahl der Postanschrift des Verkäufers ein.
@@ -103,11 +103,11 @@ Ansprechpartner | Geben Sie hier den Namen der Ansprechperson bei Rückfragen an
 
 ## Käufer
 
-<img src="/docs/Käufer.png" alt="Käufer"/> 
+<img src="/docs/Käufer.webp" alt="Käufer"/> 
 
 Feld | Beschreibung 
 :-- | :-- | 
-Käufer* | Wählen Sie hier die Beziehung zum Käufer. 
+Käufer* | Wählen Sie hier die Beziehung zum Käufer aus. 
 Unternehmen* | Geben Sie hier den Namen des Käufers ein, mit dem er im Handelsregister eingetragen oder als steuerpflichtige Person registriert ist.
 Adresse* | Geben Sie hier Straße und Hausnummer der Postanschrift des Käufers ein.
 PLZ* | Geben Sie hier die Postleitzahl der Postanschrift des Käufers ein.
@@ -116,32 +116,52 @@ Land* | Wählen Sie hier das Land der Postanschrift des Käufers aus. `ISO 3166-
 E-Mail* | Geben Sie hier die E-Mail-Adresse des Käufers ein.
 Ansprechpartner | Geben Sie hier den Namen der Ansprechperson bei Rückfragen an den Käufer ein.
 Telefonnummer | Geben Sie hier die Telefonnummer der Ansprechperson ein.
+USt-IdNr | Geben Sie hier die Umsatzsteuer-Identifikationsnummer des Käufers ein.
 Leitweg-ID | Geben Sie hier die Leitweg-ID des Käufers ein. Pflicht für behördliche Rechnungen, bei B2B Rechnungen optional.
-XRechnung | Reines XML-Format, das den Anforderungen der europäischen Norm EN 16931 entspricht.
-Rechnungsempfänger | Wählen Sie hier die Beziehung zum Rechnungsempfänger.
+XRechnung | Wählen Sie hier, wenn anstelle eines PDFs nur ein reines XML-Format generiert werden soll, das den Anforderungen der europäischen Norm EN 16931 entspricht.
+Rechnungsempfänger | Wählen Sie hier die Beziehung zum Rechnungsempfänger. Die Felder für den Rechnungsempfänger werden anhand der gleichen Konfiguration wie für den Käufer festgelegt. Ist kein Rechnungsempfänger angegeben, wird der Käufer automatisch als Rechnungsempfänger festgelegt.
 
 ## Position
 
-<img src="/docs/Position.png" alt="Position"/> 
+<img src="/docs/Position.webp" alt="Position"/> 
 
 Feld | Beschreibung 
 :-- | :-- | 
 Position* | Wählen Sie hier Ihre Positionstabelle.
-Sortierung* | Wähle Sie hier ein Feld zur die Sortierung aus.
-Verknüpfung* | Wählen Sie hier die Beziehung zur Position. 
+Sortierung* | Wählen Sie hier ein Feld für die Sortierung aus.
+Verknüpfung* | Wählen Sie hier die Beziehung zur Positionstabelle. 
 Menge* | Geben Sie hier die Menge des in Rechnung gestellten Artikels ein.
 Bezeichnung* | Geben Sie hier die Bezeichnung des in Rechnung gestellten Artikels ein.
 Einzelpreis* | Geben Sie hier den Einzelpreis für den Artikel ohne Umsatzsteuer ein.
 Artikel-Nr | Geben Sie hier die Kennung des in Rechnung gestellten Artikels ein, die vom Verkäufer zugewiesen wird.
 Detailbeschreibung | Geben Sie hier eine detaillierte Beschreibung des in Rechnung gestellten Artikels ein.
 USt | Wählen Sie hier die für den in Rechnung gestellten Artikel geltende Umsatzsteuerkategorie aus.
-Nachlassprozent | Geben Sie hier den prozentualen Nachlass ein.
-Nachlassbetrag | Geben Sie hier den Grundbetrag ein, der unter Anwendung des Prozentsatzes des Nachlasses den Nachlassbetrag ergibt.
-Nachlassgrund | Geben Sie hier den Grund für den Nachlass ein.
+Reverse-Charge | Geben Sie an, ob es sich um eine Reverse-Charge handelt.
+Prozent | Geben Sie hier den prozentualen Nachlass ein.
+Betrag | Geben Sie hier den Nachlassbetrag (ohne Umsatzsteuer) ein, der u. a. des Prozentsatzes vom Positionsbetrag abgezogen wird.
+Grund | Geben Sie hier den Grund für den Nachlass ein. 
+ 
+## Zu- und Abschlag
+
+<img src="/docs/Abschlag.webp" alt="Zu- und Abschlag"/> 
+
+Feld | Beschreibung 
+:-- | :-- | 
+Tabelle | Wählen Sie hier Ihre Tabelle für Zu- und Abschläge auf Rechnungsebene.
+Sortierung | Wählen Sie hier ein Feld für die Sortierung aus.
+Verknüpfung | Wählen Sie hier die Beziehung zur Tabelle für Zu- und Abschläge. 
+Grund | Geben Sie hier den Grund für den Zu- oder Abschlag ein.
+Betrag | Geben Sie hier den Betrag (ohne Umsatzsteuer) ein, der u. a. des Prozentsatzes dem Gesamtrechnungsbetrag als Zu- oder Abschlag hinzugefügt wird. 
+USt | Geben Sie hier den Umsatzsteuersatz in Prozent ein, der für den Zu- oder Abschlag gilt.
+Prozentsatz | Geben Sie hier den prozentualen Zu- oder Abschlag ein.
+Grundbetrag | Geben Sie hier den Grundbetrag ein, der unter Anwendung des Prozentsatzes des Zu- oder Abschlag den Betrag ergibt. 
+Abschlag | Wählen Sie hier, ob es sich um einen Abschlag handelt, andernfalls ist es ein Zuschlag.
+Reverse-Charge | Geben Sie an, ob es sich um eine Reverse-Charge handelt.
+
 
 ## Zahlungsdaten
 
-<img src="/docs/Zahlungsdaten.png" alt="Zahlungsdaten"/> 
+<img src="/docs/Zahlungsdaten.webp" alt="Zahlungsdaten"/> 
 
 Feld | Beschreibung 
 :-- | :-- | 

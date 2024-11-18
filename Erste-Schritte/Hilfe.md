@@ -4,6 +4,14 @@ Erste Hilfe
   
 Eine kurze Übersicht relevanter Themen für Problemlösungen und Supportfälle.
 
+### XRechnung aus ZUGFeRD extrahieren mit Adobe Acrobat
+ 
+- Öffnen Sie das ZUGFeRD-Dokument in Adobe Acrobat.
+- Klicken Sie auf das :paperclip: (Büroklammer-Symbol), um die Anhänge im PDF anzuzeigen.
+- Speichern Sie die Anlage `ZUGFeRD-invoice.xml` lokal auf Ihrem Rechner ab. 
+
+<img src="/docs/Extrahieren.webp" alt="XRechnung extrahieren"/> 
+
 ## Problemlösungen
 
 ### Problem mit der Auflösung 

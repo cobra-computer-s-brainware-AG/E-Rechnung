@@ -32,6 +32,7 @@ Pflicht  | Feldname | Feldtyp |
 | :heavy_exclamation_mark: | E-Mail | E-Mail
 |  | Ansprechpartner | Vorname, Nachname, Virtuell
 |  | Telefonnummer  | Telefon
+|  | USt-IdNr | Text 
 |  | Leitweg-ID | Text 
 |  | XRechnung | Ja/Nein
 |  | Mandatsreferenz | Text 
@@ -48,7 +49,7 @@ Pflicht  | Feldname | Feldtyp |
 | :heavy_exclamation_mark: | Käufer (Adresse) | SuperId, FK
 | :heavy_exclamation_mark: | Rechnungsnummer | Zahl, Zähler, ID, Text, Virtuell
 | :heavy_exclamation_mark: | Rechnungsdatum | Datum 
-| :heavy_exclamation_mark: | Lieferdatum | Datum 
+| :heavy_exclamation_mark: | Liefer-/Leistungsdatum | Datum 
 | :heavy_exclamation_mark: |  Dokument | Dokument 
 | :heavy_exclamation_mark: |  Dokumentdatum | Datum 
 | :heavy_exclamation_mark: |  E-Mail für Versand | E-Mail
@@ -77,9 +78,10 @@ Pflicht  | Feldname | Feldtyp |
 | | Artikel-Nr | Text 
 | | Detailbeschreibung | Text, Bemerkung
 | | USt | Zahl 
-| | Nachlassprozent | Zahl 
-| | Nachlassbetrag | Zahl, Währung  
-| | Nachlassgrund | Text 
+| | Reverse-Charge | Ja/Nein
+| | Prozent | Zahl 
+| | Betrag | Zahl, Währung  
+| | Grund | Text  
 
 ### Zu- und Abschlag
 
@@ -96,7 +98,8 @@ Pflicht  | Feldname | Feldtyp |
 | | USt | Zahl 
 | | Prozentsaatz | Zahl
 | | Grundbetrag | Zahl, Währung, Rechenfeld
-| | Ist Abschlag | Ja/Nein
+| | Abschlag | Ja/Nein
+| | Reverse-Charge | Ja/Nein
 
 ##
 

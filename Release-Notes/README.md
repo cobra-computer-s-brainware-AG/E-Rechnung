@@ -2,7 +2,58 @@
 
 > [!NOTE]
 > Die Anleitung für das Update finden Sie [hier](/Erste-Schritte/Update.md)
+
+## Beta 10
+
+* ### NEU: cobra 2025
+  Die E-Rechnung-Erweiterung ist auch mit `cobra 2025` kompatibel.
+
+* ### NEU: Zugriffsbeschränkung für Einstellungen
+  Die Einstellungen sind nur zugänglich, wenn der Benutzer über die Berechtigung für die Datenbankstruktur verfügt. `#60`
+
+* ### NEU: Zu- und Abschläg
+  Neu können Zu- und Abschläge auf Rechnungsebene hinzugefügt werden, wofür eine untergeordnete Tabelle zur Rechnung ergänzt wird. Für die Zu- und Abschläge stehen zudem neue Platzhalter in der Wordvorlage zur Verfügung. `#46`     
+  [Zu- und Abschläg](/Erste-Schritte/Allgemeines.md#zu--und-abschlag)
+
+* ### NEU: Reverse-Charge
+  Neu kann das Reverse-Charge-Verfahren (Umkehr der Steuerschuldnerschaft) sowohl in den `Positionen` als auch bei `Zu- und Abschlägen` angewendet werden. `#45`       
+  [Position](/Erste-Schritte/Einstellungen.md#position)
  
+* ### NEU: Allgemein heisst jetzt Rechnung
+  In den Einstellungen wurde `Allgemein` in `Rechnung` umbenannt.     
+  [Rechnung](/Erste-Schritte/Einstellungen.md#Rechnung) 
+
+* ### NEU: E-Mail Feld auf Rechnung
+  Um die Rechnung einfacher an die E-Mail-Adresse des Käufers versenden zu können, wird ein neues E-Mail-Feld in der Rechnungstabelle benötigt.
+  Beim Erstellen der Rechnung wird die E-Mail-Adresse des Käufers in dieses Feld kopiert.
+  Dadurch wird die Konfiguration im Serien-E-Mailer für die Ziel-E-Mail-Adresse vereinfacht, und der Serien-E-Mail-Versand wird auch mit CRM PLUS kompatibel. `#58`      
+  [Rechnung](/Erste-Schritte/Einstellungen.md#Rechnung)
+
+* ### NEU: Käufer/Rechnungsempfänger
+  Wenn in den Einstellungen unter `Käufer` ein Rechnungsempfänger konfiguriert ist, wird der Käufer bei der Generierung automatisch in das Feld Rechnungsempfänger kopiert, sofern dieses leer ist.
+  Im Serien-E-Mailer kann dann die Route zum Rechnungsempfänger gewählt werden, sodass der Kontakteintrag bei der richtigen Adresse abgelegt wird. `#66`
+
+* ### Bugfixes und Diverse
+  
+  Die Texte für Nachlässe wurden Angepasst. `#59`
+
+  Die Positionen wurden im PDF nicht korrekt sortiert. `#61`
+
+  Das Laden des Datensatzes wurde Optimiert. `#63`
+
+  Leistungsdatum und Abrechnungszeitraum werden bei der Eingabe bereinigt, um unnötige Fehlermeldungen beim Speichern zu vermeiden. `#64`
+
+  Leerer Abrechnungszeitraum wird bei der Generierung besser validiert. `#65`
+
+  Allen Konfigurationsfeldern wurde ein Info-Button hinzugefügt.
+
+  Die Tabelle für Zu- und Abschläge wird bei der automatischen Generierung mit erstellt.
+
+  In den Einstellungen wurde der Filter angepasst, sodass das Beziehungsfeld nicht mehr angezeigt wird.
+
+  Die Datenbankstruktur wird nach der automatischen Generierung automatisch neu geladen.
+  
+
 ## Beta 9 
 
 * ### NEU: Hinweistext Einstellungen
