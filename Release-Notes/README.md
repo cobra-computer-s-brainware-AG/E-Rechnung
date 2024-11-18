@@ -49,7 +49,9 @@
 
   Die Tabelle für Zu- und Abschläge wird bei der automatischen Generierung mit erstellt.
 
-  In den Einstellungen wurde der Filter angepasst, sodass das Beziehungsfeld nicht mehr angezeigt wird.  
+  In den Einstellungen wurde der Filter angepasst, sodass das Beziehungsfeld nicht mehr angezeigt wird.
+
+  Die Datenbankstruktur wird nach der automatischen Generierung der Datenbankstruktur automatisch neu geladen.
   
 ## Beta 9 
 
