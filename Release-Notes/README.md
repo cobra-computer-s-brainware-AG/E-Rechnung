@@ -51,7 +51,7 @@
 
   In den Einstellungen wurde der Filter angepasst, sodass das Beziehungsfeld nicht mehr angezeigt wird.
 
-  Die Datenbankstruktur wird nach der automatischen Generierung der Datenbankstruktur automatisch neu geladen.
+  Die Datenbankstruktur wird nach der automatischen Generierung automatisch neu geladen.
   
 ## Beta 9 
 
