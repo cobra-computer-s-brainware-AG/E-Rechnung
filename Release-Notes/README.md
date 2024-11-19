@@ -6,7 +6,7 @@
 ## RC 1
 
 * ### NEU: Einstellungen Validierung
-  In den Einstellungen werden Validierungen direkt über die neuen Badges angezeigt.
+  In den Einstellungen werden Validierungen direkt über die neuen Badges angezeigt. `#69`
  
 * ### Bugfixes und Diverse
 
