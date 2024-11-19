@@ -63,7 +63,9 @@ Pflicht  | Feldname | Feldtyp |
 | | Vertragsnummer | Text, Zahl
 | | Bestellnummer | Text, Zahl
 | | Bemerkung | Bemerkung 
-| | Rechnungsempfänger (Adresse) | SuperId, FK
+| * | Verknüpfung zur Adresse (Rechnungsempfänger) | FK
+
+*nicht in CRM PLUS möglich
 
 ### Position
 
