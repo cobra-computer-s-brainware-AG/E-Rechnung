@@ -4,17 +4,17 @@ Erste Schritte
  
 Klicken Sie im Menüband auf `Serienrechnung`, um mehrere Einzelrechnungen zu generieren.
  
-<img src="/docs/Serienrechnung.png" alt="Serienrechnung"/>
+<img src="/docs/Serienrechnung.webp" alt="Serienrechnung"/>
 
 - Wählen Sie das gewünschte Format aus.
 - Wählen Sie den gewünschten Datensatz aus.
 - Bestätigen Sie Ihre Eingabe mit `OK`.
 
-<img src="/docs/Warten.png" alt="Warten"/>
+<img src="/docs/Warten.webp" alt="Warten"/>
 
 - Warten Sie, bis die E-Rechnungen erstellt wurden.
 
-<img src="/docs/Erstellt4.png" alt="Erstellt"/>
+<img src="/docs/Erstellt4.webp" alt="Erstellt"/>
 
 Nach erfolgreicher Erstellung können Sie die E-Rechnungen als [Serien-E-Mail](https://systemverwalter.cobra-hilfe.de/docs/kurzanleitung#serienmail-assistent) an die Rechnungsempfänger versenden.
 

@@ -7,17 +7,17 @@ Erste Schritte
 > [!TIP]
 > Für Testzwecke empfehlen wir, zunächst die automatische Generierung der Datenbankstruktur zu nutzen, bevor Sie mit der individuellen Konfiguration beginnen. Diese Option wird Ihnen beim ersten Klick auf `Einstellungen` angeboten.
 >  
-> <img src="/docs/Datenbankstruktur.png" alt="Datenbankstruktur" height="150"/> 
+> <img src="/docs/Datenbankstruktur.webp" alt="Datenbankstruktur" height="150"/> 
 > 
 > - Zusätzlich zur Datenbankstruktur werden Demodaten, ein Demo-Format, eine Demoansicht und ein Demo-Serien-E-Mail-Format angelegt. So können Sie direkt mit dem Testen beginnen.
 > 
 > - Ab CRM PRO kann die automatisch generierte Positionstabelle über ein Beziehungsfeld mit einer Artikeltabelle (Freientabelle) verknüpft werden.
 > 
->   <img src="/docs/Artikeltabelle.png" alt="Artikeltabelle.png" height="150"/> 
+>   <img src="/docs/Artikeltabelle.webp" alt="Artikeltabelle.webp" height="150"/> 
 > 
 > - Optional lässt sich eine einfache Kopierregel zusammenstellen.
 >
->   <img src="/docs/Kopierregel.png" alt="Kopierregel" /> 
+>   <img src="/docs/Kopierregel.webp" alt="Kopierregel" /> 
 > 
 >   - Wählen Sie die gewünschte Artikeltabelle aus.
 >   - Ordnen Sie die gewünschten Felder der Artikeltabelle der Positionstabelle zu.
@@ -36,7 +36,7 @@ In diesem Kapitel wird beschrieben, wie Sie eine individuelle Konfiguration vorn
 
 Um ein neues Format zu erstellen, klicken Sie bei `Format` auf das Pluszeichen (+).
 
-<img src="/docs/Neu.png" alt="Neu"/> 
+<img src="/docs/Neu.webp" alt="Neu"/> 
 
 - Geben Sie dem Format einen Namen. 
 - Wenn Sie die Einstellungen des aktuellen Formats übernehmen möchten, können Sie es duplizieren.
@@ -46,7 +46,7 @@ Um ein neues Format zu erstellen, klicken Sie bei `Format` auf das Pluszeichen (
 
 Um ein Format zu löschen, klicken Sie bei `Format` auf das X-Symbol (X).
 
-<img src="/docs/Löschen.png" alt="Löschen"/> 
+<img src="/docs/Löschen.webp" alt="Löschen"/> 
 
 - Bestätigen Sie Ihre Eingabe mit `Ja`.
 
@@ -180,13 +180,13 @@ Vorauszahlung | Geben Sie hier die Summe der bereits gezahlten Beträge ein.
 
 ## Filter
 
-<img src="/docs/Filter.png" alt="Filter"/> 
+<img src="/docs/Filter.webp" alt="Filter"/> 
 
 Hier können Sie einen frei wählbaren Filter konfigurieren.
 
 ## Kontakteintrag
 
-<img src="/docs/Kontakteintrag.png" alt="Kontakteintrag"/> 
+<img src="/docs/Kontakteintrag.webp" alt="Kontakteintrag"/> 
 
 Feld | Beschreibung 
 :-- | :-- | 
@@ -202,7 +202,7 @@ Bemerkung | Hier können Sie eine Bemerkung zum Kontakteintrag hinzufügen. Sie 
 > 
 > Weitere Information zu Datenschutz und [Personenbezogenen Daten](https://systemverwalter.cobra-hilfe.de//docs/datenschutz) finden Sie hier.
 
-<img src="/docs/Datenschutz.png" alt="Datenschutz"/> 
+<img src="/docs/Datenschutz.webp" alt="Datenschutz"/> 
 
 Feld | Beschreibung 
 :-- | :-- | 

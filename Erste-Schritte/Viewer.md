@@ -4,11 +4,11 @@ Erste Schritte
  
 Klicken Sie im Menüband auf `Viewer`, um den Viewer zu öffnen.
   
-<img src="/docs/Öffnen.png" alt="Öffnen"/> 
+<img src="/docs/Öffnen.webp" alt="Öffnen"/> 
 
 Wählen Sie eine XRechnung aus, die in ein für Menschen lesbares PDF-Format konvertiert werden soll. 
 
-<img src="/docs/Viewer.png" alt="Viewer"/> 
+<img src="/docs/Viewer.webp" alt="Viewer"/> 
 
 Nach der Konvertierung können Sie die E-Rechnung speichern oder eine neue XRechnung konvertieren.
 

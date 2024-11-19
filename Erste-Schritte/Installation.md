@@ -15,14 +15,14 @@ Durch die Netzwerk-Installation wird garantiert, dass jeder Benutzer dieselbe Ve
 > [!IMPORTANT]
 > Nach dem Download muss die Datei ggf. als sicher eingestuft werden.
 > 
-> <img src="/docs/Zulassen.png" alt="Zulassen" Height="400"/> 
+> <img src="/docs/Zulassen.webp" alt="Zulassen" Height="400"/> 
 
 ## Netzwerk-Installation
 
 - Installieren Sie die Datei `E-Rechnung.Installer.msi` in Ihr cobra-Systemverzeichnis.
 - Tragen Sie ggf. den korrekten Pfad des Zielordners ein.
 
-<img src="/docs/System_Installation.png" alt="Installation"/>
+<img src="/docs/System_Installation.webp" alt="Installation"/>
 
 - Bestätigen Sie die Einstellungen durch einen Klick auf `Weiter` und schließen Sie anschließend den Installationsprozess ab.
 
@@ -34,11 +34,11 @@ Durch die Netzwerk-Installation wird garantiert, dass jeder Benutzer dieselbe Ve
 
 Sie finden die Installationsdateien in Ihrem cobra-Systemverzeichnis exemplarisch unter `..\System\Schnittstellen\E-Rechnung\`.
 
-<img src="/docs/System.png" alt="System"/> 
+<img src="/docs/System.webp" alt="System"/> 
 
 - Installieren Sie die Datei `E-Rechnung.ClientSetup.64.msi`. 
 
-<img src="/docs/Client_Installation.png" alt="Installation"/> 
+<img src="/docs/Client_Installation.webp" alt="Installation"/> 
 
 - Bestätigen Sie die Einstellungen durch einen Klick auf `Weiter` und schließen Sie in der Folge den Installationsprozess ab.
 
