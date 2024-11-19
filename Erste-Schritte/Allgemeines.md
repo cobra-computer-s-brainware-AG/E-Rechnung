@@ -80,7 +80,7 @@ Pflicht  | Feldname | Feldtyp |
 | | USt | Zahl 
 | | Reverse-Charge | Ja/Nein
 | | Prozent | Zahl 
-| | Betrag | Zahl, Währung  
+| | Betrag | Zahl, Währung, Rechenfeld
 | | Grund | Text  
 
 ### Zu- und Abschlag
