@@ -3,6 +3,14 @@
 > [!NOTE]
 > Die Anleitung für das Update finden Sie [hier](/Erste-Schritte/Update.md)
 
+## RC 1
+
+* ### Bugfixes und Diverse
+
+  Beim Erstellen der Kopierregel kann der Vorgang abgebrochen werden. Falls die Kopierregel nicht erstellt werden kann, wird ein entsprechender Hinweis ausgegeben. `#72`
+
+  Die Tabelle `Zu- und Abschlag` ist nicht optional. Ein Fehler trat auf, da sie nicht korrekt konfiguriert wurde. `#71`
+
 ## Beta 10
 
 * ### NEU: cobra 2025
