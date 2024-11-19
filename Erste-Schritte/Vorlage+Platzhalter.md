@@ -85,7 +85,17 @@ Platzhalter  | Wert
 {USt%} | Steuersatz in Prozent
 {Rabatt%} | Rabatt in Prozent
 {Rabatt} | Rabattbetrag 
- 
+
+### Zu- und Abschlagtabelle
+
+Platzhalter  | Wert
+:-- | :-- 
+{Grund} | Grund
+{Prozentsatz} | Prozentsatz
+{Basisbetrag} | Basisbetrag
+{Betrag} | Betrag
+{USt%} | Steuersatz in Prozent
+
 ##
 
 [Nächste](./Installation.md) 
