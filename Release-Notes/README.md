@@ -12,7 +12,7 @@
 
   Beim Erstellen der Kopierregel kann der Vorgang abgebrochen werden. Falls die Kopierregel nicht erstellt werden kann, wird ein entsprechender Hinweis ausgegeben. `#72`
 
-  Die Tabelle `Zu- und Abschlag` ist nicht optional. Ein Fehler trat auf, da sie nicht korrekt konfiguriert wurde. `#71`
+  Die Tabelle `Zu- und Abschlag` ist jetzt optional. `#71`
 
   Die E-Rechnung wurde bei jedem Update in `Programme und Features` hinzugefügt. `#68`
 
