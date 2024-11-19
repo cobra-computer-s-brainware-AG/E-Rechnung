@@ -21,7 +21,7 @@ Die `Zu- und Abschläge` werden ebenfalls in der Untervorlage als separate Tabel
 Die `Umsatzsteuer` wird in der Hauptvorlage automatisch für jeden Steuerschlüssel ergänzt. 
 
 <p align="center">
-<img src="/docs/Template-ligh.webp" alt="Template" Height="400" /> 
+<img src="/docs/Template-light.webp" alt="Template" Height="400" /> 
 </p>
 
 ## Platzhalter
