@@ -14,7 +14,7 @@
 
   Die Tabelle `Zu- und Abschlag` ist jetzt optional. `#71`
 
-  Die E-Rechnung wurde bei jedem Update in `Programme und Features` hinzugefügt. `#68`
+  Die E-Rechnung wird bei einem Update in `Programme und Features` aktualisiert. `#68`
 
 ## Beta 10
 
