@@ -10,6 +10,8 @@
  
 * ### Bugfixes und Diverse
 
+  Vertragsnummer und Projektkennung fehlten im XRechnung. `#74` 
+
   Beim Erstellen der Kopierregel kann der Vorgang abgebrochen werden. Falls die Kopierregel nicht erstellt werden kann, wird ein entsprechender Hinweis ausgegeben. `#72`
 
   Die Tabelle `Zu- und Abschlag` ist jetzt optional. `#71`
