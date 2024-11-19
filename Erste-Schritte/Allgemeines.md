@@ -46,7 +46,7 @@ Die Rechnungstabelle wird für die Verwaltung der Rechnung benötigt.
 
 Pflicht  | Feldname | Feldtyp |
 :--: | :-- | :-- |
-| :heavy_exclamation_mark: | Käufer (Adresse) | SuperId, FK
+| :heavy_exclamation_mark: | Verknüpfung zur Adresse (Käufer) | SuperId, FK
 | :heavy_exclamation_mark: | Rechnungsnummer | Zahl, Zähler, ID, Text, Virtuell
 | :heavy_exclamation_mark: | Rechnungsdatum | Datum 
 | :heavy_exclamation_mark: | Liefer-/Leistungsdatum | Datum 
