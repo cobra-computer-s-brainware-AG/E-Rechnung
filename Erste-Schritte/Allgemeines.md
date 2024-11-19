@@ -65,7 +65,7 @@ Pflicht  | Feldname | Feldtyp |
 | | Bemerkung | Bemerkung 
 | * | Verknüpfung zur Adresse (Rechnungsempfänger) | FK
 
-*nicht in CRM PLUS möglich
+> *nicht in CRM PLUS möglich
 
 ### Position
 
