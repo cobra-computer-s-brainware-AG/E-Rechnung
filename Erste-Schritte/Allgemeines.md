@@ -46,7 +46,7 @@ Die Rechnungstabelle wird für die Verwaltung der Rechnung benötigt.
 
 Pflicht  | Feldname | Feldtyp |
 :--: | :-- | :-- |
-| :heavy_exclamation_mark: | Käufer (Adresse) | SuperId, FK
+| :heavy_exclamation_mark: | Verknüpfung zur Adresse (Käufer) | SuperId, FK
 | :heavy_exclamation_mark: | Rechnungsnummer | Zahl, Zähler, ID, Text, Virtuell
 | :heavy_exclamation_mark: | Rechnungsdatum | Datum 
 | :heavy_exclamation_mark: | Liefer-/Leistungsdatum | Datum 
@@ -63,7 +63,10 @@ Pflicht  | Feldname | Feldtyp |
 | | Vertragsnummer | Text, Zahl
 | | Bestellnummer | Text, Zahl
 | | Bemerkung | Bemerkung 
-| | Rechnungsempfänger (Adresse) | SuperId, FK
+| * | Verknüpfung zur Adresse (Rechnungsempfänger) | FK
+
+> [!NOTE]
+> *nicht in CRM PLUS möglich
 
 ### Position
 
@@ -80,7 +83,7 @@ Pflicht  | Feldname | Feldtyp |
 | | USt | Zahl 
 | | Reverse-Charge | Ja/Nein
 | | Prozent | Zahl 
-| | Betrag | Zahl, Währung  
+| | Betrag | Zahl, Währung, Rechenfeld
 | | Grund | Text  
 
 ### Zu- und Abschlag

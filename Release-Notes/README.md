@@ -3,6 +3,21 @@
 > [!NOTE]
 > Die Anleitung für das Update finden Sie [hier](/Erste-Schritte/Update.md)
 
+## RC 1
+
+* ### NEU: Einstellungen Validierung
+  In den Einstellungen werden Validierungen direkt über die neuen Badges angezeigt. `#69`
+ 
+* ### Bugfixes und Diverse
+
+  Vertragsnummer und Projektkennung fehlten im XRechnung. `#74` 
+
+  Beim Erstellen der Kopierregel kann der Vorgang abgebrochen werden. Falls die Kopierregel nicht erstellt werden kann, wird ein entsprechender Hinweis ausgegeben. `#72`
+
+  Die Tabelle `Zu- und Abschlag` ist jetzt optional. `#71`
+
+  Die E-Rechnung wird bei einem Update in `Programme und Features` aktualisiert. `#68`
+
 ## Beta 10
 
 * ### NEU: cobra 2025
