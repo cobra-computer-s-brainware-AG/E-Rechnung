@@ -30,7 +30,7 @@ Die Tabellennamen finden Sie in den Einstellungen im gewünschten Format.
 
 <img src="/docs/PräfixAbschlag.webp" alt="Präfix Abschlag"/>
 
-### XRechnung aus ZUGFeRD extrahieren mit Adobe Acrobat
+## XRechnung aus ZUGFeRD extrahieren mit Adobe Acrobat
  
 - Öffnen Sie das ZUGFeRD-Dokument in Adobe Acrobat.
 - Klicken Sie auf das :paperclip: (Büroklammer-Symbol), um die Anhänge im PDF anzuzeigen.
