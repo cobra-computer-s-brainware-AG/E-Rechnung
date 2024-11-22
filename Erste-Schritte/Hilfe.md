@@ -19,7 +19,7 @@ Die Tabellennamen finden Sie in den Einstellungen im gewünschten Format. Der Pr
 
 Fügen Sie nun den Tabellennamen zusammen mit dem Feldnamen in Ihre Hauptvorlage ein. 
 
-Zum Beispiel: `{E-Rechnung.Lieferdatum}`, `{E-Rechnung.Bemerkung}`, `{Adressen.Briefanrede}`, `{Adressen.Adresskopf}` usw.
+Zum Beispiel: `{Adressen.Adresskopf}`, `{Adressen.Briefanrede}`, `{E-Rechnung.Rechnungsdatum}`, `{E-Rechnung.Lieferdatum}` usw.
 
 <img src="/docs/Hauptvorlage.webp" alt="Hauptvorlage Beispiel"/> 
 
