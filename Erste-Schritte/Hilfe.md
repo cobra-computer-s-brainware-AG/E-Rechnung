@@ -56,10 +56,28 @@ Zum Beispiel: `{E-Position.Bezeichnung}`, `{E-Rechnung.Menge}`, `{Zu- und Abschl
 
 Die Positionstabelle sowie die Zu- und Abschlagtabelle werden nur mit dem `Präfix` des cobra-Tabellennamens in die Hauptvorlage eingebunden.
  
-<img src="/docs/HauptvorlageUntervoralge.webp" alt="Untervorlage in Hauptvorlage einbinden"/>
+<img src="/docs/HauptvorlageUntervoralge.webp" alt="Untervorlage in Hauptvorlage"/>
  
 > [!TIP]
 > Verbinden Sie hierfür alle Zellen in einer Zeile.
+
+
+### Umsatzsteuer in Hauptvorlage einbinden
+
+Die Umsatzsteuer wird in der Hauptvorlage automatisch für jeden Steuerschlüssel ergänzt. 
+
+Fügen Sie dafür die entsprechenden Systemplatzhalter in Ihre Hauptvorlage.
+ 
+<img src="/docs/HauptvorlageUmstzstuer.webp" alt="Umsatzsteuer in Hauptvorlage"/> 
+  
+> [!IMPORTANT]
+> Die Platzhalter für Umsatzsteuer müssen innerhalb einer Tabelle eingefügt werden.
+
+> [!NOTE]
+> Die Systemplatzahlter finden Sie [hier](/Erste-Schritte/Vorlage+Platzhalter.md#platzhalter)
+
+
+
 
 
 
