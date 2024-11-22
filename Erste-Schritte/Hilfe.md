@@ -55,13 +55,11 @@ Zum Beispiel: `{E-Position.Bezeichnung}`, `{E-Rechnung.Menge}`, `{Zu- und Abschl
 </p>
 
 Die Positionstabelle sowie die Zu- und Abschlagtabelle werden nur mit dem `Präfix` des cobra-Tabellennamens in die Hauptvorlage eingebunden.
-
-> [!TIP]
-> Verbinden Sie hierfür alle Zellen in einer Zeile.
  
 <img src="/docs/HauptvorlageUntervoralge.webp" alt="Untervorlage in Hauptvorlage einbinden"/>
  
-
+> [!TIP]
+> Verbinden Sie hierfür alle Zellen in einer Zeile.
 
 
 
