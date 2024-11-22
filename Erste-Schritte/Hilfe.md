@@ -43,7 +43,7 @@ Die Tabellennamen finden Sie in den Einstellungen im gewünschten Format.
 
 Fügen Sie nun den Tabellennamen zusammen mit dem Feldnamen in Ihre Untervorlage ein.
 
-Zum Beispiel: `{E-Position.Bezeichnung}`, `{E-Rechnung.Menge}`, `{Zu- und Abschlag.Grund}`, `{Zu- und Abschlag.Betrag}` usw.
+Zum Beispiel: `{E-Position.Bezeichnung}`, `{Zu- und Abschlag.Grund}` usw.
 
 <img src="/docs/Untervorlage.webp" alt="Untervorlage Beispiel"/>  
 
