@@ -16,7 +16,10 @@ Die Tabellennamen finden Sie in den Einstellungen im gewünschten Format. Der Pr
   
 <img src="/docs/PräfixRechnung.webp" alt="Präfix Rechnung"/> 
 
-Fügen Sie nun den Tabellennamen zusammen mit dem Feldnamen in Ihre Vorlage ein.
+Fügen Sie nun den Tabellennamen zusammen mit dem Feldnamen in Ihre Hauptvorlage ein. 
+
+> [!NOTE]
+> Die Systemplatzahlter finden Sie [hier](/Erste-Schritte/Vorlage+Platzhalter.md#rechnungstabelle)
 
 Zum Beispiel: `{E-Rechnung.Bestellnummer}`, `{E-Rechnung.Bemerkung}`, `{Adressen.Firma}`, `{Adressen.Adresskopf}` usw.
 
@@ -29,6 +32,16 @@ Die Tabellennamen finden Sie in den Einstellungen im gewünschten Format.
 <img src="/docs/PräfixPosition.webp" alt="Präfix Position"/> 
 
 <img src="/docs/PräfixAbschlag.webp" alt="Präfix Abschlag"/>
+
+> [!IMPORTANT]
+> Die Platzhalter in der Untervorlage müssen innerhalb einer Tabelle eingefügt werden.
+
+Fügen Sie nun den Tabellennamen zusammen mit dem Feldnamen in Ihre Untervorlage ein.
+
+> [!NOTE]
+> Die Systemplatzahlter finden Sie [hier](/Erste-Schritte/Vorlage+Platzhalter.md#positionstabelle)
+
+Zum Beispiel: `{E-Position.Bezeichnung}`, `{E-Rechnung.Menge}`, `{Zu- und Abschlag.Grund}`, `{Zu- und Abschlag.Betrag}` usw.
 
 ## XRechnung aus ZUGFeRD extrahieren mit Adobe Acrobat
  
