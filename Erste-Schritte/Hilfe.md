@@ -9,8 +9,8 @@ Eine kurze Übersicht relevanter Themen für Problemlösungen und Supportfälle.
 - Fügen Sie in die Word-Vorlage Ihre Texte und Platzahlter hinzu.
   #### Platzhalter Rechnung
   - In der Hauptvorlage können Sie die `Systemplatzhalter` als auch die cobra Seriendruckfelder für die Tabellen `Adresse` und `Rechnung` hinzufügen.
-  - Die `Präfixe` für Adresse und Rechnung entsprechen den cobra-Tabellennamen. Die Tabellennamen finden Sie in den Einstellungen im gewünschten Format.
-  - Der Pfäfix für Adresse ist `Adressen`.
+  - Die `Präfixe` für Adresse und Rechnung entsprechen den cobra-Tabellennamen. 
+  - Die Tabellennamen finden Sie in den Einstellungen im gewünschten Format. Der Pfäfix für Adresse ist `Adressen`.
   - <img src="/docs/PräfixRechnung.webp" alt="Präfix Rechnung"/> 
 
 ### XRechnung aus ZUGFeRD extrahieren mit Adobe Acrobat
