@@ -51,7 +51,7 @@ Zum Beispiel: `{E-Position.Bezeichnung}`, `{E-Rechnung.Menge}`, `{Zu- und Abschl
 ### Untervorlage in Hauptvorlage einbinden
 
 <p align="center">
-<img src="/docs/Template-light.webp" alt="Template" Height="400" /> 
+<img src="/docs/Subtemplate-light.webp" alt="Subtemplate" Height="400" /> 
 </p>
 
 Die Positionstabelle sowie die Zu- und Abschlagtabelle werden nur mit dem `Präfix` des cobra-Tabellennamens in die Hauptvorlage eingebunden.
@@ -63,6 +63,10 @@ Die Positionstabelle sowie die Zu- und Abschlagtabelle werden nur mit dem `Präf
 
 
 ### Umsatzsteuer in Hauptvorlage einbinden
+
+<p align="center">
+<img src="/docs/Taxtemplate-light.webp" alt="Taxtemplate" Height="400" /> 
+</p>
 
 Die Umsatzsteuer wird in der Hauptvorlage automatisch für jeden Steuerschlüssel ergänzt. 
 
