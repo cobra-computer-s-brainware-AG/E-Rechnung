@@ -19,7 +19,7 @@ Die Tabellennamen finden Sie in den Einstellungen im gewünschten Format. Der Pr
 Fügen Sie nun den Tabellennamen zusammen mit dem Feldnamen in Ihre Hauptvorlage ein. 
 
 > [!NOTE]
-> Die Systemplatzahlter finden Sie [hier](/Erste-Schritte/Vorlage+Platzhalter.md#rechnungstabelle)
+> Die Systemplatzahlter finden Sie [hier](/Erste-Schritte/Vorlage+Platzhalter.md#platzhalter)
 
 Zum Beispiel: `{E-Rechnung.Bestellnummer}`, `{E-Rechnung.Bemerkung}`, `{Adressen.Firma}`, `{Adressen.Adresskopf}` usw.
 
@@ -39,7 +39,7 @@ Die Tabellennamen finden Sie in den Einstellungen im gewünschten Format.
 Fügen Sie nun den Tabellennamen zusammen mit dem Feldnamen in Ihre Untervorlage ein.
 
 > [!NOTE]
-> Die Systemplatzahlter finden Sie [hier](/Erste-Schritte/Vorlage+Platzhalter.md#positionstabelle)
+> Die Systemplatzahlter finden Sie [hier](/Erste-Schritte/Vorlage+Platzhalter.md#platzhalter)
 
 Zum Beispiel: `{E-Position.Bezeichnung}`, `{E-Rechnung.Menge}`, `{Zu- und Abschlag.Grund}`, `{Zu- und Abschlag.Betrag}` usw.
 
