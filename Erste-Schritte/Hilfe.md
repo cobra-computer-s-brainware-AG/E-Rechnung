@@ -45,9 +45,7 @@ Fügen Sie nun den Tabellennamen zusammen mit dem Feldnamen in Ihre Untervorlage
 
 Zum Beispiel: `{E-Position.Bezeichnung}`, `{E-Rechnung.Menge}`, `{Zu- und Abschlag.Grund}`, `{Zu- und Abschlag.Betrag}` usw.
 
-<img src="/docs/UntervorlagePosition.webp" alt="Untervorlage Beispiel"/> 
-
-<img src="/docs/UntervorlageAbschlag.webp" alt="Untervorlage Beispiel"/> 
+<img src="/docs/Untervorlage.webp" alt="Untervorlage Beispiel"/>  
 
 > [!NOTE]
 > Die Systemplatzahlter finden Sie [hier](/Erste-Schritte/Vorlage+Platzhalter.md#platzhalter)
