@@ -47,6 +47,12 @@ Zum Beispiel: `{E-Position.Bezeichnung}`, `{E-Rechnung.Menge}`, `{Zu- und Abschl
 
 
 
+### Untervorlage in Hauptvorlage einbinden
+Die Positionstabelle sowie die Zu- und Abschlagtabelle werden nur mit dem `Präfix` des cobra-Tabellennamens in die Hauptvorlage eingebunden.
+
+<img src="/docs/HauptvorlageUntervoralge.webp" alt="Untervorlage in Hauptvorlage einbinden"/>
+
+
 ## XRechnung aus ZUGFeRD extrahieren mit Adobe Acrobat
  
 - Öffnen Sie das ZUGFeRD-Dokument in Adobe Acrobat.
