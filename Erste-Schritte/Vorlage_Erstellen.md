@@ -28,7 +28,7 @@ Zum Beispiel: `{Adressen.Adresskopf}`, `{Adressen.Briefanrede}`, `{E-Rechnung.Re
 
 
 ## Platzhalter in die Untervorlage einfügen
-In der Untervorlage können Sie die `Systemplatzhalter` als auch die `cobra Seriendruckfelder` für die Tabellen `Position` und `ZU- und Abschlag` hinzufügen.
+In der Untervorlage können Sie die `Systemplatzhalter` als auch die `cobra Seriendruckfelder` für die Tabellen `Position` und `Zu- und Abschlag` hinzufügen.
 Die Platzhalter für die cobra Seriendruckfelder werden wie folgt aufgebaut: Sie setzen sich aus einem `Präfix`, dem cobra-Tabellennamen, und einem `Suffix`, dem Feldname, zusammen.
 
 Die Tabellennamen finden Sie in den Einstellungen im gewünschten Format. 
