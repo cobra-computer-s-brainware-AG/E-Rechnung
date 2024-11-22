@@ -5,8 +5,13 @@ Erste Hilfe
 Eine kurze Übersicht relevanter Themen für Problemlösungen und Supportfälle.
 
 ### Word-Vorlage erstellen
-- Erstellen Sie eine neue Word-Vorlage oder Öffnen Sie Ihre bestehende Word-Vorlage.
-- 
+- Erstellen Sie eine neue Hauptvorlage.
+- Fügen Sie in die Word-Vorlage Ihre Texte und Platzahlter hinzu.
+  #### Platzhalter Rechnung
+  - In der Hauptvorlage können Sie die `Systemplatzhalter` als auch die cobra Seriendruckfelder für die Tabellen `Adresse` und `Rechnung` hinzufügen.
+  - Die `Präfixe` für Adresse und Rechnung entsprechen den cobra-Tabellennamen. Die Tabellennamen finden Sie in den Einstellungen im gewünschten Format.
+  - Der Pfäfix für Adresse ist `Adressen`.
+  - <img src="/docs/Bild1.webp" alt="Rechnung"/> 
 
 ### XRechnung aus ZUGFeRD extrahieren mit Adobe Acrobat
  
