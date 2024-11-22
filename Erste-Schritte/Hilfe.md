@@ -5,7 +5,7 @@ Erste Hilfe
 Eine kurze Übersicht relevanter Themen für Problemlösungen und Supportfälle.
 
 ## Word-Vorlage erstellen
-- Erstellen Sie eine neue Hauptvorlage und Untervorlage.
+- Erstellen Sie mit `Microsoft Word` eine neue Hauptvorlage und Untervorlage.
 - Fügen Sie in die Word-Vorlage Ihre Texte und Platzahlter hinzu.
 - Speichern Sie die Hauptvorlage und die Untervorlage als Word-Vorlage mit der Endung `*.dotx`.
   
