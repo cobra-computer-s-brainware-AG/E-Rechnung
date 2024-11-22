@@ -18,10 +18,12 @@ Die Tabellennamen finden Sie in den Einstellungen im gewünschten Format. Der Pr
 
 Fügen Sie nun den Tabellennamen zusammen mit dem Feldnamen in Ihre Hauptvorlage ein. 
 
+Zum Beispiel: `{E-Rechnung.Bestellnummer}`, `{E-Rechnung.Bemerkung}`, `{Adressen.Firma}`, `{Adressen.Adresskopf}` usw.
+
 > [!NOTE]
 > Die Systemplatzahlter finden Sie [hier](/Erste-Schritte/Vorlage+Platzhalter.md#platzhalter)
 
-Zum Beispiel: `{E-Rechnung.Bestellnummer}`, `{E-Rechnung.Bemerkung}`, `{Adressen.Firma}`, `{Adressen.Adresskopf}` usw.
+
 
 ### Platzhalter Untervorlage
 In der Untervorlage können Sie die `Systemplatzhalter` als auch die `cobra Seriendruckfelder` für die Tabellen `Position` und `ZU- und Abschlag` hinzufügen.
@@ -38,10 +40,12 @@ Die Tabellennamen finden Sie in den Einstellungen im gewünschten Format.
 
 Fügen Sie nun den Tabellennamen zusammen mit dem Feldnamen in Ihre Untervorlage ein.
 
+Zum Beispiel: `{E-Position.Bezeichnung}`, `{E-Rechnung.Menge}`, `{Zu- und Abschlag.Grund}`, `{Zu- und Abschlag.Betrag}` usw.
+
 > [!NOTE]
 > Die Systemplatzahlter finden Sie [hier](/Erste-Schritte/Vorlage+Platzhalter.md#platzhalter)
 
-Zum Beispiel: `{E-Position.Bezeichnung}`, `{E-Rechnung.Menge}`, `{Zu- und Abschlag.Grund}`, `{Zu- und Abschlag.Betrag}` usw.
+
 
 ## XRechnung aus ZUGFeRD extrahieren mit Adobe Acrobat
  
