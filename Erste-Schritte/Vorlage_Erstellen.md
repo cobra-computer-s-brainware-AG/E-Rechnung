@@ -1,13 +1,12 @@
 Erste Schritte
 
 # Word-Vorlage erstellen
-  
-## Word-Vorlage erstellen
+ 
 - Erstellen Sie mit `Microsoft Word` eine neue Hauptvorlage und Untervorlage.
 - Fügen Sie in die Hauptvorlage und Untervorlage Ihre Texte und Platzahlter hinzu.
 - Speichern Sie die Hauptvorlage und Untervorlage als `Word-Vorlage` mit der Endung `*.dotx`.
   
-### Platzhalter Hauptvorlage
+## Platzhalter Hauptvorlage
 In der Hauptvorlage können Sie die `Systemplatzhalter` als auch die `cobra Seriendruckfelder` für die Tabellen `Adresse` und `Rechnung` hinzufügen.
 Die Platzhalter für die cobra Seriendruckfelder werden wie folgt aufgebaut: Sie setzen sich aus einem `Präfix`, dem cobra-Tabellennamen, und einem `Suffix`, dem Feldname, zusammen.
  
@@ -26,7 +25,7 @@ Zum Beispiel: `{Adressen.Adresskopf}`, `{Adressen.Briefanrede}`, `{E-Rechnung.Re
 
 
 
-### Platzhalter Untervorlage
+## Platzhalter Untervorlage
 In der Untervorlage können Sie die `Systemplatzhalter` als auch die `cobra Seriendruckfelder` für die Tabellen `Position` und `ZU- und Abschlag` hinzufügen.
 Die Platzhalter für die cobra Seriendruckfelder werden wie folgt aufgebaut: Sie setzen sich aus einem `Präfix`, dem cobra-Tabellennamen, und einem `Suffix`, dem Feldname, zusammen.
 
@@ -50,7 +49,7 @@ Zum Beispiel: `{E-Position.Detailbeschreibung}`, `{Zu- und Abschlag.Grund}` usw.
 
 
 
-### Untervorlage in Hauptvorlage einbinden
+## Untervorlage in Hauptvorlage einbinden
 
 <p align="center">
 <img src="/docs/Subtemplate-light.webp" alt="Subtemplate" Height="400" /> 
@@ -64,7 +63,7 @@ Die Positionstabelle sowie die Zu- und Abschlagtabelle werden nur mit dem `Präf
 > Verbinden Sie hierfür alle Zellen in einer Zeile.
 
 
-### Umsatzsteuer in Hauptvorlage einbinden
+## Umsatzsteuer in Hauptvorlage einbinden
 
 <p align="center">
 <img src="/docs/Taxtemplate-light.webp" alt="Taxtemplate" Height="400" /> 
