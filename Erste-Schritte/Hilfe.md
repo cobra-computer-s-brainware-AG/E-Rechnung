@@ -21,6 +21,8 @@ Fügen Sie nun den Tabellennamen zusammen mit dem Feldnamen in Ihre Hauptvorlage
 
 Zum Beispiel: `{E-Rechnung.Bestellnummer}`, `{E-Rechnung.Bemerkung}`, `{Adressen.Firma}`, `{Adressen.Adresskopf}` usw.
 
+<img src="/docs/Hauptvorlage.webp" alt="Hauptvorlage Beispiel"/> 
+
 > [!NOTE]
 > Die Systemplatzahlter finden Sie [hier](/Erste-Schritte/Vorlage+Platzhalter.md#platzhalter)
 
@@ -42,6 +44,8 @@ Die Tabellennamen finden Sie in den Einstellungen im gewünschten Format.
 Fügen Sie nun den Tabellennamen zusammen mit dem Feldnamen in Ihre Untervorlage ein.
 
 Zum Beispiel: `{E-Position.Bezeichnung}`, `{E-Rechnung.Menge}`, `{Zu- und Abschlag.Grund}`, `{Zu- und Abschlag.Betrag}` usw.
+
+<img src="/docs/Untervorlage.webp" alt="Untervorlage Beispiel"/> 
 
 > [!NOTE]
 > Die Systemplatzahlter finden Sie [hier](/Erste-Schritte/Vorlage+Platzhalter.md#platzhalter)
