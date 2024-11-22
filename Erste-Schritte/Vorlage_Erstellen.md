@@ -8,7 +8,7 @@ In diesem Kapitel wird beschrieben, wie Sie die Word-Vorlage erstellen und die P
 - Fügen Sie in die Hauptvorlage und Untervorlage Ihre Texte und Platzahlter hinzu.
 - Speichern Sie die Hauptvorlage und Untervorlage als `Word-Vorlage` mit der Endung `*.dotx`.
   
-## Platzhalter Hauptvorlage
+## Platzhalter in die Hauptvorlage einfügen
 In der Hauptvorlage können Sie die `Systemplatzhalter` als auch die `cobra Seriendruckfelder` für die Tabellen `Adresse` und `Rechnung` hinzufügen.
 Die Platzhalter für die cobra Seriendruckfelder werden wie folgt aufgebaut: Sie setzen sich aus einem `Präfix`, dem cobra-Tabellennamen, und einem `Suffix`, dem Feldname, zusammen.
  
@@ -27,7 +27,7 @@ Zum Beispiel: `{Adressen.Adresskopf}`, `{Adressen.Briefanrede}`, `{E-Rechnung.Re
 
 
 
-## Platzhalter Untervorlage
+## Platzhalter in die Untervorlage einfügen
 In der Untervorlage können Sie die `Systemplatzhalter` als auch die `cobra Seriendruckfelder` für die Tabellen `Position` und `ZU- und Abschlag` hinzufügen.
 Die Platzhalter für die cobra Seriendruckfelder werden wie folgt aufgebaut: Sie setzen sich aus einem `Präfix`, dem cobra-Tabellennamen, und einem `Suffix`, dem Feldname, zusammen.
 
