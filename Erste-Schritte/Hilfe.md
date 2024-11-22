@@ -6,8 +6,8 @@ Eine kurze Übersicht relevanter Themen für Problemlösungen und Supportfälle.
 
 ## Word-Vorlage erstellen
 - Erstellen Sie mit `Microsoft Word` eine neue Hauptvorlage und Untervorlage.
-- Fügen Sie in die Word-Vorlage Ihre Texte und Platzahlter hinzu.
-- Speichern Sie die Hauptvorlage und die Untervorlage als Word-Vorlage mit der Endung `*.dotx`.
+- Fügen Sie in die Hauptvorlage und Untervorlage Ihre Texte und Platzahlter hinzu.
+- Speichern Sie die Hauptvorlage und Untervorlage als Word-Vorlage mit der Endung `*.dotx`.
   
 ### Platzhalter Hauptvorlage
 In der Hauptvorlage können Sie die `Systemplatzhalter` als auch die `cobra Seriendruckfelder` für die Tabellen `Adresse` und `Rechnung` hinzufügen.
