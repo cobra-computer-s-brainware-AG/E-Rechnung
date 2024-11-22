@@ -4,14 +4,31 @@ Erste Hilfe
   
 Eine kurze Übersicht relevanter Themen für Problemlösungen und Supportfälle.
 
-### Word-Vorlage erstellen
+## Word-Vorlage erstellen
 - Erstellen Sie eine neue Hauptvorlage.
 - Fügen Sie in die Word-Vorlage Ihre Texte und Platzahlter hinzu.
-  #### Platzhalter Rechnung
-  - In der Hauptvorlage können Sie die `Systemplatzhalter` als auch die cobra Seriendruckfelder für die Tabellen `Adresse` und `Rechnung` hinzufügen.
-  - Die `Präfixe` für Adresse und Rechnung entsprechen den cobra-Tabellennamen. 
-  - Die Tabellennamen finden Sie in den Einstellungen im gewünschten Format. Der Pfäfix für Adresse ist `Adressen`.
-  - <img src="/docs/PräfixRechnung.webp" alt="Präfix Rechnung"/> 
+  
+### Platzhalter Hauptvorlage
+In der Hauptvorlage können Sie die `Systemplatzhalter` als auch die `cobra Seriendruckfelder` für die Tabellen `Adresse` und `Rechnung` hinzufügen.
+Die Platzhalter für die cobra Seriendruckfelder werden wie folgt aufgebaut: Sie setzen sich aus einem `Präfix`, dem cobra-Tabellennamen, und einem `Suffix`, dem Feldname, zusammen.
+ 
+Die Tabellennamen finden Sie in den Einstellungen im gewünschten Format. Der Präfix für Adresse ist `Adressen`.
+  
+<img src="/docs/PräfixRechnung.webp" alt="Präfix Rechnung"/> 
+
+Fügen Sie nun den Tabellennamen zusammen mit dem Feldnamen in Ihre Vorlage ein.
+
+Zum Beispiel: `{E-Rechnung.Bestellnummer}`, `{E-Rechnung.Bemerkung}`, `{Adressen.Firma}`, `{Adressen.Adresskopf}` usw.
+
+### Platzhalter Untervorlage
+In der Untervorlage können Sie die `Systemplatzhalter` als auch die `cobra Seriendruckfelder` für die Tabellen `Position` und `ZU- und Abschlag` hinzufügen.
+Die Platzhalter für die cobra Seriendruckfelder werden wie folgt aufgebaut: Sie setzen sich aus einem `Präfix`, dem cobra-Tabellennamen, und einem `Suffix`, dem Feldname, zusammen.
+
+Die Tabellennamen finden Sie in den Einstellungen im gewünschten Format. 
+
+<img src="/docs/PräfixPosition.webp" alt="Präfix Position"/> 
+
+<img src="/docs/PräfixAbschlag.webp" alt="Präfix Abschlag"/>
 
 ### XRechnung aus ZUGFeRD extrahieren mit Adobe Acrobat
  
