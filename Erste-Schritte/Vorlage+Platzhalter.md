@@ -96,4 +96,4 @@ Platzhalter  | Wert
 
 ##
 
-[Nächste](./Installation.md) 
+[Nächste](./Vorlage_Erstellen.md) 
