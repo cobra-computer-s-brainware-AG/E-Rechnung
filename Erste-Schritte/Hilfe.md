@@ -4,6 +4,9 @@ Erste Hilfe
   
 Eine kurze Übersicht relevanter Themen für Problemlösungen und Supportfälle.
 
+### Word-Vorlage erstellen
+...
+
 ### XRechnung aus ZUGFeRD extrahieren mit Adobe Acrobat
  
 - Öffnen Sie das ZUGFeRD-Dokument in Adobe Acrobat.
