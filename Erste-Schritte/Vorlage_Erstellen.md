@@ -1,6 +1,8 @@
 Erste Schritte
 
 # Word-Vorlage erstellen
+
+In diesem Kapitel wird beschrieben, wie Sie die Word-Vorlage erstellen und die Platzhalter für die personalisierte E-Rechnung einfügen.
  
 - Erstellen Sie mit `Microsoft Word` eine neue Hauptvorlage und Untervorlage.
 - Fügen Sie in die Hauptvorlage und Untervorlage Ihre Texte und Platzahlter hinzu.
