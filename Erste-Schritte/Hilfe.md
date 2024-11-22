@@ -5,7 +5,8 @@ Erste Hilfe
 Eine kurze Übersicht relevanter Themen für Problemlösungen und Supportfälle.
 
 ### Word-Vorlage erstellen
-...
+- Erstellen Sie eine neue Word-Vorlage oder Öffnen Sie Ihre bestehende Word-Vorlage.
+- 
 
 ### XRechnung aus ZUGFeRD extrahieren mit Adobe Acrobat
  
