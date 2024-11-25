@@ -23,6 +23,8 @@
 
   Die Serienrechnung ist in der cobra-Demoversion nicht verfügbar.
 
+  Die E-Rechnung-Erweiterung funktioniert nur mit gültiger AGV.
+
   Das Feld `E-Mail für Versand` muss die gleiche Länge haben wie das E-Mail-Feld in der Adresstabelle. `#80`
 
   In den Einstellungen wird der logische Name der Tabelle angezeigt. `#81`
