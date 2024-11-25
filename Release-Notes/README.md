@@ -6,7 +6,7 @@
 ## RC 1.2
 
 * ### NEU: cobra-hilfe.de
-  Die komplette Anleitung findet man neu unter: https://e-rechnung.cobra-hilfe.de
+  Die komplette Anleitung findet Sie neu unter: https://e-rechnung.cobra-hilfe.de
 
 * ### NEU: Disclaimer
   Der Disclaimer in den Einstellungen wurde überarbeitet, und zusätzlich wurde die Rechtschreibung korrigiert.
