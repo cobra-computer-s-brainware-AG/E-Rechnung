@@ -26,6 +26,8 @@
   Das Feld `E-Mail für Versand` muss die gleiche Länge haben wie das E-Mail-Feld in der Adresstabelle. `#80`
 
   In den Einstellungen wird der logische Name der Tabelle angezeigt. `#81`
+
+  Die IBAN muss eine Länge von mindestens 15 und maximal 31 Zeichen haben. 
   
 ## RC 1
 
