@@ -3,6 +3,30 @@
 > [!NOTE]
 > Die Anleitung für das Update finden Sie [hier](/Erste-Schritte/Update.md)
 
+## RC 1.2
+
+* ### NEU: cobra-hilfe.de
+  Die komplette Anleitung findet man neu unter: https://e-rechnung.cobra-hilfe.de
+
+* ### NEU: Disclaimer
+  Der Disclaimer in den Einstellungen wurde überarbeitet, und zusätzlich wurde die Rechtschreibung korrigiert.
+ 
+
+* ### Bugfixes und Diverse
+  Der Fehler im Zusammenhang mit dem Unterdokument wurde behoben. `#77`
+
+  Die Fehlermeldung für die Validierung der Platzhalter wurde angepasst.
+ 
+  In den Einstellungen unter `Dokument` wurde die Schaltfläche wieder auf drei Punkte angepasst.
+
+  Der Fehler bei SetUserWindowSize wird nicht mehr protokolliert.
+
+  Die Serienrechnung ist in der cobra-Demoversion nicht verfügbar.
+
+  Das Feld `E-Mail für Versand` muss die gleiche Länge haben wie das E-Mail-Feld in der Adresstabelle. `#80`
+
+  In den Einstellungen wird der logische Name der Tabelle angezeigt. `#81`
+  
 ## RC 1
 
 * ### NEU: Einstellungen Validierung
