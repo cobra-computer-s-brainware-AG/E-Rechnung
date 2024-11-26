@@ -3,7 +3,7 @@
 > [!NOTE]
 > Die Anleitung für das Update finden Sie [hier](/Erste-Schritte/Update.md)
 
-## RC 1.2
+## RC 1 Patch 2
 
 * ### NEU: cobra-hilfe.de
   Die komplette Anleitung findet Sie neu unter: https://e-rechnung.cobra-hilfe.de
