@@ -36,7 +36,7 @@
 
   Die IBAN muss eine Länge von mindestens 15 und maximal 31 Zeichen haben.
 
-  Eingabepflichtige Felder werden in der Datenbankstruktur nicht angezeigt. Die Membership und Membershipext werden korrigiert. `#79`
+  Eingabepflichtige Felder werden in der Datenbankstruktur nicht angezeigt. Die Membership und Membershipext wurden korrigiert. `#79`
 
   Der Fehler mit leeren Datenbanken bei der Generierung der Demodatensätze wurde behoben. `#84`
 
