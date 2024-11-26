@@ -17,7 +17,7 @@
 
   Die Fehlermeldung für die Validierung der Platzhalter wurde angepasst.
  
-  In den Einstellungen unter `Dokument` wurde die Schaltfläche wieder auf drei Punkte angepasst.
+  In den Einstellungen unter `Dokument` wurden wieder drei Punkte angezeigt.
 
   Der Fehler bei SetUserWindowSize wird nicht mehr protokolliert.
 
