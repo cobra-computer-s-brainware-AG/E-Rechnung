@@ -10,7 +10,12 @@
 
 * ### NEU: Disclaimer
   Der Disclaimer in den Einstellungen wurde überarbeitet, und zusätzlich wurde die Rechtschreibung korrigiert.
- 
+
+* ### NEU: Validierung des cobra-Systemverzeichnisses 
+  Der `E-Rechnung.Installer.msi` validiert das cobra-Systemverzeichnis. Zusätzlich wird das E-Rechnung-Verzeichnis nur geöffnet, wenn der Loader noch nicht installiert ist. `#85`
+
+* ### NEU: USt heisst jetzt USt in Prozent
+  In den Einstellungen unter `Position` sowie `Zu- und Abschlag` wurde das Feld `USt` in `USt in Prozent` umbenannt. `#83`
 
 * ### Bugfixes und Diverse
   Der Fehler im Zusammenhang mit dem Unterdokument wurde behoben. `#77`
@@ -29,7 +34,15 @@
 
   In den Einstellungen wird der logische Name der Tabelle angezeigt. `#81`
 
-  Die IBAN muss eine Länge von mindestens 15 und maximal 31 Zeichen haben. 
+  Die IBAN muss eine Länge von mindestens 15 und maximal 31 Zeichen haben.
+
+  Eingabepflichtige Felder werden in der Datenbankstruktur nicht angezeigt. Die Membership und Membershipext werden korrigiert. `#79`
+
+  Der Fehler mit leeren Datenbanken bei der Generierung der Demodatensätze wurde behoben. `#84`
+
+  Wird in der `Zu- und Abschlagstabelle` kein Wert im Feld `Grundbetrag` angegeben, wird auch kein Wert ausgegeben. `#82`
+
+  
   
 ## RC 1
 
