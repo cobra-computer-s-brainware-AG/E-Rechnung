@@ -1,7 +1,7 @@
 # Release Notes | E-Rechnung
 
 > [!NOTE]
-> Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update))
+> Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
 ## RC 1 Patch 2
 
