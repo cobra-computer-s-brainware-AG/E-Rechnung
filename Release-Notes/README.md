@@ -42,7 +42,7 @@
 
   Wird in der `Zu- und Abschlagstabelle` kein Wert im Feld `Grundbetrag` angegeben, wird auch kein Wert ausgegeben. `#82`
 
-  
+  Filter wird nicht in den Einstellungen angezeigt wurde behoben. `#88`
   
 ## RC 1
 
