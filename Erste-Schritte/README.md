@@ -9,6 +9,8 @@ Ab dem 1. Januar 2025 sind Unternehmen im B2B-Bereich verpflichtet, elektronisch
 
 * ### [Vorlage & Platzhalter](./Vorlage+Platzhalter.md)
 
+* ### [Vorlage Erstellen](./Vorlage_Erstellen.md)
+
 * ### [Installation](./Installation.md)
 
 * ### [Start](./Start.md)

@@ -4,7 +4,10 @@ Erste Hilfe
   
 Eine kurze Übersicht relevanter Themen für Problemlösungen und Supportfälle.
 
-### XRechnung aus ZUGFeRD extrahieren mit Adobe Acrobat
+## Word-Vorlage erstellen 
+Eine detaillierte Anleitung zur Erstellung der Word-Vorlage finden Sie [hier](/Erste-Schritte/Vorlage_Erstellen.md).
+ 
+## XRechnung aus ZUGFeRD extrahieren mit Adobe Acrobat
  
 - Öffnen Sie das ZUGFeRD-Dokument in Adobe Acrobat.
 - Klicken Sie auf das :paperclip: (Büroklammer-Symbol), um die Anhänge im PDF anzuzeigen.
