@@ -13,6 +13,8 @@ Ab dem 1. Januar 2025 sind Unternehmen im B2B-Bereich verpflichtet, elektronisch
 
 * ### [Installation](./Installation.md)
 
+* ### [Update](./Update.md)
+
 * ### [Start](./Start.md)
 
 * ### [Einstellungen](./Einstellungen.md)
@@ -23,7 +25,7 @@ Ab dem 1. Januar 2025 sind Unternehmen im B2B-Bereich verpflichtet, elektronisch
 
 * ### [Serienrechnung](./Serienrechnung.md)
 
-* ### [Update](./Update.md)
+
 
 * ### [Erste Hilfe](./Hilfe.md)
 
