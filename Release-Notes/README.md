@@ -3,6 +3,11 @@
 > [!NOTE]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
+## RC 1 Patch 3
+
+* ### NEU: Weitere Kontakt Felder (CRM PRO)
+  In den Einstellungen unter `Kontakteintrag` können weitere Kontaktfelder befüllt werden. Dieses Komfort-Feature steht ausschließlich CRM PRO-Kunden zur Verfügung. 
+
 ## RC 1 Patch 2
 
 * ### NEU: cobra-hilfe.de
