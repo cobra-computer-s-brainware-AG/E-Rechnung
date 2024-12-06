@@ -8,6 +8,10 @@
 * ### NEU: Weitere Kontakt Felder (CRM PRO)
   In den Einstellungen unter `Kontakteintrag` können weitere Kontaktfelder befüllt werden. Dieses Komfort-Feature steht ausschließlich CRM PRO-Kunden zur Verfügung. 
 
+* ### Bugfixes und Diverse
+
+  Im Feld `Bemerkung` wird der Standardtext als Platzhalter angezeigt. 
+
 ## RC 1 Patch 2
 
 * ### NEU: cobra-hilfe.de
