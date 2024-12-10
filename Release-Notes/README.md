@@ -15,7 +15,7 @@
 
   Im Feld `Bemerkung` wird der Standardtext als Platzhalter angezeigt.
 
-  Im Viewer werden alle Zahlungsbedingungen angezeigt. `#6`
+  Im Viewer werden jetzt alle Zahlungsbedingungen angezeigt. `#6`
 
   Im Viewer wurde das Anzeigeformat für die Anzahl korrigiert. `#89`
 
