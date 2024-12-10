@@ -5,8 +5,8 @@
 
 ## RC 1 Patch 3
 
-* ### NEU: Weitere Kontakt Felder (CRM PRO)
-  In den Einstellungen unter `Kontakteintrag` können weitere Kontaktfelder befüllt werden. Dieses Komfort-Feature steht ausschließlich CRM PRO-Kunden zur Verfügung.
+* ### NEU: Weitere Kontakt Felder (CRM PRO/BI)
+  In den Einstellungen unter `Kontakteintrag` können weitere Kontaktfelder befüllt werden. Dieses Komfort-Feature steht ausschließlich CRM PRO/BI-Kunden zur Verfügung.
 
 * ### NEU: Konfigurierbare Steuerart
   In den Einstellungen unter Position oder Zu- und Abschlag kann die Steuerart einem Steuersatz zugewiesen werden. `#92`
