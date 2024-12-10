@@ -6,11 +6,18 @@
 ## RC 1 Patch 3
 
 * ### NEU: Weitere Kontakt Felder (CRM PRO)
-  In den Einstellungen unter `Kontakteintrag` können weitere Kontaktfelder befüllt werden. Dieses Komfort-Feature steht ausschließlich CRM PRO-Kunden zur Verfügung. 
+  In den Einstellungen unter `Kontakteintrag` können weitere Kontaktfelder befüllt werden. Dieses Komfort-Feature steht ausschließlich CRM PRO-Kunden zur Verfügung.
+
+* ### NEU: Konfigurierbare Steuerart
+  In den Einstellungen unter Position oder Zu- und Abschlag kann die Steuerart einem Steuersatz zugewiesen werden. `#92`
 
 * ### Bugfixes und Diverse
 
-  Im Feld `Bemerkung` wird der Standardtext als Platzhalter angezeigt. 
+  Im Feld `Bemerkung` wird der Standardtext als Platzhalter angezeigt.
+
+  Im Viewer werden alle Zahlungsbedingungen angezeigt. `#6`
+
+  Länderkürzel, die nicht dem ISO-Alpha-2-Format entsprechen, können nicht mehr ausgegeben werden. `#91`
 
 ## RC 1 Patch 2
 
