@@ -17,6 +17,8 @@
 
   Im Viewer werden alle Zahlungsbedingungen angezeigt. `#6`
 
+  Die Übersicht der Serienrechnung wird nach dem Feld `ID` sortiert. `#90`
+
   Länderkürzel, die nicht dem ISO-Alpha-2-Format entsprechen, können nicht mehr ausgegeben werden. `#91`
 
 ## RC 1 Patch 2
