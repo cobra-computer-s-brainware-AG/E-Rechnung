@@ -11,7 +11,7 @@ Erste Schritte
 
 - Geben Sie im Feld Steuersatz den gewünschten Wert ein.
 
-- Speichern Sie die Änderungen mit einem Klick auf OK.
+- Speichern Sie Ihre Konfiguration mit einem Klick auf OK.
 
 ## Weitere Kontakt Felder 
  
