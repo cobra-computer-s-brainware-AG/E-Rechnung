@@ -9,7 +9,7 @@
   In den Einstellungen unter `Kontakteintrag` können weitere Kontaktfelder befüllt werden. Dieses Komfort-Feature steht ausschließlich CRM PRO/BI-Kunden zur Verfügung.
 
 * ### NEU: Konfigurierbare Steuerart
-  In den Einstellungen unter Position oder Zu- und Abschlag kann die Steuerart einem Steuersatz zugewiesen werden. `#92`
+  In den Einstellungen unter `Position` oder `Zu- und Abschlag` kann die Steuerart einem Steuersatz zugewiesen werden. Nicht zugeordnete Steuersätze werden automatisch der Steuerart (S) zugewiesen. Der Steuersatz 0 wird der Steuerart (Z) zugeordnet. `#92`
 
 * ### Bugfixes und Diverse
 
