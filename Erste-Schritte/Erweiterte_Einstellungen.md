@@ -20,6 +20,9 @@ Erste Schritte
 
 - Öffnen Sie die Einstellungen und navigieren Sie zum Reiter `Kontakteintrag`. 
 - Klicken Sie dort auf die Schaltfäche `Weitere Felder`.
+
+<img src="/docs/Weitere_Felder.webp" alt="Weitere Felder"/> 
+
 - Wählen Sie in den erweiterten Einstellungen das gewünschte Feld aus und fügen Sie es mit einem Klick auf `Hinzufügen` hinzu. 
 - Geben Sie im Feld `Wert` den gewünschten Wert ein. Über die Schaltflächen können Sie dynamische Werte aus den cobra-Tabellen hinzufügen. 
 - Speichern Sie Ihre Konfiguration mit einem Klick auf `OK`.
