@@ -23,6 +23,8 @@
 
   Länderkürzel, die nicht dem ISO-Alpha-2-Format entsprechen, können nicht mehr ausgegeben werden. `#91`
 
+  Das Fälligkeitsdatum ist jetzt ein Pflichtfeld.
+
 ## RC 1 Patch 2
 
 * ### NEU: cobra-hilfe.de
