@@ -14,7 +14,8 @@
   [Steuerart Konfigurieren](/Erste-Schritte/Erweiterte_Einstellungen.md#steuerart-konfigurieren)
 
 * ### NEU: Nach Update suchen
-  Neu kann über die Schaltfläche `Update suchen` geprüft werden, ob eine neuere Version verfügbar ist. `#94`
+  Neu kann über die Schaltfläche `Update suchen` geprüft werden, ob eine neuere Version verfügbar ist. `#94`     
+  [Menüband](/Erste-Schritte/Start.md)
 
 * ### Bugfixes und Diverse
 
