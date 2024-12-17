@@ -6,10 +6,12 @@
 ## RC 1 Patch 3
 
 * ### NEU: Weitere Kontakt Felder (CRM PRO/BI)
-  In den Einstellungen unter `Kontakteintrag` können weitere Kontaktfelder befüllt werden. Dieses Komfort-Feature steht ausschließlich CRM PRO/BI-Kunden zur Verfügung. `#54`
+  In den Einstellungen unter `Kontakteintrag` können weitere Kontaktfelder befüllt werden. Dieses Komfort-Feature steht ausschließlich CRM PRO/BI-Kunden zur Verfügung. `#54`     
+  [Weitere Kontakt Felder](/Erste-Schritte/Erweiterte_Einstellungen.md#weitere-kontakt-felder)
 
 * ### NEU: Konfigurierbare Steuerart
-  In den Einstellungen unter `Position` oder `Zu- und Abschlag` kann die Steuerart einem Steuersatz zugewiesen werden. Nicht zugeordnete Steuersätze werden automatisch der Steuerart (S) zugewiesen. Der Steuersatz 0 wird der Steuerart (Z) zugeordnet. `#92`
+  In den Einstellungen unter `Position` oder `Zu- und Abschlag` kann die Steuerart einem Steuersatz zugewiesen werden. Nicht zugeordnete Steuersätze werden automatisch der Steuerart (S) zugewiesen. Der Steuersatz 0 wird der Steuerart (Z) zugeordnet. `#92`     
+  [Steuerart Konfigurieren](/Erste-Schritte/Erweiterte_Einstellungen.md#steuerart-konfigurieren)
 
 * ### Bugfixes und Diverse
 
