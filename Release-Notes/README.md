@@ -3,7 +3,7 @@
 > [!NOTE]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
-## RC 1 Patch 3
+## RC 1 Patch 3.1
 
 * ### NEU: Weitere Kontakt Felder (CRM PRO/BI)
   In den Einstellungen unter `Kontakteintrag` können weitere Kontaktfelder befüllt werden. Dieses Komfort-Feature steht ausschließlich CRM PRO/BI-Kunden zur Verfügung. `#54`     
@@ -12,6 +12,9 @@
 * ### NEU: Konfigurierbare Steuerart
   In den Einstellungen unter `Position` oder `Zu- und Abschlag` kann die Steuerart einem Steuersatz zugewiesen werden. Nicht zugeordnete Steuersätze werden automatisch der Steuerart (S) zugewiesen. Der Steuersatz 0 wird der Steuerart (Z) zugeordnet. `#92`     
   [Steuerart Konfigurieren](/Erste-Schritte/Erweiterte_Einstellungen.md#steuerart-konfigurieren)
+
+* ### NEU: Nach Update suchen
+  Neu kann über die Schaltfläche `Update suchen` geprüft werden, ob eine neuere Version verfügbar ist. `#94`
 
 * ### Bugfixes und Diverse
 
