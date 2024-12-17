@@ -19,6 +19,8 @@ Ab dem 1. Januar 2025 sind Unternehmen im B2B-Bereich verpflichtet, elektronisch
 
 * ### [Einstellungen](./Einstellungen.md)
 
+* ### [Erweiterte Einstellungen](./Erweiterte_Einstellungen.md)
+
 * ### [Viewer](./Viewer.md)
 
 * ### [Einzelrechnung](./Einzelrechnung.md)

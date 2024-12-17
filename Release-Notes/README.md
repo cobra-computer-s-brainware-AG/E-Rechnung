@@ -3,6 +3,33 @@
 > [!NOTE]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
+## RC 1 Patch 3.1
+
+* ### NEU: Weitere Kontakt Felder (CRM PRO/BI)
+  In den Einstellungen unter `Kontakteintrag` können weitere Kontaktfelder befüllt werden. Dieses Komfort-Feature steht ausschließlich CRM PRO/BI-Kunden zur Verfügung. `#54`     
+  [Weitere Kontakt Felder](/Erste-Schritte/Erweiterte_Einstellungen.md#weitere-kontakt-felder)
+
+* ### NEU: Konfigurierbare Steuerart
+  In den Einstellungen unter `Position` oder `Zu- und Abschlag` kann die Steuerart einem Steuersatz zugewiesen werden. Nicht zugeordnete Steuersätze werden automatisch der Steuerart (S) zugewiesen. Der Steuersatz 0 wird der Steuerart (Z) zugeordnet. `#92`     
+  [Steuerart Konfigurieren](/Erste-Schritte/Erweiterte_Einstellungen.md#steuerart-konfigurieren)
+
+* ### NEU: Nach Update suchen
+  Neu kann über die Schaltfläche `Update suchen` geprüft werden, ob eine neuere Version verfügbar ist. `#94`
+
+* ### Bugfixes und Diverse
+
+  Im Feld `Bemerkung` wird der Standardtext als Platzhalter angezeigt.
+
+  Im Viewer werden jetzt alle Zahlungsbedingungen angezeigt. `#6`
+
+  Im Viewer wurde das Anzeigeformat für die Anzahl korrigiert. `#89`
+
+  Die Übersicht der Serienrechnung wird nach dem Feld `ID` sortiert. `#90`
+
+  Länderkürzel, die nicht dem ISO-Alpha-2-Format entsprechen, können nicht mehr ausgegeben werden. `#91`
+
+  Das Fälligkeitsdatum ist jetzt ein Pflichtfeld.
+
 ## RC 1 Patch 2
 
 * ### NEU: cobra-hilfe.de
