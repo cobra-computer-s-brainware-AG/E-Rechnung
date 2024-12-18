@@ -3,6 +3,12 @@
 > [!NOTE]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
+## RC 1 Patch 3.2
+
+* ### Bugfixes und Diverse
+
+  Die Platzhalter für `Zu- und Abschlag` können nun auch in der Word-Vorlage verwendet werden. `#94`
+
 ## RC 1 Patch 3.1
 
 * ### NEU: Weitere Kontakt Felder (CRM PRO/BI)
