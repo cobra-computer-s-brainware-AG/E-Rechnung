@@ -7,7 +7,7 @@
 
 * ### Bugfixes und Diverse
 
-  Die Platzhalter für `Zu- und Abschlag` können nun auch in der Word-Vorlage verwendet werden. `#94`
+  Die Platzhalter für `Zu- und Abschlag` können nun auch in der Word-Vorlage verwendet werden. `#96`
 
   Die verwendete ZUGFeRD-Version ist in den Einstellungen ersichtlich. `#100`
   
