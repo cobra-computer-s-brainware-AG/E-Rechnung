@@ -9,6 +9,14 @@
 
   Die Platzhalter für `Zu- und Abschlag` können nun auch in der Word-Vorlage verwendet werden. `#94`
 
+  Die aktuelle ZUGFeRD-Version ist in den Einstellungen ersichtlich. `#100`
+  
+  Der Fehler im ZUGFeRD-Dateinamen wurde behoben. `#101`
+
+  Das Feld `Land` kann jetzt auch NULL sein. `#102`
+
+  Beim automatischen Generieren wird der `INSTEAD_OF_DELETE`-Trigger erstellt. `#103`
+
 ## RC 1 Patch 3.1
 
 * ### NEU: Weitere Kontakt Felder (CRM PRO/BI)
