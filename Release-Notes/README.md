@@ -9,11 +9,11 @@
 
   Die Platzhalter für `Zu- und Abschlag` können nun auch in der Word-Vorlage verwendet werden. `#94`
 
-  Die aktuelle ZUGFeRD-Version ist in den Einstellungen ersichtlich. `#100`
+  Die verwendete ZUGFeRD-Version ist in den Einstellungen ersichtlich. `#100`
   
   Der Fehler im ZUGFeRD-Dateinamen wurde behoben. `#101`
 
-  Das Feld `Land` kann jetzt auch NULL sein. `#102`
+  Der Fehler beim Feld `Land` mit dem Wert NULL wurde behoben. `#102`
 
   Beim automatischen Generieren wird der `INSTEAD_OF_DELETE`-Trigger erstellt. Anschliessend muss cobra neu gestartet werden! `#103`
 
