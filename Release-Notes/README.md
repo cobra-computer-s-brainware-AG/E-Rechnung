@@ -15,7 +15,7 @@
 
   Das Feld `Land` kann jetzt auch NULL sein. `#102`
 
-  Beim automatischen Generieren wird der `INSTEAD_OF_DELETE`-Trigger erstellt. `#103`
+  Beim automatischen Generieren wird der `INSTEAD_OF_DELETE`-Trigger erstellt. Anschliessend muss cobra neu gestartet werden! `#103`
 
 ## RC 1 Patch 3.1
 
