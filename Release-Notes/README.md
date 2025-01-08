@@ -3,6 +3,12 @@
 > [!NOTE]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
+## RC 1 Patch 3.3
+
+* ### Bugfixes und Diverse
+
+  Die Update-Meldung wurde verständlicher formuliert. [#106](https://www.cobrapartner.eu/Forum/Partnerforum76/updatemeldung_topic26058.html#128787)
+  
 ## RC 1 Patch 3.2
 
 * ### Bugfixes und Diverse
