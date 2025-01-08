@@ -3,6 +3,20 @@
 > [!NOTE]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
+## RC 1 Patch 3.2
+
+* ### Bugfixes und Diverse
+
+  Die Platzhalter für `Zu- und Abschlag` können nun auch in der Word-Vorlage verwendet werden. `#94`
+
+  Die verwendete ZUGFeRD-Version ist in den Einstellungen ersichtlich. `#100`
+  
+  Der Fehler im ZUGFeRD-Dateinamen wurde behoben. `#101`
+
+  Der Fehler beim Feld `Land` mit dem Wert NULL wurde behoben. `#102`
+
+  Beim automatischen Generieren wird der `INSTEAD_OF_DELETE`-Trigger erstellt. Anschliessend muss cobra neu gestartet werden! `#103`
+
 ## RC 1 Patch 3.1
 
 * ### NEU: Weitere Kontakt Felder (CRM PRO/BI)
