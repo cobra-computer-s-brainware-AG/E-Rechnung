@@ -3,6 +3,17 @@
 > [!NOTE]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
+## RC 1 Patch 3.3
+
+* ### NEU: Automatisch nach Update Suchen
+  Um stets die neuesten Features und Sicherheitsverbesserungen nutzen zu können, werden Sie in den Einstellungen einmalig nach der automatischen Updatesuche gefragt. `#109`
+
+* ### Bugfixes und Diverse
+
+  Bei der Meldung mit dem ISO-3166-1 alpha-2-Länderkürzel wird ein Hyperlink zur Cobra-Hilfe angezeigt. `#108`
+
+  Die Update-Meldung wurde verständlicher formuliert. [#106](https://www.cobrapartner.eu/Forum/Partnerforum76/updatemeldung_topic26058.html#128787)
+  
 ## RC 1 Patch 3.2
 
 * ### Bugfixes und Diverse
