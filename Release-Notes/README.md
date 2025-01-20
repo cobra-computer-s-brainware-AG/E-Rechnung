@@ -7,7 +7,8 @@
 
 * ### NEU: E-Mail für Versand Kopierfunktion
   DIe Kopierfunktion für E-Mail für Versand lässt sich jetzt konfigurieren.  
-  Hierfür steht die Auswahl: `Bestehende Feldinhalte ersetzen` und `Bestehende Feldinhalte nicht ersetzen`. [#111](https://www.cobrapartner.eu/Forum/Partnerforum76/rechnungsemail-nicht-berschreiben_topic26065.html)
+  Hierfür steht die Auswahl: `Bestehende Feldinhalte ersetzen` und `Bestehende Feldinhalte nicht ersetzen`. [#111](https://www.cobrapartner.eu/Forum/Partnerforum76/rechnungsemail-nicht-berschreiben_topic26065.html)    
+  [E-Mail für Versand Kopierfunktion](/Erste-Schritte/Erweiterte_Einstellungen.md#e-mail-für-versand-kopierfunktion)
 
 * ### Bugfixes und Diverse
 
