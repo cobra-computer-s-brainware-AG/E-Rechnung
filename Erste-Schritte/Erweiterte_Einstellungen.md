@@ -1,6 +1,15 @@
 Erste Schritte
 
 # Erweiterte Einstellungen 
+
+## E-Mail für Versand Kopierfunktion
+- Öffnen Sie die Einstellungen und navigieren Sie zum Reiter `Rechnung`.
+- Klicken Sie dort auf das `Zahnrad-Symbol` im Feld E-Mail für Versand.
+
+<img src="/docs/Kopierfunktion.webp" alt="Kopierfunktion"/> 
+
+- Wählen Sie in den Einstellungen die gewünschte Kopierfunktion aus.
+- Speichern Sie Ihre Konfiguration mit einem Klick auf `OK`.
   
 ## Steuerart Konfigurieren 
 
