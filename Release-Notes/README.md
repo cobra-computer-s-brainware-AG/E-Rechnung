@@ -3,6 +3,17 @@
 > [!NOTE]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
+## 1.1.3.5
+
+* ### Bugfixes und Diverse
+  Für `Einzelpreis` steht neu der Typ `Rechenfeld` zur Auswahl. `#112`
+   
+  Im Viewer wurde der ZUGFeRD-Dateinamen korrigiert.
+  
+  Der Fehler bei der Einzelrechnung mit dem Filter wurde behoben. #115
+  
+  Die Datenschutzabfrage wurde korrigiert.
+
 ## 1.1.3.4
 
 * ### NEU: E-Mail für Versand Kopierfunktion
