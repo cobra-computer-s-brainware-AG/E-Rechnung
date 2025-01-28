@@ -3,6 +3,25 @@
 > [!NOTE]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
+## 1.1.3.5
+
+* ### Bugfixes und Diverse
+  Für `Einzelpreis` steht neu der Typ `Rechenfeld` zur Auswahl. `#112`
+
+  Der Filter Fehler bei Einzelrechnung wurde behoben. `#115`
+  
+  Der Fehler mit Öffentlichen Gruppenkontakte wurde behoben. [#116](https://www.cobrapartner.eu/Forum/Partnerforum76/kontakteintrag-nicht-sichtbar_topic26077.html)
+
+  Der Fehler mit Eingebemaske in der Ansicht wurde behoben. [#118](https://www.cobrapartner.eu/Forum/Partnerforum76/menpunkt-einzelrechnung-verliert-datensatzfokus_topic26071.html)
+  
+  Im Viewer wurde der ZUGFeRD-Dateinamen korrigiert.
+  
+  Im Viewer wurde ein neuer Disclaimer hinzugefügt. 
+  
+  Die Darstellung der Angaben zu personenbezogenen Daten wurde korrigiert.
+ 
+  Performance Optimierungen.
+
 ## 1.1.3.4
 
 * ### NEU: E-Mail für Versand Kopierfunktion
