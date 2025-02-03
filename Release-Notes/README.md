@@ -5,7 +5,7 @@
 
 ## 1.1.3.6
 
-* ### NEU: Benutzerattribute
+* ### NEU: cobra-Benutzerattribute
   Neu können die cobra-Benutzerattribute als Platzhalter in Word-Vorlagen verwendet werden. `#123`
 
 ## 1.1.3.5
