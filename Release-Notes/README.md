@@ -3,6 +3,11 @@
 > [!NOTE]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
+## 1.1.3.6
+
+* ### NEU: Benutzerattribute
+  Neu können die cobra-Benutzerattribute als Platzhalter in Word-Vorlagen verwendet werden. `#123`
+
 ## 1.1.3.5
 
 * ### Bugfixes und Diverse
@@ -25,7 +30,7 @@
 ## 1.1.3.4
 
 * ### NEU: E-Mail für Versand Kopierfunktion
-  DIe Kopierfunktion für E-Mail für Versand lässt sich jetzt konfigurieren.  
+  Die Kopierfunktion für E-Mail für Versand lässt sich jetzt konfigurieren.  
   Hierfür steht die Auswahl: `Bestehende Feldinhalte ersetzen` und `Bestehende Feldinhalte nicht ersetzen`. [#111](https://www.cobrapartner.eu/Forum/Partnerforum76/rechnungsemail-nicht-berschreiben_topic26065.html)    
   [E-Mail für Versand Kopierfunktion](/Erste-Schritte/Erweiterte_Einstellungen.md#e-mail-für-versand-kopierfunktion)
 
