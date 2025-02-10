@@ -5,11 +5,13 @@
 
 ## 1.1.3.6
 
+* ### NEU: Direkter Zugriff auf XRechnung aus Kontakteintrag
+  Neu kann der Viewer die XRechnung direkt aus einem Kontakteintrag öffnen. Zudem lässt sich die eingebettete XRechnung einer E-Rechnung direkt aus dem PDF visualisieren. `#99`
+
 * ### NEU: cobra-Benutzerattribute
   Neu können die cobra-Benutzerattribute als Platzhalter in Word-Vorlagen verwendet werden. `#123`
-
-* ### Bugfixes und Diverse
-  Der Viewer kann jetzt auch eine eingebettete XRechnung einer E-Rechnung visualisieren. 
+ 
+* ### Bugfixes und Diverse 
 
 ## 1.1.3.5
 
