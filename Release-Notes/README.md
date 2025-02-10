@@ -8,6 +8,9 @@
 * ### NEU: cobra-Benutzerattribute
   Neu können die cobra-Benutzerattribute als Platzhalter in Word-Vorlagen verwendet werden. `#123`
 
+* ### Bugfixes und Diverse
+  Der Viewer kann jetzt auch eine eingebettete XRechnung einer E-Rechnung visualisieren. 
+
 ## 1.1.3.5
 
 * ### Bugfixes und Diverse
