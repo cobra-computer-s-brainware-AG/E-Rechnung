@@ -7,11 +7,22 @@
 
 * ### NEU: Direkter Zugriff auf XRechnung aus Kontakteintrag
   Neu kann der Viewer die XRechnung direkt aus einem Kontakteintrag öffnen. Zudem lässt sich die eingebettete XRechnung einer E-Rechnung direkt aus dem PDF visualisieren. `#99`
-
+ 
+* ### NEU: eingebettete Anhangsdokument
+  Neu kann ein cobra-Dokumentenfeld als eingebettete Anhangsdokument auf Rechnungsebene hinzugefügt werden. `#121`
+  
 * ### NEU: cobra-Benutzerattribute
   Neu können die cobra-Benutzerattribute als Platzhalter in Word-Vorlagen verwendet werden. `#123`
  
-* ### Bugfixes und Diverse 
+* ### Bugfixes und Diverse
+
+  Die Fehlermeldung bei zu kurzer E-Mail für den Versand wurde überarbeitet. [`#124`](https://www.cobrapartner.eu/Forum/Partnerforum76/prfung-feldlnge-emailadressen_topic26082.html)
+
+  Die Gläubiger-IBAN wurde in Schuldner-IBAN umbenannt, und der Gläubiger-BIC wurde entfernt.  
+  Für die Mandatsreferenz stehen neu die Felder der Adresse- und der E-Rechnung-Tabelle zur Verfügung.  
+  Der Fehler im Giro-QR-Code bei Lastschrift wurde behoben. [`#125`](https://www.cobrapartner.eu/Forum/Partnerforum76/feldauswahl-sepalastschrift_topic26086.html) 
+
+  
 
 ## 1.1.3.5
 
