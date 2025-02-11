@@ -7,9 +7,6 @@
 
 * ### NEU: Direkter Zugriff auf XRechnung aus Kontakteintrag
   Neu kann der Viewer die XRechnung direkt aus einem Kontakteintrag öffnen. Zudem lässt sich die eingebettete XRechnung einer E-Rechnung direkt aus dem PDF visualisieren. `#99`
- 
-* ### NEU: eingebettete Anhangsdokument
-  Neu kann ein cobra-Dokumentenfeld als eingebettete Anhangsdokument auf Rechnungsebene hinzugefügt werden. `#121`
   
 * ### NEU: cobra-Benutzerattribute
   Neu können die cobra-Benutzerattribute als Platzhalter in Word-Vorlagen verwendet werden. `#123`
