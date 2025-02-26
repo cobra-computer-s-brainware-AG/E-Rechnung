@@ -5,8 +5,11 @@
 
 ## 1.1.3.7
 
+* ### NEU: Alphabetische Anzeige der Formate
+  Neu werden die Formate in alphabetischer Reihenfolge angezeigt. 
+
 * ### Bugfixes und Diverse
-  Der Fehler bei der MwSt.-Berechnung bei Achlsägen wurde korrigiert. `#127`
+  Der Fehler bei der MwSt.-Berechnung bei Abschläge wurde korrigiert. `#127`
   
 ## 1.1.3.6
 
