@@ -10,6 +10,8 @@
 
 * ### Bugfixes und Diverse
   Der Fehler bei der MwSt.-Berechnung bei Abschläge wurde korrigiert. `#127`
+
+  Der Fehler beim Ablegen von Dokumenten in unterstützte DMS-Anbieter wurde korrigiert. `#131`
   
 ## 1.1.3.6
 
