@@ -19,7 +19,8 @@
   Neu kann der Viewer die XRechnung direkt aus einem Kontakteintrag öffnen. Zudem lässt sich die eingebettete XRechnung einer E-Rechnung direkt aus dem PDF visualisieren. `#99`
   
 * ### NEU: cobra-Benutzerattribute
-  Neu können die cobra-Benutzerattribute als Platzhalter in Word-Vorlagen verwendet werden. `#123`
+  Neu können die cobra-Benutzerattribute als Platzhalter in Word-Vorlagen verwendet werden. `#123`   
+  [Benutzerattribute](https://e-rechnung.cobra-hilfe.de/docs/VorlagePlatzhalter#benutzerattribute)
  
 * ### Bugfixes und Diverse
 
