@@ -11,7 +11,9 @@
 * ### Bugfixes und Diverse
   Der Fehler bei der MwSt.-Berechnung bei Abschläge wurde korrigiert. `#127`
 
-  Der Fehler beim Ablegen von Dokumenten in unterstützte DMS-Anbieter wurde korrigiert. `#131`
+  Der Fehler beim Ablegen von Dokumenten in Drittanbieter-DMS wurde korrigiert. `#131`
+
+  Die Installer für die E-Rechnung wurden signiert. 
   
 ## 1.1.3.6
 
