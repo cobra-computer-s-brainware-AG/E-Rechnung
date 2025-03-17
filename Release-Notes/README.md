@@ -3,13 +3,26 @@
 > [!NOTE]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
+## 1.1.3.7
+
+* ### NEU: Alphabetische Anzeige der Formate
+  Neu werden die Formate in alphabetischer Reihenfolge angezeigt. 
+
+* ### Bugfixes und Diverse
+  Der Fehler bei der MwSt.-Berechnung bei Abschläge wurde korrigiert. `#127`
+
+  Der Fehler beim Ablegen von Dokumenten in Drittanbieter-DMS wurde korrigiert. `#131`
+
+  Die Installer für die E-Rechnung wurden signiert. 
+  
 ## 1.1.3.6
 
 * ### NEU: Direkter Zugriff auf XRechnung aus Kontakteintrag
   Neu kann der Viewer die XRechnung direkt aus einem Kontakteintrag öffnen. Zudem lässt sich die eingebettete XRechnung einer E-Rechnung direkt aus dem PDF visualisieren. `#99`
   
 * ### NEU: cobra-Benutzerattribute
-  Neu können die cobra-Benutzerattribute als Platzhalter in Word-Vorlagen verwendet werden. `#123`
+  Neu können die cobra-Benutzerattribute als Platzhalter in Word-Vorlagen verwendet werden. `#123`   
+  [Benutzerattribute](https://e-rechnung.cobra-hilfe.de/docs/VorlagePlatzhalter#benutzerattribute)
  
 * ### Bugfixes und Diverse
 
