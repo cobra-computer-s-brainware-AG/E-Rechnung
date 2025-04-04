@@ -11,7 +11,7 @@
 * ### Bugfixes und Diverse
   Die Unterstützung der cobra Version `2023` wurde eingestellt für E-Rechnung-Erweiterung.
 
-  Der Anzeigefehler der Menge im XViewer wurde behoben. `#133`
+  Der Anzeigefehler der Mengenanzeige im XViewer wurde behoben. `#133`
 
 ## 1.1.3.7
 
