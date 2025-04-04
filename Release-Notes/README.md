@@ -3,6 +3,16 @@
 > [!NOTE]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
+## 1.1.3.80
+
+* ### NEU: E-Rechnung ZIP Export
+  Neu können die E-Rechnungen als ZIP exportiert werden, um sie als Bündel Ihrem Steuerberater zu übergeben. `#129`
+
+* ### Bugfixes und Diverse
+  Die Unterstützung der cobra Version `2023` wurde eingestellt für E-Rechnung-Erweiterung.
+
+  Der Anzeigefehler der Menge im XViewer wurde behoben. `#133`
+
 ## 1.1.3.7
 
 * ### NEU: Alphabetische Anzeige der Formate
