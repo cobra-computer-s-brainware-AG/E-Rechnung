@@ -15,8 +15,9 @@ Einstellungen | Öffnet die Konfiguration der E-Rechnung-Formate.
 Viewer  | Konvertiert eine XRechnung in ein für Menschen lesbares PDF Format.
 Einzelrechnung | Erstellt eine Einzelrechnung.
 Serienrechnung | Erstellt eine Sammelrechnung aus mehreren Datensätzen.
-Update suchen | Sucht online nach Updates
-Online-Hilfe | Offnet Online-Hilfe Webseite
+ZIP-Export | Exportiert E-Rechnungen als ZIP-Archiv 
+Update suchen | Sucht online nach Updates 
+Online-Hilfe | Öffnet Online-Hilfe Webseite 
 Info | Produkt-Info.
 
 

@@ -30,4 +30,4 @@ Nach erfolgreicher Erstellung können Sie die E-Rechnungen als [Serien-E-Mail](h
 
 ##
 
-[Nächste](./Update.md) 
+[ZIP-Export](./ZIP-Export.md) 
