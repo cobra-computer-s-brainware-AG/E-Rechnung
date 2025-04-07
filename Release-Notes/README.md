@@ -6,7 +6,7 @@
 ## 1.1.3.80
 
 * ### NEU: E-Rechnung ZIP Export
-  Neu können die E-Rechnungen als ZIP exportiert werden, um sie als Bündel Ihrem Steuerberater zu übergeben. `#129`
+  Neu können die E-Rechnungen als ZIP exportiert werden, um sie als Bündel Ihrem Steuerberater zu übergeben. `#129`    
   [ZIP Export](https://e-rechnung.cobra-hilfe.de/docs/Zip)
 
 * ### Bugfixes und Diverse
