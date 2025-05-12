@@ -3,6 +3,19 @@
 > [!NOTE]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
+## 1.1.3.82
+
+* ### Bugfixes und Diverse
+  Der Kommafehler bei der Position wurde korrigiert.
+
+## 1.1.3.81
+
+* ### NEU: ButtonCommand 2025.2
+  Es gibt einen neuen ButtonCommand für Version 2025.2.
+
+* ### Bugfixes und Diverse
+  Der Fehler beim ZIP-Export wurde korrigiert.
+
 ## 1.1.3.80
 
 * ### NEU: E-Rechnung ZIP Export
