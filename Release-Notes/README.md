@@ -3,6 +3,11 @@
 > [!NOTE]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
+## 1.1.3.85
+
+* ### Bugfixes und Diverse
+  Letzte Benutzereingaben für den ZIP-Export werden jetzt gespeichert.
+ 
 ## 1.1.3.82
 
 * ### Bugfixes und Diverse
