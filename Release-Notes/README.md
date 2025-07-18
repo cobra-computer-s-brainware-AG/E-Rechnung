@@ -3,6 +3,14 @@
 > [!NOTE]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
+## 1.1.3.86
+
+### NEU: Handelsregisternummer  
+  In den Einstellungen unter `Käufer` kann nun das Handelsregisternummer konfiguriert.
+
+* ### Bugfixes und Diverse
+  Bereits verwendete Felder werden in den Einstellungen nicht mehr angezeigt.
+ 
 ## 1.1.3.85
 
 * ### Bugfixes und Diverse
