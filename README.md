@@ -1,8 +1,8 @@
-Version 1.1.3.85
+Version 1.1.3.86
 
 # cobra E-Rechnung   
 
-* ### [Erste Schritte](./Erste-Schritte/README.md)
+* ### [Erste Schritte](https://e-rechnung.cobra-hilfe.de)
 
 * ### [Release Notes](./Release-Notes/README.md)
  
