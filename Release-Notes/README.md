@@ -5,7 +5,7 @@
 
 ## 1.1.3.86
 
-### NEU: Handelsregisternummer  
+* ### NEU: Handelsregisternummer  
   In den Einstellungen unter `Käufer` kann nun das Handelsregisternummer konfiguriert.
 
 * ### Bugfixes und Diverse
