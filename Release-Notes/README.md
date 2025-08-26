@@ -3,6 +3,12 @@
 > [!NOTE]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
+## 1.1.3.87
+
+* ### NEU: cobra Bilder  
+  Mit dem Suffix `IMAGE#` können cobra Bilder in die Hauptvorlage eingebunden werden.  
+  Optional lässt sich die Bildgrösse nach dem Hashtag in Zentimetern angeben, z. B. `{E-Rechnung.IMAGE#15x10,5}` oder `{E-Rechnung.IMAGE#}`
+
 ## 1.1.3.86
 
 * ### NEU: Handelsregisternummer  
