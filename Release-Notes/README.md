@@ -7,7 +7,7 @@
 
 * ### NEU: cobra Bilder  
   Mit dem Suffix `IMAGE#` können cobra Bilder in die Hauptvorlage eingebunden werden.  
-  Optional lässt sich die Bildgrösse nach dem Hashtag in Zentimetern angeben, z. B. `{E-Rechnung.IMAGE#15x10,5}` oder `{E-Rechnung.IMAGE#}`
+  Optional lässt sich die Bildgrösse nach dem Hashtag in Zentimetern angeben, z. B. `{E-Rechnung.IMAGE#15x10,5}` oder `{E-Rechnung.IMAGE#}`. `#142`  
 
 ## 1.1.3.86
 
