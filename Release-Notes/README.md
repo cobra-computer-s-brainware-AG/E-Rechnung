@@ -5,7 +5,7 @@
 
 ## 2.0.0.0 Beta
 
-* ### NEU: Storno und Gutschirft
+* ### NEU: Storno und Gutschirften
   Neu können Storno- und Gutschriften in der Einzelrechnung generiert werden. [#144](https://www.cobrapartner.eu/Forum/Partnerforum76/gutschriften-und-mahnwesen-geplant_topic26190.html)
 
 * ### Bugfixes und Diverse
