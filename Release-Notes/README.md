@@ -3,6 +3,19 @@
 > [!NOTE]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
+## 2.0.0.0 Beta
+
+* ### NEU: Storno und Gutschirft
+  Neu können Storno- und Gutschriften in der Einzelrechnung generiert werden. [#144](https://www.cobrapartner.eu/Forum/Partnerforum76/gutschriften-und-mahnwesen-geplant_topic26190.html)
+
+* ### Bugfixes und Diverse
+  Im Viewer wird der Rechnungstyp angezeigt. 
+
+## 1.2.0.0
+
+* ### NEU: CAMT.053 Import
+  Neu kann anhand des Verwendungszwecks CAMT.053 importiert werden.  
+  
 ## 1.1.3.87
 
 * ### NEU: cobra Bilder  
