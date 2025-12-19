@@ -9,9 +9,9 @@ CAMT.053-Import
 
 <img src="/docs/CamtImport.webp" alt="Camt Import"/>
 
--Wählen Sie das gewünschte Format aus.
--Wählen Sie die gewünschte CAMT.053-Datei aus.
--Bestätigen Sie Ihre Eingabe mit *OK*.
+- Wählen Sie das gewünschte Format aus.
+- Wählen Sie die gewünschte CAMT.053-Datei aus.
+- Bestätigen Sie Ihre Eingabe mit *OK*.
 
 
 <img src="/docs/Importiert4.webp" alt="Importiert4"/>
