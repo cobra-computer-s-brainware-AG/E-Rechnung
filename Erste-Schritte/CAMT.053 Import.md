@@ -16,9 +16,9 @@ CAMT.053-Import
 
 <img src="/docs/Importiert4.webp" alt="Importiert4"/>
 
-- Gleiche Verwendungszwecke werden automatisch zugeordnet.  
-- Unbekannte Verwendungszwecke haben keine Übereinstimmung bzw. kein Beziehungsfeld.  
-- Diese Zahlungen können nach dem Import gefiltert und bearbeitet werden. 
+Gleiche Verwendungszwecke werden automatisch zugeordnet.  
+Unbekannte Verwendungszwecke haben keine Übereinstimmung bzw. kein Beziehungsfeld.  
+Diese Zahlungen können nach dem Import gefiltert und bearbeitet werden. 
 
 > [!NOTE]
 > Über ein Rechenfeld im E-Rechnungsdatensatz können Sie eine Sollstellung abbilden und sehen, welche Rechnungen bezahlt sind und welche nicht.
