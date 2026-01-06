@@ -3,6 +3,11 @@
 > [!NOTE]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
+## 2.0.0.11 Beta
+
+* ### Bugfixes und Diverse
+  Der BI Fehler wurde korrigiert. 
+
 ## 2.0.0.1 Beta
 
 * ### NEU: cobra 2025 R4  
