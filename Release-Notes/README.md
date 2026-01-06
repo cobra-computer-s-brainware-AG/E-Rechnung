@@ -3,6 +3,14 @@
 > [!NOTE]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
+## 2.0.0.1 Beta
+
+* ### NEU: cobra 2025 R4  
+  Die E-Rechnung-Erweiterung ist auch mit `cobra 2025 R4` kompatibel. [#149](https://www.cobrapartner.eu/Forum/Partnerforum76/erechnungsmodul-und-cobra-2025r4_topic26263.html)
+  
+> [!IMPORTANT]
+> Für 2025 R4 muss das Client-AddOn aktualisiert werden!
+
 ## 2.0.0.0 Beta
 
 * ### NEU: Storno und Gutschirften
