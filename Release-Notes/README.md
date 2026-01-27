@@ -3,31 +3,10 @@
 > [!NOTE]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
-## 2.0.0.11 Beta
+## 1.1.4.0
 
-* ### Bugfixes und Diverse
-  Der BI Fehler wurde korrigiert. 
-
-## 2.0.0.1 Beta
-
-* ### NEU: cobra 2025 R4  
-  Die E-Rechnung-Erweiterung ist auch mit `cobra 2025 R4` kompatibel. [#149](https://www.cobrapartner.eu/Forum/Partnerforum76/erechnungsmodul-und-cobra-2025r4_topic26263.html)
-  
-> [!IMPORTANT]
-> Für 2025 R4 muss das Client-AddOn aktualisiert werden!
-
-## 2.0.0.0 Beta
-
-* ### NEU: Storno und Gutschirften
-  Neu können Storno- und Gutschriften in der Einzelrechnung generiert werden. [#144](https://www.cobrapartner.eu/Forum/Partnerforum76/gutschriften-und-mahnwesen-geplant_topic26190.html)
-
-* ### Bugfixes und Diverse
-  Im Viewer wird der Rechnungstyp angezeigt. 
-
-## 1.2.0.0
-
-* ### NEU: CAMT.053 Import
-  Neu kann anhand des Verwendungszwecks CAMT.053 importiert werden.  
+* ### NEU: Die E-Rechnung-Erweiterung ist auch mit `cobra 2025 R4` kompatibel.
+  Bitte führen Sie auf jeder Arbeitsstation das Update `E-Rechnung.ClientSetup.64.V2.msi` aus, um den Client zu aktualisieren. `#150`  
   
 ## 1.1.3.87
 
