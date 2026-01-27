@@ -9,6 +9,8 @@
   Bitte führen Sie auf jeder Arbeitsstation das Update `E-Rechnung.ClientSetup.64.V2.msi` aus, um den Client zu aktualisieren. [`#150`](https://www.cobrapartner.eu/Forum/Partnerforum76/_topic26263.html)
 
 * ### Bugfixes und Diverse
+  Die Benutzereinstellungen für den ZIP-Export werden jetzt gespeichert. [`#141`](https://www.cobrapartner.eu/Forum/Partnerforum76/_topic26142.html)
+ 
   Der Update fehler mit dem Filter `Letzte Serienrechnung` wurde korrigiert. [`#147`](https://www.cobrapartner.eu/Forum/Partnerforum76/_topic26141.html)
   
   Der fehlerhafte System Platzhalter `Kontoinhaber` würde ergänzt. [`#148`](https://www.cobrapartner.eu/Forum/Partnerforum76/_topic26251.html)
