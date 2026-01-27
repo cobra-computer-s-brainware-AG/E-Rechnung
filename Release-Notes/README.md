@@ -3,6 +3,37 @@
 > [!NOTE]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
+## 1.1.4.0
+
+* ### NEU: Die E-Rechnung-Erweiterung ist auch mit `cobra 2025 R4` kompatibel.
+  Bitte führen Sie auf jeder Arbeitsstation das Update `E-Rechnung.ClientSetup.64.V2.msi` aus, um den Client zu aktualisieren. [`#150`](https://www.cobrapartner.eu/Forum/Partnerforum76/_topic26263.html)
+
+* ### Bugfixes und Diverse
+  Die Benutzereinstellungen für den ZIP-Export werden jetzt gespeichert. [`#141`](https://www.cobrapartner.eu/Forum/Partnerforum76/_topic26142.html)
+ 
+  Der Update fehler mit dem Filter `Letzte Serienrechnung` wurde korrigiert. [`#147`](https://www.cobrapartner.eu/Forum/Partnerforum76/_topic26141.html)
+  
+  Der fehlerhafte System Platzhalter `Kontoinhaber` würde ergänzt. [`#148`](https://www.cobrapartner.eu/Forum/Partnerforum76/_topic26251.html)
+  
+## 1.1.3.87
+
+* ### NEU: cobra Bilder  
+  Mit dem Suffix `IMAGE#` können cobra Bilder in die Hauptvorlage eingebunden werden.  
+  Optional lässt sich die Bildgrösse nach dem Hashtag in Zentimetern angeben, z. B. `{E-Rechnung.IMAGE#15x10,5}` oder `{E-Rechnung.IMAGE#}`. `#142`  
+
+## 1.1.3.86
+
+* ### NEU: Handelsregisternummer  
+  In den Einstellungen unter `Käufer` kann nun das Handelsregisternummer konfiguriert.
+
+* ### Bugfixes und Diverse
+  Bereits verwendete Felder werden in den Einstellungen nicht mehr angezeigt.
+ 
+## 1.1.3.85
+
+* ### Bugfixes und Diverse
+  Letzte Benutzereingaben für den ZIP-Export werden jetzt gespeichert.
+ 
 ## 1.1.3.82
 
 * ### Bugfixes und Diverse
