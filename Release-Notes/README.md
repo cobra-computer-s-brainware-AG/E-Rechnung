@@ -6,7 +6,7 @@
 ## 1.1.4.0
 
 * ### NEU: Die E-Rechnung-Erweiterung ist auch mit `cobra 2025 R4` kompatibel.
-  Bitte führen Sie auf jeder Arbeitsstation das Update `E-Rechnung.ClientSetup.64.V2.msi` aus, um den Client zu aktualisieren. `#150`  
+  Bitte führen Sie auf jeder Arbeitsstation das Update `E-Rechnung.ClientSetup.64.V2.msi` aus, um den Client zu aktualisieren. [`#150`](https://www.cobrapartner.eu/Forum/Partnerforum76/_topic26263.html.html)
   
 ## 1.1.3.87
 
