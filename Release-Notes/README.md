@@ -3,9 +3,13 @@
 > [!NOTE]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
-## 2.0.0.14 Beta
+## 2.0.0.14 Beta 
 
 * ### Bugfixes und Diverse
+  Der Viewer ist jetzt mit 2025 R4 kompatibel.
+
+  Storno und Gutschriften werden jetzt Negativ mit Systemplatzhalter angezeigt.
+  
   CAMT.053 Import wurde zurückgestellt.
 
   Vor der ersten Generierung wird neu abgefragt, ob eine Steuerpflicht besteht, um den USt.-Satz in Prozent zu konfigurieren.
