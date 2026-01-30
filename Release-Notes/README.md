@@ -3,6 +3,15 @@
 > [!NOTE]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
+## 2.0.0.14 Beta
+
+* ### Bugfixes und Diverse
+  CAMT.053 Import wurde zurückgestellt.
+
+  Vor der ersten Generierung wird nun abgefragt, ob eine Steuerpflicht besteht, um den USt.-Satz in Prozent zu konfigurieren.
+
+  Der default Kontakteintrag wurde mit Rechnungstyp erweitert. 
+
 ## 2.0.0.11 Beta
 
 * ### Bugfixes und Diverse
@@ -28,6 +37,18 @@
 
 * ### NEU: CAMT.053 Import
   Neu kann anhand des Verwendungszwecks CAMT.053 importiert werden.  
+  
+## 1.1.4.0
+
+* ### NEU: Die E-Rechnung-Erweiterung ist auch mit `cobra 2025 R4` kompatibel.
+  Bitte führen Sie auf jeder Arbeitsstation das Update `E-Rechnung.ClientSetup.64.V2.msi` aus, um den Client zu aktualisieren. [`#150`](https://www.cobrapartner.eu/Forum/Partnerforum76/_topic26263.html)
+
+* ### Bugfixes und Diverse
+  Die Benutzereinstellungen für den ZIP-Export werden jetzt gespeichert. [`#141`](https://www.cobrapartner.eu/Forum/Partnerforum76/_topic26142.html)
+ 
+  Der Update fehler mit dem Filter `Letzte Serienrechnung` wurde korrigiert. [`#147`](https://www.cobrapartner.eu/Forum/Partnerforum76/_topic26141.html)
+  
+  Der fehlerhafte System Platzhalter `Kontoinhaber` würde ergänzt. [`#148`](https://www.cobrapartner.eu/Forum/Partnerforum76/_topic26251.html)
   
 ## 1.1.3.87
 
@@ -398,8 +419,3 @@
  
 * ### Rechnungsnummer
   In den Einstellungen unter `Allgemein` kann nun auch ein virtuelles Feld für die Rechnungsnummer ausgewählt werden.
-
-* ### Ansprechpartner 
-  Der Ansprechpartner muss aus einem Feld des Käufer- oder Rechnungsdatensatzes stammen.
-
-* ### Diverse Bugfixes
