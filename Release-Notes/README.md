@@ -8,7 +8,7 @@
 * ### Bugfixes und Diverse
   CAMT.053 Import wurde zurückgestellt.
 
-  Vor der ersten Generierung wird nun abgefragt, ob eine Steuerpflicht besteht, um den USt.-Satz in Prozent zu konfigurieren.
+  Vor der ersten Generierung wird neu abgefragt, ob eine Steuerpflicht besteht, um den USt.-Satz in Prozent zu konfigurieren.
 
   Der default Kontakteintrag wurde mit Rechnungstyp erweitert. 
 
