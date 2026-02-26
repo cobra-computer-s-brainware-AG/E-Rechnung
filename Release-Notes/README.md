@@ -3,6 +3,13 @@
 > [!NOTE]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
+## 1.1.4.3
+
+* ### Bugfixes und Diverse
+  Der Beschreibungstext zur Handelsregisternummer wurde korrigiert. [`#156`](https://www.cobrapartner.eu/Forum/Partnerforum76/erechnung-validierungsprobleme_topic26306.html)
+
+  Der Link zum Download wurde angepasst.
+
 ## 1.1.4.2
 
 * ### NEU: Kennung des Käufers und Buchungsreferenz
