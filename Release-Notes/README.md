@@ -6,6 +6,14 @@
 > [!TIP]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
+## 2.0.0.15 Beta 
+
+* ### Bugfixes und Diverse
+ Der Gutschrift fehler wurde korrigiert. [#160](https://www.cobrapartner.eu/Forum/Partnerforum76/gutschriften-und-mahnwesen-geplant_topic26190.html)
+
+ Die Version 1.1.4.2 wurde zusammengefürht. 
+  
+
 ## 2.0.0.14 Beta 
 
 * ### Bugfixes und Diverse
@@ -40,10 +48,19 @@
 * ### Bugfixes und Diverse
   Im Viewer wird der Rechnungstyp angezeigt. 
 
-## 1.2.0.0
+## 1.1.4.2
 
-* ### NEU: CAMT.053 Import
-  Neu kann anhand des Verwendungszwecks CAMT.053 importiert werden.  
+* ### NEU: Kennung des Käufers und Buchungsreferenz
+  In den Einstellungen unter `Käufer` und `Position` kann neu die Kennung des Käufers und die Buchungsreferenz konfiguriert werden.
+
+* ### Bugfixes und Diverse  
+  Im PDF wurden die PDF-XMP-Metadaten ergänzt. [`#156`](https://www.cobrapartner.eu/Forum/Partnerforum76/erechnung-validierungsprobleme_topic26306.html)
+
+## 1.1.4.1
+
+* ### NEU: Die E-Rechnung-Erweiterung ist auch mit `cobra Classic 2026 R1` kompatibel.
+  In der Version 2026 erhalten die Icons im Menuband einen neuen Look.
+
   
 ## 1.1.4.0
 
