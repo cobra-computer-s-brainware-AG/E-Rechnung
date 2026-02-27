@@ -1,6 +1,9 @@
 # Release Notes | E-Rechnung
 
 > [!NOTE]
+> Der Download für die Beta finden Sie [hier]( https://www.cobrasystem.de/cobra/download/E-Rechnung/E-Rechnung.Installer.Beta.zip)
+
+> [!NOTE]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
 ## 2.0.0.14 Beta 
