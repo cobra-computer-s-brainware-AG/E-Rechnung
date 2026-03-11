@@ -6,6 +6,13 @@
 > [!TIP]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
+## 2.0.0.16 Beta 
+
+* ### NEU: Handelsregisternummer  
+  In den Einstellungen unter `Verkäufer` kann das Handelsregisternummer konfiguriert.
+
+* ### Bugfixes und Diverse
+
 ## 2.0.0.15 Beta 
 
 * ### Bugfixes und Diverse
