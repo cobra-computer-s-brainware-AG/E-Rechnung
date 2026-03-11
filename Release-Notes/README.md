@@ -8,6 +8,9 @@
 
 ## 2.0.0.16 Beta 
 
+* ### NEU: E-Rechnung Datei Export  
+  Neu können in `cobra One GROW` und `cobra One MAX` Rechnungen exportiert werden.
+
 * ### NEU: Handelsregisternummer  
   In den Einstellungen unter `Verkäufer` kann das Handelsregisternummer konfiguriert.
 
