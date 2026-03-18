@@ -6,6 +6,13 @@
 > [!TIP]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
+## 2.0.0.17 Beta 
+
+* ### NEU: E-Rechnung Datei Export  
+  Neu können in `cobra One GROW` und `cobra One MAX` Rechnungen exportiert werden.
+
+  
+
 ## 2.0.0.16 Beta 
 
 * ### NEU: Handelsregisternummer  
