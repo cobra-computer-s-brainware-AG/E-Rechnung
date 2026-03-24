@@ -11,7 +11,8 @@
 * ### NEU: E-Rechnung Datei Export  
   Neu können in `cobra One GROW` und `cobra One MAX` Rechnungen exportiert werden.
 
-  
+* ### Bugfixes und Diverse
+  Fehlendes Sprachpaket wurde im `ClientSetup.64.V2` ergänzt. 
 
 ## 2.0.0.16 Beta 
 
