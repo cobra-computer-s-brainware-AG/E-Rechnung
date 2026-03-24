@@ -15,7 +15,9 @@
   In den Einstellungen unter `Filter` stehen neu Erweiterte Filterfunktion zur verfügung. 
 
 * ### Bugfixes und Diverse
-  Fehlendes Sprachpaket wurde im `ClientSetup.64.V2` ergänzt. 
+  Fehlendes Sprachpaket wurde im `ClientSetup.64.V2` ergänzt.
+
+  Warenwert wurde in der Word-Vorlage ergänzt. [#163](https://www.cobrapartner.eu/Forum/Partnerforum76/netto-mit-zu-und-abschlgen-wird-falsch-berechnet_topic26346.html)
 
 ## 2.0.0.16 Beta 
 
