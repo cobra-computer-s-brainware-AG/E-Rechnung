@@ -22,14 +22,14 @@
 * ### NEU: Handelsregisternummer  
   In den Einstellungen unter `Verkäufer` kann das Handelsregisternummer konfiguriert.
 
-* ### Bugfixes und Diverse
+ 
 
 ## 2.0.0.15 Beta 
 
 * ### Bugfixes und Diverse
- Der Gutschrift fehler wurde korrigiert. [#160](https://www.cobrapartner.eu/Forum/Partnerforum76/gutschriften-und-mahnwesen-geplant_topic26190.html)
+  Der Gutschrift fehler wurde korrigiert. [#160](https://www.cobrapartner.eu/Forum/Partnerforum76/gutschriften-und-mahnwesen-geplant_topic26190.html)
 
- Die Version 1.1.4.2 wurde zusammengefürht. 
+  Die Version 1.1.4.2 wurde zusammengefürht. 
   
 
 ## 2.0.0.14 Beta 
