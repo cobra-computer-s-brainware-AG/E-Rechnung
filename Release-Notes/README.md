@@ -19,6 +19,13 @@
 
   Warenwert wurde in der Word-Vorlage ergänzt. [#163](https://www.cobrapartner.eu/Forum/Partnerforum76/netto-mit-zu-und-abschlgen-wird-falsch-berechnet_topic26346.html)
 
+  Der Beschreibungstext für Handelsregisternummer wurde korriigert. [#158](https://www.cobrapartner.eu/Forum/Partnerforum76/erechnung-validierungsprobleme_topic26306.html)
+
+  Handelsregisternummer für Käufer wurde ergänzt. [#159](https://www.cobrapartner.eu/Forum/Partnerforum76/erechnung-validierungsprobleme_topic26306.html)
+
+  Vor der Erstellung der Datenbankstruktur wird nun die Anzahl der Tabellen geprüft. [#146](https://www.cobrapartner.eu/Forum/Partnerforum76/anzahl-additionals-bei-installation-erechnungen_topic26223.html)
+
+
 ## 2.0.0.16 Beta 
 
 * ### NEU: Handelsregisternummer  
