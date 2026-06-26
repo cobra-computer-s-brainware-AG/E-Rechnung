@@ -6,13 +6,15 @@
 > [!TIP]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
-## 2.0.0.21 
+## 2.0.0.22
 * ### Bugfixes und Diverse
   Der Fehler im Viewer, wenn keine Zahlungsbedingung vorhanden ist, wurde behoben.
   
   Der Rundungsfehler bei der Umsatzsteuer wurde behoben. 
 
   Der Fehler beim Wechsel der Tabellen in den Einstellungen wurde behoben.
+
+  Die Online-Hilfe wurde angepasst. 
 
 ## 2.0.0.18 Beta 
 
