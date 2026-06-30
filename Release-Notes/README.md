@@ -63,24 +63,13 @@
 
 ## 2.0.0.11 Beta
 
-* ### Bugfixes und Diverse
-  Der BI Fehler wurde korrigiert. 
+* ### NEU: Kennung des Käufers und Buchungsreferenz
+  In den Einstellungen unter `Käufer` und `Position` kann neu die Kennung des Käufers und die Buchungsreferenz konfiguriert werden.
 
-## 2.0.0.1 Beta
+* ### Bugfixes und Diverse  
+  Im PDF wurden die PDF-XMP-Metadaten ergänzt. [`#156`](https://www.cobrapartner.eu/Forum/Partnerforum76/erechnung-validierungsprobleme_topic26306.html)
 
-* ### NEU: cobra 2025 R4  
-  Die E-Rechnung-Erweiterung ist auch mit `cobra 2025 R4` kompatibel. [#149](https://www.cobrapartner.eu/Forum/Partnerforum76/erechnungsmodul-und-cobra-2025r4_topic26263.html)
-  
-> [!IMPORTANT]
-> Für 2025 R4 muss das Client-AddOn aktualisiert werden!
 
-## 2.0.0.0 Beta
-
-* ### NEU: Storno und Gutschirften
-  Neu können Storno- und Gutschriften in der Einzelrechnung generiert werden. [#144](https://www.cobrapartner.eu/Forum/Partnerforum76/gutschriften-und-mahnwesen-geplant_topic26190.html)
-
-* ### Bugfixes und Diverse
-  Im Viewer wird der Rechnungstyp angezeigt. 
 
 ## 1.1.4.2
 
