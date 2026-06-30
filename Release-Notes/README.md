@@ -1,7 +1,75 @@
 # Release Notes | E-Rechnung
-
-> [!NOTE]
+  
+> [!TIP]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
+
+## 2.0.0.22
+* ### Bugfixes und Diverse
+  Der Fehler im Viewer, wenn keine Zahlungsbedingung vorhanden ist, wurde behoben.
+  
+  Der Rundungsfehler bei der Umsatzsteuer wurde behoben. 
+
+  Der Fehler beim Wechsel der Tabellen in den Einstellungen wurde behoben.
+
+  Die Online-Hilfe wurde angepasst. 
+
+## 2.0.0.18 Beta 
+
+* ### NEU: E-Rechnung Datei Export  
+  Neu können in `cobra One GROW` und `cobra One MAX` Rechnungen exportiert werden.
+
+* ### NEU: Erweiterte Filterfunktion
+  In den Einstellungen unter `Filter` stehen neu Erweiterte Filterfunktion zur verfügung. 
+
+* ### Bugfixes und Diverse
+  Fehlendes Sprachpaket wurde im `ClientSetup.64.V2` ergänzt.
+
+  Warenwert wurde in der Word-Vorlage ergänzt. [#163](https://www.cobrapartner.eu/Forum/Partnerforum76/netto-mit-zu-und-abschlgen-wird-falsch-berechnet_topic26346.html)
+
+  Der Beschreibungstext für Handelsregisternummer wurde korriigert. [#158](https://www.cobrapartner.eu/Forum/Partnerforum76/erechnung-validierungsprobleme_topic26306.html)
+
+  Handelsregisternummer für Käufer wurde ergänzt. [#159](https://www.cobrapartner.eu/Forum/Partnerforum76/erechnung-validierungsprobleme_topic26306.html)
+
+  Vor der Erstellung der Datenbankstruktur wird nun die Anzahl der Tabellen geprüft. [#146](https://www.cobrapartner.eu/Forum/Partnerforum76/anzahl-additionals-bei-installation-erechnungen_topic26223.html)
+
+
+## 2.0.0.16 Beta 
+
+* ### NEU: Handelsregisternummer  
+  In den Einstellungen unter `Verkäufer` kann das Handelsregisternummer konfiguriert.
+
+ 
+
+## 2.0.0.15 Beta 
+
+* ### Bugfixes und Diverse
+  Der Gutschrift fehler wurde korrigiert. [#160](https://www.cobrapartner.eu/Forum/Partnerforum76/gutschriften-und-mahnwesen-geplant_topic26190.html)
+
+  Die Version 1.1.4.2 wurde zusammengefürht. 
+  
+
+## 2.0.0.14 Beta 
+
+* ### Bugfixes und Diverse
+  Der Viewer ist jetzt mit 2025 R4 kompatibel.
+
+  Storno und Gutschriften werden jetzt Negativ mit Systemplatzhalter angezeigt.
+  
+  CAMT.053 Import wurde zurückgestellt.
+
+  Vor der ersten Generierung wird neu abgefragt, ob eine Steuerpflicht besteht, um den USt.-Satz in Prozent zu konfigurieren.
+
+  Der default Kontakteintrag wurde mit Rechnungstyp erweitert. 
+
+## 2.0.0.11 Beta
+
+* ### NEU: Kennung des Käufers und Buchungsreferenz
+  In den Einstellungen unter `Käufer` und `Position` kann neu die Kennung des Käufers und die Buchungsreferenz konfiguriert werden.
+
+* ### Bugfixes und Diverse  
+  Im PDF wurden die PDF-XMP-Metadaten ergänzt. [`#156`](https://www.cobrapartner.eu/Forum/Partnerforum76/erechnung-validierungsprobleme_topic26306.html)
+
+
 
 ## 1.1.4.2
 
@@ -16,6 +84,7 @@
 * ### NEU: Die E-Rechnung-Erweiterung ist auch mit `cobra Classic 2026 R1` kompatibel.
   In der Version 2026 erhalten die Icons im Menuband einen neuen Look.
 
+  
 ## 1.1.4.0
 
 * ### NEU: Die E-Rechnung-Erweiterung ist auch mit `cobra 2025 R4` kompatibel.
@@ -397,8 +466,3 @@
  
 * ### Rechnungsnummer
   In den Einstellungen unter `Allgemein` kann nun auch ein virtuelles Feld für die Rechnungsnummer ausgewählt werden.
-
-* ### Ansprechpartner 
-  Der Ansprechpartner muss aus einem Feld des Käufer- oder Rechnungsdatensatzes stammen.
-
-* ### Diverse Bugfixes
