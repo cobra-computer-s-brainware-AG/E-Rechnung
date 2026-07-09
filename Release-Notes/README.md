@@ -3,6 +3,8 @@
 > [!TIP]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
+Dwonlaod [Installer 2.0.0.24](https://cobraag-my.sharepoint.com/:u:/g/personal/heiko_rahm_cobraag_ch/IQAczyuUSXT5T4oTRqTWwMMjAfGUtk2gvUSalLfx8Lfn_lo?e=qPFE2h)
+
 ## 2.0.0.24
 * ### Bugfixes und Diverse
   Wird ein Abrechnungszeitraum angegeben, kann neu optional ein Liefer-/Leistungsdatum angegeben werden. [#CH-67](https://www.cobrapartner.eu/Forum/Partnerforum76/topic26386.html)
