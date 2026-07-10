@@ -1,4 +1,4 @@
-Version 2.0.0.24
+Version 2.0.0.25
 
 # cobra E-Rechnung   
 

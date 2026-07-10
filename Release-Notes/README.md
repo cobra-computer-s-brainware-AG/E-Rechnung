@@ -3,7 +3,11 @@
 > [!TIP]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
-Dwonlaod [Installer 2.0.0.24](https://cobraag-my.sharepoint.com/:u:/g/personal/heiko_rahm_cobraag_ch/IQAczyuUSXT5T4oTRqTWwMMjAfGUtk2gvUSalLfx8Lfn_lo?e=qPFE2h)
+Dwonlaod [Installer 2.0.0.25](https://cobraag-my.sharepoint.com/:u:/g/personal/heiko_rahm_cobraag_ch/IQBtN-JaQ-C3RYPOenrqfQNcAQx86RR5B6iI2czIwELrO8s?e=rruCO9)
+
+## 2.0.0.25
+* ### Bugfixes und Diverse
+  Der Fehler, dass das Lieferdatum nicht mehr ausgegeben wird, wenn ein Zeitraum angegeben war, wurde behoben. Zusätzlich sind nun auch Mischdatensätze möglich.
 
 ## 2.0.0.24
 * ### Bugfixes und Diverse
