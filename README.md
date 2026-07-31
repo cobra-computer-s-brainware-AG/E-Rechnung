@@ -2,7 +2,7 @@ Version 2.0.0.25
 
 # cobra E-Rechnung   
 
-* ### [Erste Schritte](https://e-rechnung.cobra-hilfe.de)
+* ### [Online-Hilfe](https://e-rechnung.cobra-hilfe.de)
 
 * ### [Release Notes](./Release-Notes/README.md)
  
