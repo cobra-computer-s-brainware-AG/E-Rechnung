@@ -3,7 +3,12 @@
 > [!TIP]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
-Dwonlaod [Installer 2.0.0.25](https://cobraag-my.sharepoint.com/:u:/g/personal/heiko_rahm_cobraag_ch/IQBtN-JaQ-C3RYPOenrqfQNcAQx86RR5B6iI2czIwELrO8s?e=rruCO9)
+Dwonlaod [Installer 2.0.0.26](https://cobraag-my.sharepoint.com/:u:/g/personal/heiko_rahm_cobraag_ch/IQBtN-JaQ-C3RYPOenrqfQNcAQx86RR5B6iI2czIwELrO8s?e=rruCO9)
+
+## 2.0.0.26
+
+* ### NEU: Adresse 2  
+  In den Einstellungen unter `Verkäufer` und `Käufer` kann eine zusätzliche Adresszeile eingegeben werden, die verwendet werden kann, um weitere Einzelheiten in Ergänzung zur Hauptzeile anzugeben. [#CH-101](https://www.cobrapartner.eu/Forum/Partnerforum76/topic26391.html)
 
 ## 2.0.0.25
 * ### Bugfixes und Diverse
