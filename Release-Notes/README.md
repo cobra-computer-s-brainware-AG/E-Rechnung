@@ -3,23 +3,6 @@
 > [!TIP]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
-Download [Installer 2.0.0.26](https://cobraag-my.sharepoint.com/:u:/g/personal/heiko_rahm_cobraag_ch/IQBtN-JaQ-C3RYPOenrqfQNcAQx86RR5B6iI2czIwELrO8s?e=rruCO9)
-
-## 2.0.0.26
-
-* ### NEU: Adresse 2  
-  In den Einstellungen unter `Verkäufer` und `Käufer` kann eine zusätzliche Adresszeile eingegeben werden, die verwendet werden kann, um weitere Einzelheiten in Ergänzung zur Hauptzeile anzugeben. [#CH-101](https://www.cobrapartner.eu/Forum/Partnerforum76/topic26391.html)
-
-## 2.0.0.25
-* ### Bugfixes und Diverse
-  Der Fehler, dass das Lieferdatum nicht mehr ausgegeben wird, wenn ein Zeitraum angegeben war, wurde behoben. Zusätzlich sind nun auch Mischdatensätze möglich.
-
-## 2.0.0.24
-* ### Bugfixes und Diverse
-  Wird ein Abrechnungszeitraum angegeben, kann neu optional ein Liefer-/Leistungsdatum angegeben werden. [#CH-67](https://www.cobrapartner.eu/Forum/Partnerforum76/topic26386.html)
-
-  Die Installer entsprechen neu den aktuellen Sicherheitsstandards.
-
 ## 2.0.0.22
 * ### Bugfixes und Diverse
   Der Fehler im Viewer, wenn keine Zahlungsbedingung vorhanden ist, wurde behoben.
@@ -36,14 +19,14 @@ Download [Installer 2.0.0.26](https://cobraag-my.sharepoint.com/:u:/g/personal/h
   Neu können in `cobra One GROW` und `cobra One MAX` Rechnungen exportiert werden.
 
 * ### NEU: Erweiterte Filterfunktion
-  In den Einstellungen unter `Filter` stehen neu Erweiterte Filterfunktion zur Verfügung. 
+  In den Einstellungen unter `Filter` stehen neu Erweiterte Filterfunktion zur verfügung. 
 
 * ### Bugfixes und Diverse
   Fehlendes Sprachpaket wurde im `ClientSetup.64.V2` ergänzt.
 
   Warenwert wurde in der Word-Vorlage ergänzt. [#163](https://www.cobrapartner.eu/Forum/Partnerforum76/netto-mit-zu-und-abschlgen-wird-falsch-berechnet_topic26346.html)
 
-  Der Beschreibungstext für Handelsregisternummer wurde korrigiert. [#158](https://www.cobrapartner.eu/Forum/Partnerforum76/erechnung-validierungsprobleme_topic26306.html)
+  Der Beschreibungstext für Handelsregisternummer wurde korriigert. [#158](https://www.cobrapartner.eu/Forum/Partnerforum76/erechnung-validierungsprobleme_topic26306.html)
 
   Handelsregisternummer für Käufer wurde ergänzt. [#159](https://www.cobrapartner.eu/Forum/Partnerforum76/erechnung-validierungsprobleme_topic26306.html)
 
@@ -53,16 +36,16 @@ Download [Installer 2.0.0.26](https://cobraag-my.sharepoint.com/:u:/g/personal/h
 ## 2.0.0.16 Beta 
 
 * ### NEU: Handelsregisternummer  
-  In den Einstellungen unter `Verkäufer` kann die Handelsregisternummer konfiguriert werden.
+  In den Einstellungen unter `Verkäufer` kann das Handelsregisternummer konfiguriert.
 
  
 
 ## 2.0.0.15 Beta 
 
 * ### Bugfixes und Diverse
-  Der Gutschriftfehler wurde korrigiert. [#160](https://www.cobrapartner.eu/Forum/Partnerforum76/gutschriften-und-mahnwesen-geplant_topic26190.html)
+  Der Gutschrift fehler wurde korrigiert. [#160](https://www.cobrapartner.eu/Forum/Partnerforum76/gutschriften-und-mahnwesen-geplant_topic26190.html)
 
-  Die Version 1.1.4.2 wurde zusammengeführt. 
+  Die Version 1.1.4.2 wurde zusammengefürht. 
   
 
 ## 2.0.0.14 Beta 
@@ -70,7 +53,7 @@ Download [Installer 2.0.0.26](https://cobraag-my.sharepoint.com/:u:/g/personal/h
 * ### Bugfixes und Diverse
   Der Viewer ist jetzt mit 2025 R4 kompatibel.
 
-  Storno und Gutschriften werden jetzt negativ mit Systemplatzhalter angezeigt.
+  Storno und Gutschriften werden jetzt Negativ mit Systemplatzhalter angezeigt.
   
   CAMT.053 Import wurde zurückgestellt.
 
@@ -110,20 +93,20 @@ Download [Installer 2.0.0.26](https://cobraag-my.sharepoint.com/:u:/g/personal/h
 * ### Bugfixes und Diverse
   Die Benutzereinstellungen für den ZIP-Export werden jetzt gespeichert. [`#141`](https://www.cobrapartner.eu/Forum/Partnerforum76/_topic26142.html)
  
-  Der Updatefehler mit dem Filter `Letzte Serienrechnung` wurde korrigiert. [`#147`](https://www.cobrapartner.eu/Forum/Partnerforum76/_topic26141.html)
+  Der Update fehler mit dem Filter `Letzte Serienrechnung` wurde korrigiert. [`#147`](https://www.cobrapartner.eu/Forum/Partnerforum76/_topic26141.html)
   
-  Der fehlerhafte Systemplatzhalter `Kontoinhaber` wurde ergänzt. [`#148`](https://www.cobrapartner.eu/Forum/Partnerforum76/_topic26251.html)
+  Der fehlerhafte System Platzhalter `Kontoinhaber` würde ergänzt. [`#148`](https://www.cobrapartner.eu/Forum/Partnerforum76/_topic26251.html)
   
 ## 1.1.3.87
 
 * ### NEU: cobra Bilder  
   Mit dem Suffix `IMAGE#` können cobra Bilder in die Hauptvorlage eingebunden werden.  
-  Optional lässt sich die Bildgröße nach dem Hashtag in Zentimetern angeben, z. B. `{E-Rechnung.IMAGE#15x10,5}` oder `{E-Rechnung.IMAGE#}`. `#142`  
+  Optional lässt sich die Bildgrösse nach dem Hashtag in Zentimetern angeben, z. B. `{E-Rechnung.IMAGE#15x10,5}` oder `{E-Rechnung.IMAGE#}`. `#142`  
 
 ## 1.1.3.86
 
 * ### NEU: Handelsregisternummer  
-  In den Einstellungen unter `Käufer` kann nun die Handelsregisternummer konfiguriert werden.
+  In den Einstellungen unter `Käufer` kann nun das Handelsregisternummer konfiguriert.
 
 * ### Bugfixes und Diverse
   Bereits verwendete Felder werden in den Einstellungen nicht mehr angezeigt.
@@ -163,7 +146,7 @@ Download [Installer 2.0.0.26](https://cobraag-my.sharepoint.com/:u:/g/personal/h
   Neu werden die Formate in alphabetischer Reihenfolge angezeigt. 
 
 * ### Bugfixes und Diverse
-  Der Fehler bei der MwSt.-Berechnung bei Abschlägen wurde korrigiert. `#127`
+  Der Fehler bei der MwSt.-Berechnung bei Abschläge wurde korrigiert. `#127`
 
   Der Fehler beim Ablegen von Dokumenten in Drittanbieter-DMS wurde korrigiert. `#131`
 
@@ -242,7 +225,7 @@ Download [Installer 2.0.0.26](https://cobraag-my.sharepoint.com/:u:/g/personal/h
 
   Der Fehler beim Feld `Land` mit dem Wert NULL wurde behoben. `#102`
 
-  Beim automatischen Generieren wird der `INSTEAD_OF_DELETE`-Trigger erstellt. Anschließend muss cobra neu gestartet werden! `#103`
+  Beim automatischen Generieren wird der `INSTEAD_OF_DELETE`-Trigger erstellt. Anschliessend muss cobra neu gestartet werden! `#103`
 
 ## RC 1 Patch 3.1
 
@@ -283,7 +266,7 @@ Download [Installer 2.0.0.26](https://cobraag-my.sharepoint.com/:u:/g/personal/h
 * ### NEU: Validierung des cobra-Systemverzeichnisses 
   Der `E-Rechnung.Installer.msi` validiert das cobra-Systemverzeichnis. Zusätzlich wird das E-Rechnung-Verzeichnis nur geöffnet, wenn der Loader noch nicht installiert ist. `#85`
 
-* ### NEU: USt heißt jetzt USt in Prozent
+* ### NEU: USt heisst jetzt USt in Prozent
   In den Einstellungen unter `Position` sowie `Zu- und Abschlag` wurde das Feld `USt` in `USt in Prozent` umbenannt. `#83`
 
 * ### Bugfixes und Diverse
@@ -344,7 +327,7 @@ Download [Installer 2.0.0.26](https://cobraag-my.sharepoint.com/:u:/g/personal/h
   Neu kann das Reverse-Charge-Verfahren (Umkehr der Steuerschuldnerschaft) sowohl in den `Positionen` als auch bei `Zu- und Abschlägen` angewendet werden. `#45`       
   [Position](/Erste-Schritte/Einstellungen.md#position)
  
-* ### NEU: Allgemein heißt jetzt Rechnung
+* ### NEU: Allgemein heisst jetzt Rechnung
   In den Einstellungen wurde `Allgemein` in `Rechnung` umbenannt.     
   [Rechnung](/Erste-Schritte/Einstellungen.md#Rechnung) 
 
@@ -360,11 +343,11 @@ Download [Installer 2.0.0.26](https://cobraag-my.sharepoint.com/:u:/g/personal/h
 
 * ### Bugfixes und Diverse
   
-  Die Texte für Nachlässe wurden angepasst. `#59`
+  Die Texte für Nachlässe wurden Angepasst. `#59`
 
   Die Positionen wurden im PDF nicht korrekt sortiert. `#61`
 
-  Das Laden des Datensatzes wurde optimiert. `#63`
+  Das Laden des Datensatzes wurde Optimiert. `#63`
 
   Leistungsdatum und Abrechnungszeitraum werden bei der Eingabe bereinigt, um unnötige Fehlermeldungen beim Speichern zu vermeiden. `#64`
 
@@ -418,11 +401,11 @@ Download [Installer 2.0.0.26](https://cobraag-my.sharepoint.com/:u:/g/personal/h
 
   Der Viewer schließt sich, wenn keine XRechnung ausgewählt wurde. `#47`
 
-  Die Fenstergröße bei Serienrechnung wird sich nicht mehr automatisch an den Inhalt anpassen. `#50`
+  Die Fenstergrösse bei Serienrechnung wird sich nicht mehr automatisch dem Inahlt anpassen. `#50`
 
-  Filter `Letzte Serienrechnung` angepasst `#51`
+  Filter Letzte Serienrechnung anpassung `#51`
  
-  Validierung wird beim Speichern optimiert. `#53`
+  Validierung wird beim Speichern Optimiert. `#53`
 
 
   
