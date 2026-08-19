@@ -3,6 +3,25 @@
 > [!TIP]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
+Download [Installer 2.0.0.27](https://github.com/cobra-computer-s-brainware-AG/E-Rechnung/releases/download/v2.0.0.27/E-Rechnung.Installer.2.0.0.27.zip)
+
+## 2.0.0.27
+
+* ### NEU: Adresszusatz  
+  In den Einstellungen unter `Verkäufer` und `Käufer` kann eine zusätzliche Adresszeile eingegeben werden, die verwendet werden kann, um weitere Einzelheiten in Ergänzung zur Hauptzeile anzugeben. [#CH-101](https://www.cobrapartner.eu/Forum/Partnerforum76/topic26391.html)
+
+* ### Bugfixes und Diverse
+
+## 2.0.0.25
+* ### Bugfixes und Diverse
+  Der Fehler, dass das Lieferdatum nicht mehr ausgegeben wird, wenn ein Zeitraum angegeben war, wurde behoben. Zusätzlich sind nun auch Mischdatensätze möglich.
+
+## 2.0.0.24
+* ### Bugfixes und Diverse
+  Wird ein Abrechnungszeitraum angegeben, kann neu optional ein Liefer-/Leistungsdatum angegeben werden. [#CH-67](https://www.cobrapartner.eu/Forum/Partnerforum76/topic26386.html)
+
+  Die Installer entsprechen neu den aktuellen Sicherheitsstandards.
+
 ## 2.0.0.22
 * ### Bugfixes und Diverse
   Der Fehler im Viewer, wenn keine Zahlungsbedingung vorhanden ist, wurde behoben.
