@@ -5,6 +5,11 @@
 
 Download [Installer 2.0.0.27](https://github.com/cobra-computer-s-brainware-AG/E-Rechnung/releases/download/v2.0.0.27/E-Rechnung.Installer.2.0.0.27.zip)
 
+## 2.0.0.28
+
+* ### Bugfixes und Diverse
+  Die Anzeige der Felder beim Tabellenwechsel in den Einstellungen wurde stabilisiert. [#CH-181]
+
 ## 2.0.0.27
 
 * ### NEU: Adresszusatz  
