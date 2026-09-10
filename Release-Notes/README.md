@@ -10,6 +10,8 @@ Download [Installer 2.0.0.28](https://github.com/cobra-computer-s-brainware-AG/E
 * ### Bugfixes und Diverse
   Die Anzeige der Felder beim Tabellenwechsel in den Einstellungen wurde stabilisiert. [#CH-181]
 
+  Die [Online-Hilfe](https://e-rechnung.cobra-hilfe.de) wurde angepasst.
+
 ## 2.0.0.27
 
 * ### NEU: Adresszusatz  
