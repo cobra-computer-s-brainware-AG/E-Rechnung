@@ -1,5 +1,3 @@
-Version 2.0.0.28
-
 # cobra E-Rechnung   
 
 * ### [Erste Schritte](https://e-rechnung.cobra-hilfe.de)
