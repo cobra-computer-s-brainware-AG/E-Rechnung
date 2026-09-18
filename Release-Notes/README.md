@@ -8,7 +8,7 @@ Download [Installer 2.0.0.29](https://github.com/cobra-computer-s-brainware-AG/E
 ## 2.0.0.29
 
 * ### Bugfixes und Diverse
-  Der fehlende Ausnahmegrund bei Positionen mit abweichendem Steuercode wurde ergänzt. [#CH-147](https://www.cobrapartner.eu/Forum/Partnerforum76/fehlender-ausnahmegrund-bei-steuercode-e_topic26396.html)
+  Der fehlende Ausnahmegrund bei abweichendem Steuercode wurde ergänzt. [#CH-147](https://www.cobrapartner.eu/Forum/Partnerforum76/fehlender-ausnahmegrund-bei-steuercode-e_topic26396.html)
 
 ## 2.0.0.28
 
