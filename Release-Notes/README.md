@@ -5,6 +5,11 @@
 
 Download [Installer 2.0.0.29](https://github.com/cobra-computer-s-brainware-AG/E-Rechnung/releases/download/v2.0.0.29/E-Rechnung.Installer.2.0.0.29.msi)
 
+## 2.0.0.30
+
+* ### NEU: Filter für Positionen sowie Zu- und Abschläge
+  In den Einstellungen kann unter `Position` und `Zu- und Abschlag` neu ein freier Filter konfiguriert werden. [#CH-149](https://www.cobrapartner.eu/Forum/Partnerforum76/filter-rechnungspositionen_topic26399.html)
+
 ## 2.0.0.29
 
 * ### Bugfixes und Diverse
