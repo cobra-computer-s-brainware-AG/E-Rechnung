@@ -3,7 +3,17 @@
 > [!TIP]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
-Download [Installer 2.0.0.29](https://github.com/cobra-computer-s-brainware-AG/E-Rechnung/releases/download/v2.0.0.29/E-Rechnung.Installer.2.0.0.29.msi)
+Download: [Installer](https://github.com/cobra-computer-s-brainware-AG/E-Rechnung/releases/)
+
+## 2.0.0.30
+
+* ### NEU: Filter für Positionen sowie Zu- und Abschläge
+  In den Einstellungen kann unter `Position` und `Zu- und Abschlag` neu ein freier Filter konfiguriert werden. [#CH-149](https://www.cobrapartner.eu/Forum/Partnerforum76/filter-rechnungspositionen_topic26399.html)
+
+* ### Bugfixes und Diverse
+  Die Beschreibungen in den Einstellungen sowie die Hinweis- und Fehlermeldungen wurden überarbeitet.  
+
+  Der Fehler bei einem ungültigen Ländercode wurde behoben. 
 
 ## 2.0.0.29
 
@@ -46,20 +56,20 @@ Download [Installer 2.0.0.29](https://github.com/cobra-computer-s-brainware-AG/E
 
 ## 2.0.0.18 Beta 
 
-* ### NEU: E-Rechnung Datei Export  
+* ### NEU: E-Rechnung-Dateiexport  
   Neu können in `cobra One GROW` und `cobra One MAX` Rechnungen exportiert werden.
 
 * ### NEU: Erweiterte Filterfunktion
-  In den Einstellungen unter `Filter` stehen neu Erweiterte Filterfunktion zur verfügung. 
+  In den Einstellungen unter `Filter` stehen neu erweiterte Filterfunktionen zur Verfügung. 
 
 * ### Bugfixes und Diverse
-  Fehlendes Sprachpaket wurde im `ClientSetup.64.V2` ergänzt.
+  Das fehlende Sprachpaket wurde im `ClientSetup.64.V2` ergänzt.
 
-  Warenwert wurde in der Word-Vorlage ergänzt. [#163](https://www.cobrapartner.eu/Forum/Partnerforum76/netto-mit-zu-und-abschlgen-wird-falsch-berechnet_topic26346.html)
+  Der Warenwert wurde in der Word-Vorlage ergänzt. [#163](https://www.cobrapartner.eu/Forum/Partnerforum76/netto-mit-zu-und-abschlgen-wird-falsch-berechnet_topic26346.html)
 
-  Der Beschreibungstext für Handelsregisternummer wurde korriigert. [#158](https://www.cobrapartner.eu/Forum/Partnerforum76/erechnung-validierungsprobleme_topic26306.html)
+  Der Beschreibungstext für die Handelsregisternummer wurde korrigiert. [#158](https://www.cobrapartner.eu/Forum/Partnerforum76/erechnung-validierungsprobleme_topic26306.html)
 
-  Handelsregisternummer für Käufer wurde ergänzt. [#159](https://www.cobrapartner.eu/Forum/Partnerforum76/erechnung-validierungsprobleme_topic26306.html)
+  Die Handelsregisternummer für den Käufer wurde ergänzt. [#159](https://www.cobrapartner.eu/Forum/Partnerforum76/erechnung-validierungsprobleme_topic26306.html)
 
   Vor der Erstellung der Datenbankstruktur wird nun die Anzahl der Tabellen geprüft. [#146](https://www.cobrapartner.eu/Forum/Partnerforum76/anzahl-additionals-bei-installation-erechnungen_topic26223.html)
 
@@ -67,16 +77,16 @@ Download [Installer 2.0.0.29](https://github.com/cobra-computer-s-brainware-AG/E
 ## 2.0.0.16 Beta 
 
 * ### NEU: Handelsregisternummer  
-  In den Einstellungen unter `Verkäufer` kann das Handelsregisternummer konfiguriert.
+  In den Einstellungen unter `Verkäufer` kann die Handelsregisternummer konfiguriert werden.
 
  
 
 ## 2.0.0.15 Beta 
 
 * ### Bugfixes und Diverse
-  Der Gutschrift fehler wurde korrigiert. [#160](https://www.cobrapartner.eu/Forum/Partnerforum76/gutschriften-und-mahnwesen-geplant_topic26190.html)
+  Der Fehler bei Gutschriften wurde korrigiert. [#160](https://www.cobrapartner.eu/Forum/Partnerforum76/gutschriften-und-mahnwesen-geplant_topic26190.html)
 
-  Die Version 1.1.4.2 wurde zusammengefürht. 
+  Die Version 1.1.4.2 wurde zusammengeführt. 
   
 
 ## 2.0.0.14 Beta 
@@ -84,13 +94,13 @@ Download [Installer 2.0.0.29](https://github.com/cobra-computer-s-brainware-AG/E
 * ### Bugfixes und Diverse
   Der Viewer ist jetzt mit 2025 R4 kompatibel.
 
-  Storno und Gutschriften werden jetzt Negativ mit Systemplatzhalter angezeigt.
+  Storno und Gutschriften werden jetzt negativ mit Systemplatzhalter angezeigt.
   
-  CAMT.053 Import wurde zurückgestellt.
+  Der CAMT.053-Import wurde zurückgestellt.
 
   Vor der ersten Generierung wird neu abgefragt, ob eine Steuerpflicht besteht, um den USt.-Satz in Prozent zu konfigurieren.
 
-  Der default Kontakteintrag wurde mit Rechnungstyp erweitert. 
+  Der Standard-Kontakteintrag wurde um den Rechnungstyp erweitert. 
 
 ## 2.0.0.11 Beta
 
@@ -113,7 +123,7 @@ Download [Installer 2.0.0.29](https://github.com/cobra-computer-s-brainware-AG/E
 ## 1.1.4.1
 
 * ### NEU: Die E-Rechnung-Erweiterung ist auch mit `cobra Classic 2026 R1` kompatibel.
-  In der Version 2026 erhalten die Icons im Menuband einen neuen Look.
+  In der Version 2026 erhalten die Icons im Menüband einen neuen Look.
 
   
 ## 1.1.4.0
@@ -124,20 +134,20 @@ Download [Installer 2.0.0.29](https://github.com/cobra-computer-s-brainware-AG/E
 * ### Bugfixes und Diverse
   Die Benutzereinstellungen für den ZIP-Export werden jetzt gespeichert. [`#141`](https://www.cobrapartner.eu/Forum/Partnerforum76/_topic26142.html)
  
-  Der Update fehler mit dem Filter `Letzte Serienrechnung` wurde korrigiert. [`#147`](https://www.cobrapartner.eu/Forum/Partnerforum76/_topic26141.html)
+  Der Update-Fehler mit dem Filter `Letzte Serienrechnung` wurde korrigiert. [`#147`](https://www.cobrapartner.eu/Forum/Partnerforum76/_topic26141.html)
   
-  Der fehlerhafte System Platzhalter `Kontoinhaber` würde ergänzt. [`#148`](https://www.cobrapartner.eu/Forum/Partnerforum76/_topic26251.html)
+  Der fehlende Systemplatzhalter `Kontoinhaber` wurde ergänzt. [`#148`](https://www.cobrapartner.eu/Forum/Partnerforum76/_topic26251.html)
   
 ## 1.1.3.87
 
-* ### NEU: cobra Bilder  
-  Mit dem Suffix `IMAGE#` können cobra Bilder in die Hauptvorlage eingebunden werden.  
+* ### NEU: cobra-Bilder  
+  Mit dem Suffix `IMAGE#` können cobra-Bilder in die Hauptvorlage eingebunden werden.  
   Optional lässt sich die Bildgrösse nach dem Hashtag in Zentimetern angeben, z. B. `{E-Rechnung.IMAGE#15x10,5}` oder `{E-Rechnung.IMAGE#}`. `#142`  
 
 ## 1.1.3.86
 
 * ### NEU: Handelsregisternummer  
-  In den Einstellungen unter `Käufer` kann nun das Handelsregisternummer konfiguriert.
+  In den Einstellungen unter `Käufer` kann nun die Handelsregisternummer konfiguriert werden.
 
 * ### Bugfixes und Diverse
   Bereits verwendete Felder werden in den Einstellungen nicht mehr angezeigt.
@@ -162,12 +172,12 @@ Download [Installer 2.0.0.29](https://github.com/cobra-computer-s-brainware-AG/E
 
 ## 1.1.3.80
 
-* ### NEU: E-Rechnung ZIP Export
+* ### NEU: E-Rechnung ZIP-Export
   Neu können die E-Rechnungen als ZIP exportiert werden, um sie als Bündel Ihrem Steuerberater zu übergeben. `#129`    
-  [ZIP Export](https://e-rechnung.cobra-hilfe.de/docs/Zip)
+  [ZIP-Export](https://e-rechnung.cobra-hilfe.de/docs/Zip)
 
 * ### Bugfixes und Diverse
-  Die Unterstützung der cobra Version `2023` wurde eingestellt für E-Rechnung-Erweiterung.
+  Die Unterstützung der cobra-Version `2023` wurde für die E-Rechnung-Erweiterung eingestellt.
 
   Der Anzeigefehler der Mengenanzeige im XViewer wurde behoben. `#133`
 
@@ -177,7 +187,7 @@ Download [Installer 2.0.0.29](https://github.com/cobra-computer-s-brainware-AG/E
   Neu werden die Formate in alphabetischer Reihenfolge angezeigt. 
 
 * ### Bugfixes und Diverse
-  Der Fehler bei der MwSt.-Berechnung bei Abschläge wurde korrigiert. `#127`
+  Der Fehler bei der MwSt.-Berechnung bei Abschlägen wurde korrigiert. `#127`
 
   Der Fehler beim Ablegen von Dokumenten in Drittanbieter-DMS wurde korrigiert. `#131`
 
@@ -197,7 +207,7 @@ Download [Installer 2.0.0.29](https://github.com/cobra-computer-s-brainware-AG/E
   Die Fehlermeldung bei zu kurzer E-Mail für den Versand wurde überarbeitet. [`#124`](https://www.cobrapartner.eu/Forum/Partnerforum76/prfung-feldlnge-emailadressen_topic26082.html)
 
   Die Gläubiger-IBAN wurde in Schuldner-IBAN umbenannt, und der Gläubiger-BIC wurde entfernt.  
-  Für die Mandatsreferenz stehen neu die Felder der Adresse- und der E-Rechnung-Tabelle zur Verfügung.  
+  Für die Mandatsreferenz stehen neu die Felder der Adress- und der E-Rechnung-Tabelle zur Verfügung.  
   Der Fehler im Giro-QR-Code bei Lastschrift wurde behoben. [`#125`](https://www.cobrapartner.eu/Forum/Partnerforum76/feldauswahl-sepalastschrift_topic26086.html) 
 
   
@@ -207,19 +217,19 @@ Download [Installer 2.0.0.29](https://github.com/cobra-computer-s-brainware-AG/E
 * ### Bugfixes und Diverse
   Für `Einzelpreis` steht neu der Typ `Rechenfeld` zur Auswahl. `#112`
 
-  Der Filter Fehler bei Einzelrechnung wurde behoben. `#115`
+  Der Filterfehler bei Einzelrechnung wurde behoben. `#115`
   
-  Der Fehler mit Öffentlichen Gruppenkontakte wurde behoben. [#116](https://www.cobrapartner.eu/Forum/Partnerforum76/kontakteintrag-nicht-sichtbar_topic26077.html)
+  Der Fehler mit öffentlichen Gruppenkontakten wurde behoben. [#116](https://www.cobrapartner.eu/Forum/Partnerforum76/kontakteintrag-nicht-sichtbar_topic26077.html)
 
-  Der Fehler mit Eingebemaske in der Ansicht wurde behoben. [#118](https://www.cobrapartner.eu/Forum/Partnerforum76/menpunkt-einzelrechnung-verliert-datensatzfokus_topic26071.html)
+  Der Fehler mit der Eingabemaske in der Ansicht wurde behoben. [#118](https://www.cobrapartner.eu/Forum/Partnerforum76/menpunkt-einzelrechnung-verliert-datensatzfokus_topic26071.html)
   
-  Im Viewer wurde der ZUGFeRD-Dateinamen korrigiert.
+  Im Viewer wurde der ZUGFeRD-Dateiname korrigiert.
   
   Im Viewer wurde ein neuer Disclaimer hinzugefügt. 
   
   Die Darstellung der Angaben zu personenbezogenen Daten wurde korrigiert.
  
-  Performance Optimierungen.
+  Performance-Optimierungen.
 
 ## 1.1.3.4
 
@@ -230,17 +240,17 @@ Download [Installer 2.0.0.29](https://github.com/cobra-computer-s-brainware-AG/E
 
 * ### Bugfixes und Diverse
 
-  Update Suchen wurde überarbeitet.
+  Die Update-Suche wurde überarbeitet.
    
   
 ## RC 1 Patch 3.3
 
-* ### NEU: Automatisch nach Update Suchen
+* ### NEU: Automatisch nach Updates suchen
   Um stets die neuesten Features und Sicherheitsverbesserungen nutzen zu können, werden Sie in den Einstellungen einmalig nach der automatischen Updatesuche gefragt. `#109`
 
 * ### Bugfixes und Diverse
 
-  Bei der Meldung mit dem ISO-3166-1 alpha-2-Länderkürzel wird ein Hyperlink zur Cobra-Hilfe angezeigt. `#108`
+  Bei der Meldung mit dem ISO-3166-1-alpha-2-Länderkürzel wird ein Hyperlink zur cobra-Hilfe angezeigt. `#108`
 
   Die Update-Meldung wurde verständlicher formuliert. [#106](https://www.cobrapartner.eu/Forum/Partnerforum76/updatemeldung_topic26058.html)
   
@@ -260,13 +270,13 @@ Download [Installer 2.0.0.29](https://github.com/cobra-computer-s-brainware-AG/E
 
 ## RC 1 Patch 3.1
 
-* ### NEU: Weitere Kontakt Felder (CRM PRO/BI)
+* ### NEU: Weitere Kontaktfelder (CRM PRO/BI)
   In den Einstellungen unter `Kontakteintrag` können weitere Kontaktfelder befüllt werden. Dieses Komfort-Feature steht ausschließlich CRM PRO/BI-Kunden zur Verfügung. `#54`     
-  [Weitere Kontakt Felder](/Erste-Schritte/Erweiterte_Einstellungen.md#weitere-kontakt-felder)
+  [Weitere Kontaktfelder](/Erste-Schritte/Erweiterte_Einstellungen.md#weitere-kontakt-felder)
 
 * ### NEU: Konfigurierbare Steuerart
   In den Einstellungen unter `Position` oder `Zu- und Abschlag` kann die Steuerart einem Steuersatz zugewiesen werden. Nicht zugeordnete Steuersätze werden automatisch der Steuerart (S) zugewiesen. Der Steuersatz 0 wird der Steuerart (Z) zugeordnet. `#92`     
-  [Steuerart Konfigurieren](/Erste-Schritte/Erweiterte_Einstellungen.md#steuerart-konfigurieren)
+  [Steuerart konfigurieren](/Erste-Schritte/Erweiterte_Einstellungen.md#steuerart-konfigurieren)
 
 * ### NEU: Nach Update suchen
   Neu kann über die Schaltfläche `Update suchen` geprüft werden, ob eine neuere Version verfügbar ist. `#94`     
@@ -289,7 +299,7 @@ Download [Installer 2.0.0.29](https://github.com/cobra-computer-s-brainware-AG/E
 ## RC 1 Patch 2
 
 * ### NEU: cobra-hilfe.de
-  Die komplette Anleitung findet Sie neu unter: https://e-rechnung.cobra-hilfe.de
+  Die komplette Anleitung finden Sie neu unter: https://e-rechnung.cobra-hilfe.de
 
 * ### NEU: Disclaimer
   Der Disclaimer in den Einstellungen wurde überarbeitet, und zusätzlich wurde die Rechtschreibung korrigiert.
@@ -325,7 +335,7 @@ Download [Installer 2.0.0.29](https://github.com/cobra-computer-s-brainware-AG/E
 
   Wird in der `Zu- und Abschlagstabelle` kein Wert im Feld `Grundbetrag` angegeben, wird auch kein Wert ausgegeben. `#82`
 
-  Filter wird nicht in den Einstellungen angezeigt wurde behoben. `#88`
+  Der Fehler, dass der Filter nicht in den Einstellungen angezeigt wurde, wurde behoben. `#88`
   
 ## RC 1
 
@@ -334,7 +344,7 @@ Download [Installer 2.0.0.29](https://github.com/cobra-computer-s-brainware-AG/E
  
 * ### Bugfixes und Diverse
 
-  Vertragsnummer und Projektkennung fehlten im XRechnung. `#74` 
+  Vertragsnummer und Projektkennung fehlten in der XRechnung. `#74` 
 
   Beim Erstellen der Kopierregel kann der Vorgang abgebrochen werden. Falls die Kopierregel nicht erstellt werden kann, wird ein entsprechender Hinweis ausgegeben. `#72`
 
@@ -350,9 +360,9 @@ Download [Installer 2.0.0.29](https://github.com/cobra-computer-s-brainware-AG/E
 * ### NEU: Zugriffsbeschränkung für Einstellungen
   Die Einstellungen sind nur zugänglich, wenn der Benutzer über die Berechtigung für die Datenbankstruktur verfügt. `#60`
 
-* ### NEU: Zu- und Abschläg
-  Neu können Zu- und Abschläge auf Rechnungsebene hinzugefügt werden, wofür eine untergeordnete Tabelle zur Rechnung ergänzt wird. Für die Zu- und Abschläge stehen zudem neue Platzhalter in der Wordvorlage zur Verfügung. `#46`     
-  [Zu- und Abschläg](/Erste-Schritte/Allgemeines.md#zu--und-abschlag)
+* ### NEU: Zu- und Abschläge
+  Neu können Zu- und Abschläge auf Rechnungsebene hinzugefügt werden, wofür eine untergeordnete Tabelle zur Rechnung ergänzt wird. Für die Zu- und Abschläge stehen zudem neue Platzhalter in der Word-Vorlage zur Verfügung. `#46`     
+  [Zu- und Abschläge](/Erste-Schritte/Allgemeines.md#zu--und-abschlag)
 
 * ### NEU: Reverse-Charge
   Neu kann das Reverse-Charge-Verfahren (Umkehr der Steuerschuldnerschaft) sowohl in den `Positionen` als auch bei `Zu- und Abschlägen` angewendet werden. `#45`       
@@ -362,7 +372,7 @@ Download [Installer 2.0.0.29](https://github.com/cobra-computer-s-brainware-AG/E
   In den Einstellungen wurde `Allgemein` in `Rechnung` umbenannt.     
   [Rechnung](/Erste-Schritte/Einstellungen.md#Rechnung) 
 
-* ### NEU: E-Mail Feld auf Rechnung
+* ### NEU: E-Mail-Feld auf Rechnung
   Um die Rechnung einfacher an die E-Mail-Adresse des Käufers versenden zu können, wird ein neues E-Mail-Feld in der Rechnungstabelle benötigt.
   Beim Erstellen der Rechnung wird die E-Mail-Adresse des Käufers in dieses Feld kopiert.
   Dadurch wird die Konfiguration im Serien-E-Mailer für die Ziel-E-Mail-Adresse vereinfacht, und der Serien-E-Mail-Versand wird auch mit CRM PLUS kompatibel. `#58`      
@@ -374,15 +384,15 @@ Download [Installer 2.0.0.29](https://github.com/cobra-computer-s-brainware-AG/E
 
 * ### Bugfixes und Diverse
   
-  Die Texte für Nachlässe wurden Angepasst. `#59`
+  Die Texte für Nachlässe wurden angepasst. `#59`
 
   Die Positionen wurden im PDF nicht korrekt sortiert. `#61`
 
-  Das Laden des Datensatzes wurde Optimiert. `#63`
+  Das Laden des Datensatzes wurde optimiert. `#63`
 
   Leistungsdatum und Abrechnungszeitraum werden bei der Eingabe bereinigt, um unnötige Fehlermeldungen beim Speichern zu vermeiden. `#64`
 
-  Leerer Abrechnungszeitraum wird bei der Generierung besser validiert. `#65`
+  Ein leerer Abrechnungszeitraum wird bei der Generierung besser validiert. `#65`
 
   Allen Konfigurationsfeldern wurde ein Info-Button hinzugefügt.
 
@@ -399,17 +409,17 @@ Download [Installer 2.0.0.29](https://github.com/cobra-computer-s-brainware-AG/E
   Beim Speichern wird ein entsprechender Hinweistext in den Einstellungen angezeigt. 
 
 * ### NEU: USt-ID oder Steuernummer
-  In den Einstellungen unter `Verkäufer` ist es nicht mehr erforderlich, dass beide Werte vorhanden sind. `52`      
+  In den Einstellungen unter `Verkäufer` ist es nicht mehr erforderlich, dass beide Werte vorhanden sind. `#52`      
   [Verkäufer](/Erste-Schritte/Einstellungen.md#verkäufer) 
 
-* ### NEU: Einzelrechnung Aktueller Datensatz
+* ### NEU: Einzelrechnung aktueller Datensatz
   Eine Einzelrechnung kann nur noch für den aktuellen Datensatz erstellt werden.    
   [Einzelrechnung](/Erste-Schritte/Einzelrechnung.md)
 
-* ### NEU: Rechnungsstellung SEPA Lastschrift 
+* ### NEU: Rechnungsstellung SEPA-Lastschrift 
   In den Einstellungen unter `Zahlungsdaten` kann nun die SEPA-Lastschrift konfiguriert werden.
-  Bitte beachten Sie, dass die cobra E-Rechnung Erweiterung keine SEPA-Lastschriftmandate ausführt.
-  Die Erweiterung dient ausschließlich der elektronischen Rechnungsstellung und beinhaltet keine Funktionalität für das Einziehen von Zahlungen.`#38`       
+  Bitte beachten Sie, dass die cobra E-Rechnung-Erweiterung keine SEPA-Lastschriftmandate ausführt.
+  Die Erweiterung dient ausschließlich der elektronischen Rechnungsstellung und beinhaltet keine Funktionalität für das Einziehen von Zahlungen. `#38`       
   [Zahlungsdaten](/Erste-Schritte/Einstellungen.md#Zahlungsdaten)
 
 * ### NEU: Abrechnungszeitraum
@@ -426,17 +436,17 @@ Download [Installer 2.0.0.29](https://github.com/cobra-computer-s-brainware-AG/E
 
   Bessere Validierung der Platzhalter. `#41`
 
-  Der Ansprechpartner Button wurde in den Einstellungen optimiert. `#42`
+  Der Ansprechpartner-Button wurde in den Einstellungen optimiert. `#42`
 
-  Datensatz wird vor der Generierung aktualisiert. `#43`
+  Der Datensatz wird vor der Generierung aktualisiert. `#43`
 
   Der Viewer schließt sich, wenn keine XRechnung ausgewählt wurde. `#47`
 
-  Die Fenstergrösse bei Serienrechnung wird sich nicht mehr automatisch dem Inahlt anpassen. `#50`
+  Die Fenstergrösse bei Serienrechnung passt sich nicht mehr automatisch dem Inhalt an. `#50`
 
-  Filter Letzte Serienrechnung anpassung `#51`
+  Der Filter `Letzte Serienrechnung` wurde angepasst. `#51`
  
-  Validierung wird beim Speichern Optimiert. `#53`
+  Die Validierung beim Speichern wurde optimiert. `#53`
 
 
   
@@ -457,7 +467,7 @@ Download [Installer 2.0.0.29](https://github.com/cobra-computer-s-brainware-AG/E
   [Verkäufer](/Erste-Schritte/Einstellungen.md#verkäufer)
 
 * ### NEU: Weitere Systemplatzhalter
-  Neu können die Systemplatzhalter `{Steuernummer}` und `{Ansprechpartner}` in der Word-Vorlage verwendet werden. Somit sind alle Verkäufer Felder als Platzhalter verfügbar.   
+  Neu können die Systemplatzhalter `{Steuernummer}` und `{Ansprechpartner}` in der Word-Vorlage verwendet werden. Somit sind alle Verkäuferfelder als Platzhalter verfügbar.   
   [Platzhalter](/Erste-Schritte/Vorlage+Platzhalter.md#platzhalter)
  
 * ### Bugfixes und Diverse
@@ -488,12 +498,12 @@ Download [Installer 2.0.0.29](https://github.com/cobra-computer-s-brainware-AG/E
   [Käufer](/Erste-Schritte/Einstellungen.md#käufer)
 
 * ### NEU: Artikelstamm und Kopierregel
-  Ab CRM PRO kann bei der automatischen Datenbankgenerierung die Positionstabelle über ein Beziehungsfeld mit einer Artikeltabelle (Freientabelle) verknüpft werden.  
+  Ab CRM PRO kann bei der automatischen Datenbankgenerierung die Positionstabelle über ein Beziehungsfeld mit einer Artikeltabelle (freie Tabelle) verknüpft werden.  
   Optional kann eine einfache Kopierregel erstellt werden.  
   [automatische Generierung](/Erste-Schritte/Einstellungen.md#automatische-generierung)
 
 * ### Kontakteintrag
-  Der Kontakteintrag wird sowohl beim Käufer als auch bei der Rechnungsempfänger hinterlegt.
+  Der Kontakteintrag wird sowohl beim Käufer als auch beim Rechnungsempfänger hinterlegt.
  
 * ### Rechnungsnummer
   In den Einstellungen unter `Allgemein` kann nun auch ein virtuelles Feld für die Rechnungsnummer ausgewählt werden.
