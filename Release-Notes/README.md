@@ -3,9 +3,9 @@
 > [!TIP]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
-Download: [Installer](https://github.com/cobra-computer-s-brainware-AG/E-Rechnung/releases/download/v2.0.0.30/E-Rechnung.Installer.2.0.0.30.msi)
+Download: [Installer](https://github.com/cobra-computer-s-brainware-AG/E-Rechnung/releases/download/v2.0.0.31/E-Rechnung.Installer.2.0.0.31.msi)
 
-## 2.0.0.30
+## 2.0.0.31
 
 * ### NEU: Filter für Positionen sowie Zu- und Abschläge
   In den Einstellungen kann unter `Position` und `Zu- und Abschlag` neu ein freier Filter konfiguriert werden. [#CH-149](https://www.cobrapartner.eu/Forum/Partnerforum76/filter-rechnungspositionen_topic26399.html)
