@@ -3,9 +3,12 @@
 > [!TIP]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
-Download: [Installer](https://github.com/cobra-computer-s-brainware-AG/E-Rechnung/releases/download/v2.0.0.32/E-Rechnung.Installer.2.0.0.32.msi)
+Download: [Installer](https://github.com/cobra-computer-s-brainware-AG/E-Rechnung/releases/download/v2.0.0.33/E-Rechnung.Installer.2.0.0.33.msi)
 
-## 2.0.0.32
+## 2.0.0.33
+
+* ### NEU: Platzhalter in Textfeldern
+  Platzhalter können neu auch in Textfeldern der Vorlage verwendet werden.
 
 * ### NEU: Filter für Positionen sowie Zu- und Abschläge
   In den Einstellungen kann unter `Position` und `Zu- und Abschlag` neu ein freier Filter konfiguriert werden. [#CH-149](https://www.cobrapartner.eu/Forum/Partnerforum76/filter-rechnungspositionen_topic26399.html)
