@@ -3,7 +3,7 @@
 > [!TIP]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
-Download: [Installer](https://github.com/cobra-computer-s-brainware-AG/E-Rechnung/releases/download/v2.0.0.31/E-Rechnung.Installer.2.0.0.31.msi)
+Download: [Installer](https://github.com/cobra-computer-s-brainware-AG/E-Rechnung/releases/download/v2.0.0.32/E-Rechnung.Installer.2.0.0.32.msi)
 
 ## 2.0.0.32
 
