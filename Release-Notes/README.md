@@ -5,6 +5,13 @@
 
 Download: [Installer](https://github.com/cobra-computer-s-brainware-AG/E-Rechnung/releases/download/v2.0.0.33/E-Rechnung.Installer.2.0.0.33.msi)
 
+## 2.0.1.1
+* ### NEU: Einzelrechnung mit Verweis auf eine vorherige Rechnung
+  Sind die Felder `Ref. auf vorh. Rechnung` oder `Datum vorh. Rechnung` befüllt, kann bei der Einzelrechnung neu zwischen `Rechnung` und `Gutschrift` gewählt werden, z. B. für eine Schluss- oder Korrekturrechnung. In diesem Fall ist kein Rechnungstyp vorausgewählt.
+
+* ### Bugfixes und Diverse
+  Der Fehler beim Erstellen eines Stornos, wenn in den Einstellungen keine `Bemerkung` konfiguriert ist, wurde behoben. Für den Rechnungstyp `Storno` ist die `Bemerkung` in den Einstellungen unter `Rechnung` neu ein Pflichtfeld. Der Storno-Text wird zudem vor die bestehende Bemerkung der Rechnung gesetzt, statt diese zu ersetzen. Das Exportdatum der ursprünglichen Rechnung wird nicht mehr übernommen.
+  
 ## 2.0.1.0
 * ### NEU: Platzhalter für Zahlungsdaten und Verkäufer
   In den Einstellungen unter `Zahlungsdaten` und `Verkäufer` kann neu auch ein Platzhalter angegeben werden, z. B. `{IBAN1}` oder `{Superid.IBAN2}`. Der Wert wird bei der Erstellung aus dem Datensatz übernommen. #CH-148
