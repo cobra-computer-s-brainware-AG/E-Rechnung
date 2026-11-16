@@ -5,6 +5,15 @@
 
 Download: [Installer](https://github.com/cobra-computer-s-brainware-AG/E-Rechnung/releases/download/v2.0.0.33/E-Rechnung.Installer.2.0.0.33.msi)
 
+## 2.0.1.2
+* ### NEU: Stornierte Rechnungen erkennbar
+  Nach einem Storno erhält die Originalrechnung neu den Rechnungstyp `Rechnung/Storno`. Bestehende Rechnungen mit Storno werden beim Update automatisch angepasst. #CH-202
+
+* ### Bugfixes und Diverse
+  Ein Storno erhält neu das aktuelle Datum als Rechnungsdatum. #CH-201
+
+  Der Absturz beim Storno, wenn keine `Rechnungsnummer` zugeordnet ist, wurde behoben. #CH-204
+
 ## 2.0.1.1
 * ### NEU: Einzelrechnung mit Verweis auf eine vorherige Rechnung
   Sind die Felder `Ref. auf vorh. Rechnung` oder `Datum vorh. Rechnung` befüllt, kann bei der Einzelrechnung neu zwischen `Rechnung` und `Gutschrift` gewählt werden, z. B. für eine Schluss- oder Korrekturrechnung. In diesem Fall ist kein Rechnungstyp vorausgewählt.
