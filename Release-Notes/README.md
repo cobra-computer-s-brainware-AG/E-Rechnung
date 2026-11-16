@@ -5,6 +5,26 @@
 
 Download: [Installer](https://github.com/cobra-computer-s-brainware-AG/E-Rechnung/releases/download/v2.0.0.33/E-Rechnung.Installer.2.0.0.33.msi)
 
+## 2.0.1.0
+* ### NEU: Platzhalter für Zahlungsdaten und Verkäufer
+  In den Einstellungen unter `Zahlungsdaten` und `Verkäufer` kann neu auch ein Platzhalter angegeben werden, z. B. `{IBAN1}` oder `{Superid.IBAN2}`. Der Wert wird bei der Erstellung aus dem Datensatz übernommen. #CH-148
+  > Die genauen Feldnamen entnehmen Sie der Datenbankstruktur oder erfragen sie bei Ihrem cobra-Systemadministrator.
+
+* ### NEU: Prüfung von IBAN und BIC
+  IBAN und BIC werden neu auf Format und Prüfziffer validiert.
+
+* ### NEU: Automatische Update-Suche
+  Die Update-Einstellung wird neu zentral gespeichert. Wer die Suche abgelehnt hat, wird erst nach einem Versionswechsel oder nach 90 Tagen ohne Update-Suche erneut gefragt.
+
+* ### Bugfixes und Diverse
+  Der Absturz von cobra beim Öffnen der Einstellungen, wenn die Rechnungstabelle eines Formats nicht vorhanden ist, wurde behoben. #CH-189
+
+  Der Fehler bei der Einzelrechnung, wenn ein Datensatz nicht den Filterkriterien entspricht, wurde behoben. #CH-188
+
+  Die Anzeige der Fehleranzahl (Badges) in den Einstellungen wurde überarbeitet.
+
+  Die Stabilität der Einstellungen wurde verbessert.
+
 ## 2.0.0.33
 
 * ### NEU: Platzhalter in Textfeldern
