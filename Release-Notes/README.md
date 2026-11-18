@@ -5,6 +5,18 @@
 
 Download: [Installer](https://github.com/cobra-computer-s-brainware-AG/E-Rechnung/releases/download/v2.0.0.33/E-Rechnung.Installer.2.0.0.33.msi)
 
+## 2.0.1.3
+* ### NEU: Zahlungsart per Filter
+  Bei `SEPA-Lastschrift` kann neu ein Filter gesetzt werden. Passende Rechnungen werden per SEPA-Lastschrift erstellt, alle anderen als Überweisung. #CH-205
+
+* ### NEU: Platzhalter `{Anzahlung}` und `{Zahlbetrag}`
+  Neue Platzhalter für die Word-Vorlage. Der QR-Code verwendet neu den Zahlbetrag. #CH-207
+
+* ### Bugfixes und Diverse
+  Beim Storno wird die Anzahlung neu korrekt abgezogen. Bei Gutschrift, Storno oder Zahlbetrag 0 wird kein QR-Code mehr ausgegeben. #CH-207
+
+  Die Felder im `Kontakteintrag` werden neu fest angezeigt und sind durchsuchbar.
+
 ## 2.0.1.2
 * ### NEU: Stornierte Rechnungen erkennbar
   Nach einem Storno erhält die Originalrechnung neu den Rechnungstyp `Rechnung/Storno`. Bestehende Rechnungen mit Storno werden beim Update automatisch angepasst. #CH-202
