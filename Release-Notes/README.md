@@ -3,7 +3,68 @@
 > [!TIP]
 > Die Anleitung für das Update finden Sie [hier](https://e-rechnung.cobra-hilfe.de/docs/Update)
 
-Download: [Installer](https://github.com/cobra-computer-s-brainware-AG/E-Rechnung/releases/download/v2.0.0.33/E-Rechnung.Installer.2.0.0.33.msi)
+Download: [Installer](https://github.com/cobra-computer-s-brainware-AG/E-Rechnung/releases)
+
+## 2.0.1.4
+* ### NEU: Platzhalter `{Rechnungstyp}`
+  Der neue Systemplatzhalter gibt `Rechnung`, `Storno` oder `Gutschrift` aus und kann in der Vorlage und im Kontakteintrag verwendet werden.
+
+* ### Bugfixes und Diverse
+  Die Einstellungen werden schneller geladen und gespeichert.
+
+  Die Platzhalter im Kontakteintrag werden vor der Erstellung geprüft.
+
+  Die Berechnung und Ausgabe der Umsatzsteuer, von Storno und Gutschrift sowie von Zu- und Abschlägen wurde korrigiert.
+
+  Der Viewer, das Client-Setup und diverse Meldungen wurden verbessert.
+
+## 2.0.1.3
+* ### NEU: Zahlungsart per Filter
+  Bei `SEPA-Lastschrift` kann neu ein Filter gesetzt werden. Passende Rechnungen werden per SEPA-Lastschrift erstellt, alle anderen als Überweisung. #CH-205
+
+* ### NEU: Platzhalter `{Anzahlung}` und `{Zahlbetrag}`
+  Neue Platzhalter für die Word-Vorlage. Der QR-Code verwendet neu den Zahlbetrag. #CH-207
+
+* ### Bugfixes und Diverse
+  Beim Storno wird die Anzahlung neu korrekt abgezogen. Bei Gutschrift, Storno oder Zahlbetrag 0 wird kein QR-Code mehr ausgegeben. #CH-207
+
+  Die Felder im `Kontakteintrag` werden neu fest angezeigt und sind durchsuchbar.
+
+## 2.0.1.2
+* ### NEU: Stornierte Rechnungen erkennbar
+  Nach einem Storno erhält die Originalrechnung neu den Rechnungstyp `Rechnung/Storno`. Bestehende Rechnungen mit Storno werden beim Update automatisch angepasst. #CH-202
+
+* ### Bugfixes und Diverse
+  Ein Storno erhält neu das aktuelle Datum als Rechnungsdatum. #CH-201
+
+  Der Absturz beim Storno, wenn keine `Rechnungsnummer` zugeordnet ist, wurde behoben. #CH-204
+
+## 2.0.1.1
+* ### NEU: Einzelrechnung mit Verweis auf eine vorherige Rechnung
+  Sind die Felder `Ref. auf vorh. Rechnung` oder `Datum vorh. Rechnung` befüllt, kann bei der Einzelrechnung neu zwischen `Rechnung` und `Gutschrift` gewählt werden, z. B. für eine Schluss- oder Korrekturrechnung. In diesem Fall ist kein Rechnungstyp vorausgewählt.
+
+* ### Bugfixes und Diverse
+  Der Fehler beim Erstellen eines Stornos, wenn in den Einstellungen keine `Bemerkung` konfiguriert ist, wurde behoben. Für den Rechnungstyp `Storno` ist die `Bemerkung` in den Einstellungen unter `Rechnung` neu ein Pflichtfeld. Der Storno-Text wird zudem vor die bestehende Bemerkung der Rechnung gesetzt, statt diese zu ersetzen. Das Exportdatum der ursprünglichen Rechnung wird nicht mehr übernommen.
+  
+## 2.0.1.0
+* ### NEU: Platzhalter für Zahlungsdaten und Verkäufer
+  In den Einstellungen unter `Zahlungsdaten` und `Verkäufer` kann neu auch ein Platzhalter angegeben werden, z. B. `{IBAN1}` oder `{Superid.IBAN2}`. Der Wert wird bei der Erstellung aus dem Datensatz übernommen. #CH-148
+  > Die genauen Feldnamen entnehmen Sie der Datenbankstruktur oder erfragen sie bei Ihrem cobra-Systemadministrator.
+
+* ### NEU: Prüfung von IBAN und BIC
+  IBAN und BIC werden neu auf Format und Prüfziffer validiert.
+
+* ### NEU: Automatische Update-Suche
+  Die Update-Einstellung wird neu zentral gespeichert. Wer die Suche abgelehnt hat, wird erst nach einem Versionswechsel oder nach 90 Tagen ohne Update-Suche erneut gefragt.
+
+* ### Bugfixes und Diverse
+  Der Absturz von cobra beim Öffnen der Einstellungen, wenn die Rechnungstabelle eines Formats nicht vorhanden ist, wurde behoben. #CH-189
+
+  Der Fehler bei der Einzelrechnung, wenn ein Datensatz nicht den Filterkriterien entspricht, wurde behoben. #CH-188
+
+  Die Anzeige der Fehleranzahl (Badges) in den Einstellungen wurde überarbeitet.
+
+  Die Stabilität der Einstellungen wurde verbessert.
 
 ## 2.0.0.33
 
