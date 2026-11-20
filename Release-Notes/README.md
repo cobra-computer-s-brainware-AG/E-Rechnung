@@ -5,6 +5,19 @@
 
 Download: [Installer](https://github.com/cobra-computer-s-brainware-AG/E-Rechnung/releases)
 
+## 2.0.1.4
+* ### NEU: Platzhalter `{Rechnungstyp}`
+  Der neue Systemplatzhalter gibt `Rechnung`, `Storno` oder `Gutschrift` aus und kann in der Vorlage und im Kontakteintrag verwendet werden.
+
+* ### Bugfixes und Diverse
+  Die Einstellungen werden schneller geladen und gespeichert.
+
+  Die Platzhalter im Kontakteintrag werden vor der Erstellung geprüft.
+
+  Die Berechnung und Ausgabe der Umsatzsteuer, von Storno und Gutschrift sowie von Zu- und Abschlägen wurde korrigiert.
+
+  Der Viewer, das Client-Setup und diverse Meldungen wurden verbessert.
+
 ## 2.0.1.3
 * ### NEU: Zahlungsart per Filter
   Bei `SEPA-Lastschrift` kann neu ein Filter gesetzt werden. Passende Rechnungen werden per SEPA-Lastschrift erstellt, alle anderen als Überweisung. #CH-205
